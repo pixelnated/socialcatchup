@@ -17,6 +17,7 @@ from datetime import UTC, datetime
 from html import escape
 from pathlib import Path
 from typing import Any
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import urlopen
 
@@ -103,9 +104,50 @@ def youtube_search_request(api_key: str, query: str, max_results: int, page_toke
 
     url = f"{YOUTUBE_SEARCH_ENDPOINT}?{urlencode(params)}"
 
-    with urlopen(url, timeout=30) as response:
-        body = response.read().decode("utf-8")
-    return json.loads(body)
+    try:
+        with urlopen(url, timeout=30) as response:
+            body = response.read().decode("utf-8")
+        return json.loads(body)
+    except HTTPError as exc:
+        # Preserve API-provided details to make CI failures actionable.
+        error_body = exc.read().decode("utf-8", errors="replace")
+        message = build_youtube_http_error_message(exc.code, error_body)
+        raise RuntimeError(message) from exc
+    except URLError as exc:
+        raise RuntimeError(f"Network error while calling YouTube API: {exc}") from exc
+
+
+def build_youtube_http_error_message(status_code: int, response_body: str) -> str:
+    """Build a readable failure message from YouTube API HTTP errors."""
+
+    fallback = f"YouTube API request failed with status {status_code}. Raw response: {response_body}"
+    try:
+        payload = json.loads(response_body)
+    except json.JSONDecodeError:
+        return fallback
+
+    error = payload.get("error", {})
+    error_message = error.get("message", "Unknown YouTube API error")
+    reasons: list[str] = []
+    for item in error.get("errors", []):
+        reason = item.get("reason")
+        if reason:
+            reasons.append(reason)
+
+    reason_text = ", ".join(sorted(set(reasons))) if reasons else "unknown_reason"
+
+    hints: list[str] = []
+    if any(reason in {"forbidden", "accessNotConfigured", "ipRefererBlocked"} for reason in reasons):
+        hints.append(
+            "Check Google Cloud key restrictions: for GitHub Actions use an API key with API restriction to YouTube Data API v3 and no HTTP referrer restriction."
+        )
+    if any(reason in {"keyInvalid", "badRequest"} for reason in reasons):
+        hints.append("Verify the YOUTUBE_API_KEY secret value is correct and not truncated.")
+    if any(reason in {"quotaExceeded", "dailyLimitExceeded"} for reason in reasons):
+        hints.append("YouTube API quota is exceeded. Wait for reset or request more quota.")
+
+    hint_text = f" Hints: {' | '.join(hints)}" if hints else ""
+    return f"YouTube API error (status {status_code}, reasons: {reason_text}): {error_message}.{hint_text}"
 
 
 def normalize_result(item: dict[str, Any]) -> VideoResult | None:
@@ -310,7 +352,10 @@ def main() -> int:
         raise SystemExit("max_results must be at least 1.")
 
     fetched_at_utc = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
-    videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
+    try:
+        videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
+    except RuntimeError as exc:
+        raise SystemExit(str(exc)) from exc
 
     payload = {
         "platform": "youtube",
