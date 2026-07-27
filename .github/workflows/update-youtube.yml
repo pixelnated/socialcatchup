@@ -28,7 +28,9 @@ jobs:
       - name: Fetch latest YouTube results and build pages
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python scripts/update_youtube.py
+          LOG_LEVEL: INFO
+          PYTHONUNBUFFERED: "1"
+        run: python -u scripts/update_youtube.py
 
       - name: Commit and push if changed
         run: |

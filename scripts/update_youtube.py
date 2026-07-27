@@ -11,6 +11,7 @@ This script is designed for GitHub Actions + GitHub Pages:
 from __future__ import annotations
 
 import json
+import logging
 import os
 from dataclasses import dataclass
 from datetime import UTC, datetime
@@ -24,6 +25,18 @@ from urllib.request import urlopen
 
 YOUTUBE_SEARCH_ENDPOINT = "https://www.googleapis.com/youtube/v3/search"
 YOUTUBE_PLAYLISTS_ENDPOINT = "https://www.googleapis.com/youtube/v3/playlists"
+LOGGER = logging.getLogger("socialcatchup.youtube")
+
+
+def configure_logging() -> None:
+    """Configure script logging with environment-controlled verbosity."""
+
+    level_name = os.getenv("LOG_LEVEL", "INFO").strip().upper()
+    level = getattr(logging, level_name, logging.INFO)
+    logging.basicConfig(
+        level=level,
+        format="%(asctime)s %(levelname)s %(name)s: %(message)s",
+    )
 
 
 def load_env_file(path: Path) -> None:
@@ -131,6 +144,12 @@ def youtube_search_request(
         params["pageToken"] = page_token
 
     url = f"{YOUTUBE_SEARCH_ENDPOINT}?{urlencode(params)}"
+    LOGGER.debug(
+        "youtube.search request type=%s max_results=%s has_page_token=%s",
+        result_type,
+        max_results,
+        bool(page_token),
+    )
 
     try:
         with urlopen(url, timeout=30) as response:
@@ -140,9 +159,13 @@ def youtube_search_request(
         # Preserve API-provided details to make CI failures actionable.
         error_body = exc.read().decode("utf-8", errors="replace")
         message = build_youtube_http_error_message(exc.code, error_body)
-        raise RuntimeError(message) from exc
+        raise RuntimeError(
+            f"YouTube search request failed (type={result_type}, has_page_token={bool(page_token)}): {message}"
+        ) from exc
     except URLError as exc:
-        raise RuntimeError(f"Network error while calling YouTube API: {exc}") from exc
+        raise RuntimeError(
+            f"Network error while calling YouTube search API (type={result_type}, has_page_token={bool(page_token)}): {exc}"
+        ) from exc
 
 
 def youtube_playlists_request(api_key: str, playlist_ids: list[str]) -> dict[str, Any]:
@@ -155,6 +178,7 @@ def youtube_playlists_request(api_key: str, playlist_ids: list[str]) -> dict[str
         "key": api_key,
     }
     url = f"{YOUTUBE_PLAYLISTS_ENDPOINT}?{urlencode(params)}"
+    LOGGER.debug("youtube.playlists request batch_size=%s", len(playlist_ids))
 
     try:
         with urlopen(url, timeout=30) as response:
@@ -163,9 +187,13 @@ def youtube_playlists_request(api_key: str, playlist_ids: list[str]) -> dict[str
     except HTTPError as exc:
         error_body = exc.read().decode("utf-8", errors="replace")
         message = build_youtube_http_error_message(exc.code, error_body)
-        raise RuntimeError(message) from exc
+        raise RuntimeError(
+            f"YouTube playlists details request failed (batch_size={len(playlist_ids)}): {message}"
+        ) from exc
     except URLError as exc:
-        raise RuntimeError(f"Network error while calling YouTube API: {exc}") from exc
+        raise RuntimeError(
+            f"Network error while calling YouTube playlists details API (batch_size={len(playlist_ids)}): {exc}"
+        ) from exc
 
 
 def build_youtube_http_error_message(status_code: int, response_body: str) -> str:
@@ -255,6 +283,12 @@ def fetch_playlist_video_counts(api_key: str, playlist_ids: list[str]) -> dict[s
 
     for start in range(0, len(playlist_ids), 50):
         batch = playlist_ids[start : start + 50]
+        LOGGER.info(
+            "Fetching playlist video counts batch %s-%s of %s",
+            start + 1,
+            min(start + len(batch), len(playlist_ids)),
+            len(playlist_ids),
+        )
         payload = youtube_playlists_request(api_key=api_key, playlist_ids=batch)
         for item in payload.get("items", []):
             playlist_id = item.get("id", "")
@@ -275,9 +309,18 @@ def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[Vid
     videos: list[VideoResult] = []
     seen_ids: set[str] = set()
     page_token: str | None = None
+    page_number = 0
 
     while len(videos) < target_count:
+        page_number += 1
         page_size = min(50, target_count - len(videos))
+        LOGGER.info(
+            "Fetching video page %s (current=%s target=%s request_size=%s)",
+            page_number,
+            len(videos),
+            target_count,
+            page_size,
+        )
         payload = youtube_search_request(
             api_key=api_key,
             query=query,
@@ -286,6 +329,7 @@ def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[Vid
             result_type="video",
         )
         items = payload.get("items", [])
+        LOGGER.debug("Video page %s returned %s raw items", page_number, len(items))
 
         for item in items:
             normalized = normalize_video_result(item)
@@ -305,6 +349,7 @@ def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[Vid
             break
 
     videos.sort(key=lambda video: video.published_at, reverse=True)
+    LOGGER.info("Fetched %s videos total", len(videos))
     return videos
 
 
@@ -314,9 +359,18 @@ def fetch_latest_playlists(api_key: str, query: str, target_count: int) -> list[
     playlists: list[PlaylistResult] = []
     seen_ids: set[str] = set()
     page_token: str | None = None
+    page_number = 0
 
     while len(playlists) < target_count:
+        page_number += 1
         page_size = min(50, target_count - len(playlists))
+        LOGGER.info(
+            "Fetching playlist page %s (current=%s target=%s request_size=%s)",
+            page_number,
+            len(playlists),
+            target_count,
+            page_size,
+        )
         payload = youtube_search_request(
             api_key=api_key,
             query=query,
@@ -325,6 +379,7 @@ def fetch_latest_playlists(api_key: str, query: str, target_count: int) -> list[
             result_type="playlist",
         )
         items = payload.get("items", [])
+        LOGGER.debug("Playlist page %s returned %s raw items", page_number, len(items))
 
         for item in items:
             normalized = normalize_playlist_result(item)
@@ -365,6 +420,7 @@ def fetch_latest_playlists(api_key: str, query: str, target_count: int) -> list[
             )
         )
 
+    LOGGER.info("Fetched %s playlists total", len(playlists_with_counts))
     return playlists_with_counts
 
 
@@ -858,12 +914,18 @@ def ensure_static_files(docs_dir: Path) -> None:
 def main() -> int:
     """Run fetch + render workflow for YouTube video and playlist results."""
 
+    configure_logging()
+
     root = Path(__file__).resolve().parents[1]
     load_env_file(root / ".env")
     config_path = root / "config" / "searches.json"
     videos_data_path = root / "data" / "youtube_latest.json"
     playlists_data_path = root / "data" / "youtube_playlists_latest.json"
     docs_dir = root / "docs"
+
+    LOGGER.info("Starting YouTube sync")
+    LOGGER.info("Using config file: %s", config_path)
+    LOGGER.info("Output targets: %s, %s, %s", videos_data_path, playlists_data_path, docs_dir)
 
     api_key = os.getenv("YOUTUBE_API_KEY", "").strip()
     if not api_key:
@@ -890,15 +952,15 @@ def main() -> int:
     fetched_at_now = datetime.now(UTC)
     fetched_at_utc = fetched_at_now.strftime("%Y-%m-%d %H:%M UTC")
     fetched_at_iso = fetched_at_now.replace(microsecond=0).isoformat().replace("+00:00", "Z")
-    try:
-        videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
-        playlists = fetch_latest_playlists(
-            api_key=api_key,
-            query=playlists_query,
-            target_count=playlists_max_results,
-        )
-    except RuntimeError as exc:
-        raise SystemExit(str(exc)) from exc
+    LOGGER.info("Requested video query: %s", query)
+    LOGGER.info("Requested playlist query: %s", playlists_query)
+    LOGGER.info("Target counts -> videos=%s playlists=%s", max_results, playlists_max_results)
+    videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
+    playlists = fetch_latest_playlists(
+        api_key=api_key,
+        query=playlists_query,
+        target_count=playlists_max_results,
+    )
 
     videos_payload = {
         "platform": "youtube",
@@ -922,6 +984,7 @@ def main() -> int:
     write_json(videos_data_path, videos_payload)
     write_json(playlists_data_path, playlists_payload)
     ensure_static_files(docs_dir)
+    LOGGER.info("Wrote JSON payloads")
 
     index_html = render_index_html(
         videos_fetch_utc=videos_payload.get("fetched_at_utc"),
@@ -949,9 +1012,17 @@ def main() -> int:
     (docs_dir / "youtube.html").write_text(youtube_html, encoding="utf-8")
     (docs_dir / "playlists.html").write_text(playlists_html, encoding="utf-8")
 
+    LOGGER.info("Wrote docs pages: index.html, youtube.html, playlists.html")
     print(f"Fetched {len(videos)} videos and {len(playlists)} playlists and generated docs pages.")
     return 0
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    configure_logging()
+    try:
+        raise SystemExit(main())
+    except SystemExit:
+        raise
+    except Exception:
+        LOGGER.exception("Unhandled failure during update_youtube.py run")
+        raise
