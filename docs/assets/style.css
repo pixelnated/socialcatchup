@@ -95,6 +95,10 @@ h2 {
   overflow: hidden;
 }
 
+.video-card[hidden] {
+  display: none !important;
+}
+
 .embed-wrap {
   position: relative;
   width: 100%;
