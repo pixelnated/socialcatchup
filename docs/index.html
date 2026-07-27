@@ -22,14 +22,63 @@
       <a class="card" href="youtube.html">
         <h2>YouTube Videos</h2>
         <p>Newest uploads for your configured keyword query, embedded and sorted newest to oldest.</p>
-                <p class="card-meta">Latest fetch: 2026-07-27 15:54 UTC | Results: 100</p>
+                <p class="card-meta">Latest fetch: <span class="js-time" data-time-iso="2026-07-27T16:02:55Z">2026-07-27 16:02 UTC</span> | Results: 100</p>
       </a>
       <a class="card" href="playlists.html">
         <h2>YouTube Playlists</h2>
         <p>Newest playlists matching your keyword query, shown with embedded playlist players and descriptions.</p>
-                <p class="card-meta">Latest fetch: 2026-07-27 15:54 UTC | Results: 50</p>
+                <p class="card-meta">Latest fetch: <span class="js-time" data-time-iso="2026-07-27T16:02:55Z">2026-07-27 16:02 UTC</span> | Results: 50</p>
       </a>
     </section>
   </main>
+    <script>
+(() => {
+    const formatRelative = (targetDate) => {
+        const deltaMs = Date.now() - targetDate.getTime();
+        const absMs = Math.abs(deltaMs);
+        const minute = 60 * 1000;
+        const hour = 60 * minute;
+        const day = 24 * hour;
+
+        const suffix = deltaMs >= 0 ? "ago" : "from now";
+        if (absMs < minute) {
+            return deltaMs >= 0 ? "just now" : "in under a minute";
+        }
+        if (absMs < hour) {
+            const value = Math.round(absMs / minute);
+            return `${value} minute${value === 1 ? "" : "s"} ${suffix}`;
+        }
+        if (absMs < day) {
+            const value = Math.round(absMs / hour);
+            return `${value} hour${value === 1 ? "" : "s"} ${suffix}`;
+        }
+
+        const value = Math.round(absMs / day);
+        return `${value} day${value === 1 ? "" : "s"} ${suffix}`;
+    };
+
+    const localFormatter = new Intl.DateTimeFormat(undefined, {
+        year: "numeric",
+        month: "short",
+        day: "2-digit",
+        hour: "numeric",
+        minute: "2-digit",
+    });
+
+    for (const element of document.querySelectorAll(".js-time[data-time-iso]")) {
+        const isoValue = element.getAttribute("data-time-iso");
+        if (!isoValue) {
+            continue;
+        }
+
+        const parsed = new Date(isoValue);
+        if (Number.isNaN(parsed.getTime())) {
+            continue;
+        }
+
+        element.textContent = `${localFormatter.format(parsed)} (${formatRelative(parsed)})`;
+    }
+})();
+</script>
 </body>
 </html>

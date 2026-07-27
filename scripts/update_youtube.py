@@ -19,10 +19,11 @@ import re
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlencode
+from urllib.parse import quote_plus, urlencode
 from urllib.request import urlopen
 
 YOUTUBE_SEARCH_ENDPOINT = "https://www.googleapis.com/youtube/v3/search"
+YOUTUBE_PLAYLISTS_ENDPOINT = "https://www.googleapis.com/youtube/v3/playlists"
 
 
 def load_env_file(path: Path) -> None:
@@ -82,6 +83,7 @@ class PlaylistResult:
     channel_title: str
     channel_id: str
     thumbnail_url: str
+    video_count: int | None
 
 
 def read_json(path: Path) -> dict[str, Any]:
@@ -136,6 +138,29 @@ def youtube_search_request(
         return json.loads(body)
     except HTTPError as exc:
         # Preserve API-provided details to make CI failures actionable.
+        error_body = exc.read().decode("utf-8", errors="replace")
+        message = build_youtube_http_error_message(exc.code, error_body)
+        raise RuntimeError(message) from exc
+    except URLError as exc:
+        raise RuntimeError(f"Network error while calling YouTube API: {exc}") from exc
+
+
+def youtube_playlists_request(api_key: str, playlist_ids: list[str]) -> dict[str, Any]:
+    """Fetch contentDetails for a batch of playlist IDs."""
+
+    params: dict[str, str] = {
+        "part": "contentDetails",
+        "id": ",".join(playlist_ids),
+        "maxResults": "50",
+        "key": api_key,
+    }
+    url = f"{YOUTUBE_PLAYLISTS_ENDPOINT}?{urlencode(params)}"
+
+    try:
+        with urlopen(url, timeout=30) as response:
+            body = response.read().decode("utf-8")
+        return json.loads(body)
+    except HTTPError as exc:
         error_body = exc.read().decode("utf-8", errors="replace")
         message = build_youtube_http_error_message(exc.code, error_body)
         raise RuntimeError(message) from exc
@@ -198,7 +223,7 @@ def normalize_video_result(item: dict[str, Any]) -> VideoResult | None:
     )
 
 
-def normalize_playlist_result(item: dict[str, Any]) -> PlaylistResult | None:
+def normalize_playlist_result(item: dict[str, Any], video_count: int | None = None) -> PlaylistResult | None:
     """Convert one YouTube API item into PlaylistResult, or None when incomplete."""
 
     playlist_id = item.get("id", {}).get("playlistId")
@@ -217,7 +242,31 @@ def normalize_playlist_result(item: dict[str, Any]) -> PlaylistResult | None:
         channel_title=snippet.get("channelTitle", ""),
         channel_id=snippet.get("channelId", ""),
         thumbnail_url=thumb.get("url", ""),
+        video_count=video_count,
     )
+
+
+def fetch_playlist_video_counts(api_key: str, playlist_ids: list[str]) -> dict[str, int]:
+    """Fetch per-playlist video counts using batched playlist details calls."""
+
+    counts: dict[str, int] = {}
+    if not playlist_ids:
+        return counts
+
+    for start in range(0, len(playlist_ids), 50):
+        batch = playlist_ids[start : start + 50]
+        payload = youtube_playlists_request(api_key=api_key, playlist_ids=batch)
+        for item in payload.get("items", []):
+            playlist_id = item.get("id", "")
+            count_value = item.get("contentDetails", {}).get("itemCount")
+            if not playlist_id or count_value is None:
+                continue
+            try:
+                counts[playlist_id] = int(count_value)
+            except (TypeError, ValueError):
+                continue
+
+    return counts
 
 
 def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[VideoResult]:
@@ -295,12 +344,35 @@ def fetch_latest_playlists(api_key: str, query: str, target_count: int) -> list[
             break
 
     playlists.sort(key=lambda playlist: playlist.published_at, reverse=True)
-    return playlists
+
+    counts_by_id = fetch_playlist_video_counts(
+        api_key=api_key,
+        playlist_ids=[playlist.playlist_id for playlist in playlists],
+    )
+
+    playlists_with_counts: list[PlaylistResult] = []
+    for playlist in playlists:
+        playlists_with_counts.append(
+            PlaylistResult(
+                playlist_id=playlist.playlist_id,
+                title=playlist.title,
+                description=playlist.description,
+                published_at=playlist.published_at,
+                channel_title=playlist.channel_title,
+                channel_id=playlist.channel_id,
+                thumbnail_url=playlist.thumbnail_url,
+                video_count=counts_by_id.get(playlist.playlist_id),
+            )
+        )
+
+    return playlists_with_counts
 
 
 def render_index_html(
     videos_fetch_utc: str | None,
+    videos_fetch_iso: str | None,
     playlists_fetch_utc: str | None,
+    playlists_fetch_iso: str | None,
     videos_count: int,
     playlists_count: int,
 ) -> str:
@@ -308,6 +380,8 @@ def render_index_html(
 
     videos_fetch_label = videos_fetch_utc or "No successful run yet"
     playlists_fetch_label = playlists_fetch_utc or "No successful run yet"
+    videos_fetch_iso_attr = escape(videos_fetch_iso or "")
+    playlists_fetch_iso_attr = escape(playlists_fetch_iso or "")
 
     return f"""<!doctype html>
 <html lang=\"en\">
@@ -333,15 +407,16 @@ def render_index_html(
       <a class=\"card\" href=\"youtube.html\">
         <h2>YouTube Videos</h2>
         <p>Newest uploads for your configured keyword query, embedded and sorted newest to oldest.</p>
-                <p class="card-meta">Latest fetch: {escape(videos_fetch_label)} | Results: {videos_count}</p>
+                <p class="card-meta">Latest fetch: <span class="js-time" data-time-iso="{videos_fetch_iso_attr}">{escape(videos_fetch_label)}</span> | Results: {videos_count}</p>
       </a>
       <a class=\"card\" href=\"playlists.html\">
         <h2>YouTube Playlists</h2>
         <p>Newest playlists matching your keyword query, shown with embedded playlist players and descriptions.</p>
-                <p class="card-meta">Latest fetch: {escape(playlists_fetch_label)} | Results: {playlists_count}</p>
+                <p class="card-meta">Latest fetch: <span class="js-time" data-time-iso="{playlists_fetch_iso_attr}">{escape(playlists_fetch_label)}</span> | Results: {playlists_count}</p>
       </a>
     </section>
   </main>
+    {render_time_localization_script()}
 </body>
 </html>
 """
@@ -357,6 +432,60 @@ def format_timestamp(iso_value: str) -> str:
         return parsed.astimezone(UTC).strftime("%Y-%m-%d %H:%M UTC")
     except ValueError:
         return iso_value
+
+
+def render_time_localization_script() -> str:
+        """Render script that converts UTC timestamps to local time with relative labels."""
+
+        return """<script>
+(() => {
+    const formatRelative = (targetDate) => {
+        const deltaMs = Date.now() - targetDate.getTime();
+        const absMs = Math.abs(deltaMs);
+        const minute = 60 * 1000;
+        const hour = 60 * minute;
+        const day = 24 * hour;
+
+        const suffix = deltaMs >= 0 ? "ago" : "from now";
+        if (absMs < minute) {
+            return deltaMs >= 0 ? "just now" : "in under a minute";
+        }
+        if (absMs < hour) {
+            const value = Math.round(absMs / minute);
+            return `${value} minute${value === 1 ? "" : "s"} ${suffix}`;
+        }
+        if (absMs < day) {
+            const value = Math.round(absMs / hour);
+            return `${value} hour${value === 1 ? "" : "s"} ${suffix}`;
+        }
+
+        const value = Math.round(absMs / day);
+        return `${value} day${value === 1 ? "" : "s"} ${suffix}`;
+    };
+
+    const localFormatter = new Intl.DateTimeFormat(undefined, {
+        year: "numeric",
+        month: "short",
+        day: "2-digit",
+        hour: "numeric",
+        minute: "2-digit",
+    });
+
+    for (const element of document.querySelectorAll(".js-time[data-time-iso]")) {
+        const isoValue = element.getAttribute("data-time-iso");
+        if (!isoValue) {
+            continue;
+        }
+
+        const parsed = new Date(isoValue);
+        if (Number.isNaN(parsed.getTime())) {
+            continue;
+        }
+
+        element.textContent = `${localFormatter.format(parsed)} (${formatRelative(parsed)})`;
+    }
+})();
+</script>"""
 
 
 def extract_search_tokens(text: str) -> set[str]:
@@ -411,10 +540,13 @@ def render_related_playlists(playlists: list[PlaylistResult]) -> str:
     if not playlists:
         return '<div class="related-playlists"><p class="related-playlists-label">Related playlists: none</p></div>'
 
-    items = "".join(
-        f'<li><a href="https://www.youtube.com/playlist?list={playlist.playlist_id}" target="_blank" rel="noopener noreferrer">{escape(playlist.title)}</a></li>'
-        for playlist in playlists
-    )
+    items = ""
+    for playlist in playlists:
+        count_suffix = f" ({playlist.video_count} videos)" if playlist.video_count is not None else ""
+        items += (
+            f'<li><a href="https://www.youtube.com/playlist?list={playlist.playlist_id}" target="_blank" rel="noopener noreferrer">'
+            f"{escape(playlist.title)}{escape(count_suffix)}</a></li>"
+        )
     return (
         '<div class="related-playlists">'
         '<p class="related-playlists-label">Related playlists</p>'
@@ -430,6 +562,7 @@ def render_video_card(video: VideoResult, related_playlists: list[PlaylistResult
     safe_description = escape(video.description).replace("\n", "<br>")
     safe_channel = escape(video.channel_title)
     published_label = escape(format_timestamp(video.published_at))
+    published_iso_attr = escape(video.published_at)
     watch_url = f"https://www.youtube.com/watch?v={video.video_id}"
     channel_url = f"https://www.youtube.com/channel/{video.channel_id}" if video.channel_id else "https://www.youtube.com"
     related_html = render_related_playlists(related_playlists)
@@ -449,7 +582,7 @@ def render_video_card(video: VideoResult, related_playlists: list[PlaylistResult
 
   <div class=\"video-content\">
     <h2><a href=\"{watch_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_title}</a></h2>
-    <p class=\"video-meta\">{published_label} | <a href=\"{channel_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_channel}</a></p>
+        <p class=\"video-meta\"><span class=\"js-time\" data-time-iso=\"{published_iso_attr}\">{published_label}</span> | <a href=\"{channel_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_channel}</a></p>
         {related_html}
         <p>{safe_description}</p>
   </div>
@@ -460,11 +593,13 @@ def render_video_card(video: VideoResult, related_playlists: list[PlaylistResult
 def render_youtube_html(
         query: str,
         fetched_at_utc: str,
+    fetched_at_iso: str,
         videos: list[VideoResult],
         playlists: list[PlaylistResult],
 ) -> str:
     """Render the YouTube results page with embeds and descriptions."""
 
+    search_url = f"https://www.youtube.com/results?search_query={quote_plus(query)}"
     cards = "\n".join(
         render_video_card(video, get_related_playlists(video, playlists)) for video in videos
     )
@@ -486,14 +621,15 @@ def render_youtube_html(
     <header class=\"hero\">
       <p class=\"eyebrow\">YouTube</p>
       <h1>Latest Uploads</h1>
-      <p class=\"lede\">Query: {escape(query)}</p>
-      <p class=\"meta\">Latest successful fetch: {escape(fetched_at_utc)} | Total videos: {len(videos)}</p>
+            <p class="lede">Query: <a href="{search_url}" target="_blank" rel="noopener noreferrer">{escape(query)}</a></p>
+            <p class=\"meta\">Latest successful fetch: <span class=\"js-time\" data-time-iso=\"{escape(fetched_at_iso)}\">{escape(fetched_at_utc)}</span> | Total videos: {len(videos)}</p>
     </header>
 
     <section class=\"video-grid\">
       {cards}
     </section>
   </main>
+    {render_time_localization_script()}
 </body>
 </html>
 """
@@ -506,8 +642,14 @@ def render_playlist_card(playlist: PlaylistResult) -> str:
     safe_description = escape(playlist.description).replace("\n", "<br>")
     safe_channel = escape(playlist.channel_title)
     published_label = escape(format_timestamp(playlist.published_at))
+    published_iso_attr = escape(playlist.published_at)
     watch_url = f"https://www.youtube.com/playlist?list={playlist.playlist_id}"
     channel_url = f"https://www.youtube.com/channel/{playlist.channel_id}" if playlist.channel_id else "https://www.youtube.com"
+    count_label = (
+        f"{playlist.video_count} videos"
+        if playlist.video_count is not None
+        else "Video count unavailable"
+    )
 
     return f"""
 <article class=\"video-card\">
@@ -524,16 +666,22 @@ def render_playlist_card(playlist: PlaylistResult) -> str:
 
   <div class=\"video-content\">
     <h2><a href=\"{watch_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_title}</a></h2>
-    <p class=\"video-meta\">{published_label} | <a href=\"{channel_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_channel}</a></p>
+                <p class="video-meta"><span class="js-time" data-time-iso="{published_iso_attr}">{published_label}</span> | <a href="{channel_url}" target="_blank" rel="noopener noreferrer">{safe_channel}</a> | {escape(count_label)}</p>
     <p>{safe_description}</p>
   </div>
 </article>
 """
 
 
-def render_playlists_html(query: str, fetched_at_utc: str, playlists: list[PlaylistResult]) -> str:
+def render_playlists_html(
+    query: str,
+    fetched_at_utc: str,
+    fetched_at_iso: str,
+    playlists: list[PlaylistResult],
+) -> str:
     """Render the YouTube playlists page with playlist embeds and descriptions."""
 
+    search_url = f"https://www.youtube.com/results?search_query={quote_plus(query)}"
     cards = "\n".join(render_playlist_card(playlist) for playlist in playlists)
 
     return f"""<!doctype html>
@@ -553,14 +701,15 @@ def render_playlists_html(query: str, fetched_at_utc: str, playlists: list[Playl
     <header class=\"hero\">
       <p class=\"eyebrow\">YouTube Playlists</p>
       <h1>Latest Playlists</h1>
-      <p class=\"lede\">Query: {escape(query)}</p>
-      <p class=\"meta\">Latest successful fetch: {escape(fetched_at_utc)} | Total playlists: {len(playlists)}</p>
+            <p class="lede">Query: <a href="{search_url}" target="_blank" rel="noopener noreferrer">{escape(query)}</a></p>
+            <p class=\"meta\">Latest successful fetch: <span class=\"js-time\" data-time-iso=\"{escape(fetched_at_iso)}\">{escape(fetched_at_utc)}</span> | Total playlists: {len(playlists)}</p>
     </header>
 
     <section class=\"video-grid\">
       {cards}
     </section>
   </main>
+    {render_time_localization_script()}
 </body>
 </html>
 """
@@ -604,7 +753,9 @@ def main() -> int:
     if playlists_max_results < 1:
         raise SystemExit("youtube_playlists.max_results must be at least 1.")
 
-    fetched_at_utc = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
+    fetched_at_now = datetime.now(UTC)
+    fetched_at_utc = fetched_at_now.strftime("%Y-%m-%d %H:%M UTC")
+    fetched_at_iso = fetched_at_now.replace(microsecond=0).isoformat().replace("+00:00", "Z")
     try:
         videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
         playlists = fetch_latest_playlists(
@@ -620,6 +771,7 @@ def main() -> int:
         "query": query,
         "max_results": max_results,
         "fetched_at_utc": fetched_at_utc,
+        "fetched_at_iso": fetched_at_iso,
         "result_count": len(videos),
         "videos": [video.__dict__ for video in videos],
     }
@@ -628,6 +780,7 @@ def main() -> int:
         "query": playlists_query,
         "max_results": playlists_max_results,
         "fetched_at_utc": fetched_at_utc,
+        "fetched_at_iso": fetched_at_iso,
         "result_count": len(playlists),
         "playlists": [playlist.__dict__ for playlist in playlists],
     }
@@ -638,19 +791,23 @@ def main() -> int:
 
     index_html = render_index_html(
         videos_fetch_utc=videos_payload.get("fetched_at_utc"),
+        videos_fetch_iso=videos_payload.get("fetched_at_iso"),
         playlists_fetch_utc=playlists_payload.get("fetched_at_utc"),
+        playlists_fetch_iso=playlists_payload.get("fetched_at_iso"),
         videos_count=len(videos),
         playlists_count=len(playlists),
     )
     youtube_html = render_youtube_html(
         query=query,
         fetched_at_utc=fetched_at_utc,
+        fetched_at_iso=fetched_at_iso,
         videos=videos,
         playlists=playlists,
     )
     playlists_html = render_playlists_html(
         query=playlists_query,
         fetched_at_utc=fetched_at_utc,
+        fetched_at_iso=fetched_at_iso,
         playlists=playlists,
     )
 
