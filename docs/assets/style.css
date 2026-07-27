@@ -77,6 +77,12 @@ h2 {
   border-color: var(--accent);
 }
 
+.card-meta {
+  margin: 0.75rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
 .video-grid {
   display: grid;
   gap: 1rem;
@@ -113,6 +119,26 @@ h2 {
 .video-meta {
   color: var(--ink-soft);
   margin: 0 0 0.75rem;
+}
+
+.related-playlists {
+  margin: 0 0 0.75rem;
+}
+
+.related-playlists-label {
+  margin: 0 0 0.35rem;
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.related-playlists-list {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.related-playlists-list li {
+  margin: 0.15rem 0;
 }
 
 a {

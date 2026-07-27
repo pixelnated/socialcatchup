@@ -15,6 +15,7 @@ import os
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from html import escape
+import re
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
@@ -297,10 +298,16 @@ def fetch_latest_playlists(api_key: str, query: str, target_count: int) -> list[
     return playlists
 
 
-def render_index_html(last_fetch_utc: str | None) -> str:
-    """Render the landing page for platform-specific result pages."""
+def render_index_html(
+    videos_fetch_utc: str | None,
+    playlists_fetch_utc: str | None,
+    videos_count: int,
+    playlists_count: int,
+) -> str:
+    """Render the landing page with per-platform freshness metadata."""
 
-    fetch_label = last_fetch_utc or "No successful run yet"
+    videos_fetch_label = videos_fetch_utc or "No successful run yet"
+    playlists_fetch_label = playlists_fetch_utc or "No successful run yet"
 
     return f"""<!doctype html>
 <html lang=\"en\">
@@ -319,17 +326,19 @@ def render_index_html(last_fetch_utc: str | None) -> str:
       <p class=\"eyebrow\">socialcatchup</p>
       <h1>Latest Posts Across Platforms</h1>
       <p class=\"lede\">Start with YouTube now, then expand to Instagram, Reddit, Bluesky, and more.</p>
-      <p class=\"meta\">Latest successful fetch: {escape(fetch_label)}</p>
+            <p class="meta">Each card shows its own latest successful fetch time.</p>
     </header>
 
     <section class=\"cards\">
       <a class=\"card\" href=\"youtube.html\">
         <h2>YouTube Videos</h2>
         <p>Newest uploads for your configured keyword query, embedded and sorted newest to oldest.</p>
+                <p class="card-meta">Latest fetch: {escape(videos_fetch_label)} | Results: {videos_count}</p>
       </a>
       <a class=\"card\" href=\"playlists.html\">
         <h2>YouTube Playlists</h2>
         <p>Newest playlists matching your keyword query, shown with embedded playlist players and descriptions.</p>
+                <p class="card-meta">Latest fetch: {escape(playlists_fetch_label)} | Results: {playlists_count}</p>
       </a>
     </section>
   </main>
@@ -350,7 +359,71 @@ def format_timestamp(iso_value: str) -> str:
         return iso_value
 
 
-def render_video_card(video: VideoResult) -> str:
+def extract_search_tokens(text: str) -> set[str]:
+    """Extract lowercase word tokens used for simple relevance scoring."""
+
+    return {token for token in re.findall(r"[A-Za-z0-9]+", text.lower()) if len(token) > 2}
+
+
+def score_playlist_relevance(video: VideoResult, playlist: PlaylistResult) -> tuple[int, int]:
+    """Return relevance score and timestamp rank for deterministic playlist ordering."""
+
+    channel_bonus = 100 if video.channel_id and video.channel_id == playlist.channel_id else 0
+    video_tokens = extract_search_tokens(f"{video.title} {video.description}")
+    playlist_tokens = extract_search_tokens(f"{playlist.title} {playlist.description}")
+    token_overlap = len(video_tokens & playlist_tokens)
+
+    try:
+        published_rank = int(
+            datetime.fromisoformat(playlist.published_at.replace("Z", "+00:00")).timestamp()
+        )
+    except ValueError:
+        published_rank = 0
+
+    return channel_bonus + token_overlap, published_rank
+
+
+def get_related_playlists(video: VideoResult, playlists: list[PlaylistResult], limit: int = 3) -> list[PlaylistResult]:
+    """Select a short set of playlists most related to a video."""
+
+    ranked = sorted(
+        playlists,
+        key=lambda playlist: score_playlist_relevance(video, playlist),
+        reverse=True,
+    )
+
+    related: list[PlaylistResult] = []
+    for playlist in ranked:
+        score, _ = score_playlist_relevance(video, playlist)
+        if score <= 0:
+            continue
+        related.append(playlist)
+        if len(related) >= limit:
+            return related
+
+    # Keep the section populated even when no token/channel matches are found.
+    return ranked[:limit]
+
+
+def render_related_playlists(playlists: list[PlaylistResult]) -> str:
+    """Render related playlist links shown within a video card."""
+
+    if not playlists:
+        return '<div class="related-playlists"><p class="related-playlists-label">Related playlists: none</p></div>'
+
+    items = "".join(
+        f'<li><a href="https://www.youtube.com/playlist?list={playlist.playlist_id}" target="_blank" rel="noopener noreferrer">{escape(playlist.title)}</a></li>'
+        for playlist in playlists
+    )
+    return (
+        '<div class="related-playlists">'
+        '<p class="related-playlists-label">Related playlists</p>'
+        f'<ul class="related-playlists-list">{items}</ul>'
+        "</div>"
+    )
+
+
+def render_video_card(video: VideoResult, related_playlists: list[PlaylistResult]) -> str:
     """Render one embedded YouTube video card with metadata and description."""
 
     safe_title = escape(video.title)
@@ -359,6 +432,7 @@ def render_video_card(video: VideoResult) -> str:
     published_label = escape(format_timestamp(video.published_at))
     watch_url = f"https://www.youtube.com/watch?v={video.video_id}"
     channel_url = f"https://www.youtube.com/channel/{video.channel_id}" if video.channel_id else "https://www.youtube.com"
+    related_html = render_related_playlists(related_playlists)
 
     return f"""
 <article class=\"video-card\">
@@ -376,16 +450,24 @@ def render_video_card(video: VideoResult) -> str:
   <div class=\"video-content\">
     <h2><a href=\"{watch_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_title}</a></h2>
     <p class=\"video-meta\">{published_label} | <a href=\"{channel_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_channel}</a></p>
-    <p>{safe_description}</p>
+        {related_html}
+        <p>{safe_description}</p>
   </div>
 </article>
 """
 
 
-def render_youtube_html(query: str, fetched_at_utc: str, videos: list[VideoResult]) -> str:
+def render_youtube_html(
+        query: str,
+        fetched_at_utc: str,
+        videos: list[VideoResult],
+        playlists: list[PlaylistResult],
+) -> str:
     """Render the YouTube results page with embeds and descriptions."""
 
-    cards = "\n".join(render_video_card(video) for video in videos)
+    cards = "\n".join(
+        render_video_card(video, get_related_playlists(video, playlists)) for video in videos
+    )
 
     return f"""<!doctype html>
 <html lang=\"en\">
@@ -554,8 +636,18 @@ def main() -> int:
     write_json(playlists_data_path, playlists_payload)
     ensure_static_files(docs_dir)
 
-    index_html = render_index_html(fetched_at_utc)
-    youtube_html = render_youtube_html(query=query, fetched_at_utc=fetched_at_utc, videos=videos)
+    index_html = render_index_html(
+        videos_fetch_utc=videos_payload.get("fetched_at_utc"),
+        playlists_fetch_utc=playlists_payload.get("fetched_at_utc"),
+        videos_count=len(videos),
+        playlists_count=len(playlists),
+    )
+    youtube_html = render_youtube_html(
+        query=query,
+        fetched_at_utc=fetched_at_utc,
+        videos=videos,
+        playlists=playlists,
+    )
     playlists_html = render_playlists_html(
         query=playlists_query,
         fetched_at_utc=fetched_at_utc,
