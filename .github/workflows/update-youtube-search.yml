@@ -1,0 +1,62 @@
+name: Update YouTube search results
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+    inputs:
+      query:
+        description: Optional query override for a manual run
+        required: false
+        type: string
+      limit:
+        description: Optional result limit override for a manual run
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  update-results:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate docs output
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_SEARCH_QUERY: ${{ vars.YOUTUBE_SEARCH_QUERY }}
+          YOUTUBE_RESULTS_LIMIT: ${{ vars.YOUTUBE_RESULTS_LIMIT }}
+          INPUT_QUERY: ${{ github.event.inputs.query }}
+          INPUT_LIMIT: ${{ github.event.inputs.limit }}
+        run: |
+          set -eu
+          cmd=(python youtube_daily_update.py --output-dir docs)
+          if [ -n "${INPUT_QUERY:-}" ]; then
+            cmd+=(--query "$INPUT_QUERY")
+          fi
+          if [ -n "${INPUT_LIMIT:-}" ]; then
+            cmd+=(--limit "$INPUT_LIMIT")
+          fi
+          "${cmd[@]}"
+
+      - name: Commit updated files
+        run: |
+          set -eu
+          if git diff --quiet -- docs; then
+            echo "No docs changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -m "chore: update YouTube search results"
+          git push
