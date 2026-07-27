@@ -488,6 +488,138 @@ def render_time_localization_script() -> str:
 </script>"""
 
 
+def render_pagination_script() -> str:
+    """Render script that paginates video cards client-side for static pages."""
+
+    return """<script>
+(() => {
+    for (const grid of document.querySelectorAll(".video-grid[data-page-size]")) {
+        const pageSize = Number.parseInt(grid.getAttribute("data-page-size") || "25", 10);
+        const cards = [...grid.querySelectorAll(".video-card")];
+        if (!Number.isFinite(pageSize) || pageSize < 1 || cards.length <= pageSize) {
+            continue;
+        }
+
+        const pageParam = grid.getAttribute("data-page-param") || "page";
+        const pageCount = Math.ceil(cards.length / pageSize);
+        let page = 1;
+
+        const controls = document.createElement("nav");
+        controls.className = "pagination-controls";
+        controls.setAttribute("aria-label", "Pagination");
+
+        const prev = document.createElement("button");
+        prev.type = "button";
+        prev.className = "pagination-button";
+        prev.textContent = "Previous";
+
+        const summary = document.createElement("p");
+        summary.className = "pagination-summary";
+
+        const next = document.createElement("button");
+        next.type = "button";
+        next.className = "pagination-button";
+        next.textContent = "Next";
+
+        const pages = document.createElement("div");
+        pages.className = "pagination-pages";
+
+        const pageButtons = [];
+        for (let index = 1; index <= pageCount; index += 1) {
+            const pageButton = document.createElement("button");
+            pageButton.type = "button";
+            pageButton.className = "pagination-page-button";
+            pageButton.textContent = String(index);
+            pageButton.setAttribute("aria-label", `Go to page ${index}`);
+            pageButton.addEventListener("click", () => {
+                setPage(index, { scroll: true, updateUrl: true });
+            });
+            pages.append(pageButton);
+            pageButtons.push(pageButton);
+        }
+
+        controls.append(prev, summary, next, pages);
+        grid.insertAdjacentElement("afterend", controls);
+
+        const readPageFromUrl = () => {
+            const raw = new URLSearchParams(window.location.search).get(pageParam);
+            const parsed = Number.parseInt(raw || "1", 10);
+            if (!Number.isFinite(parsed)) {
+                return 1;
+            }
+            return Math.min(Math.max(parsed, 1), pageCount);
+        };
+
+        const writePageToUrl = () => {
+            const url = new URL(window.location.href);
+            if (page <= 1) {
+                url.searchParams.delete(pageParam);
+            } else {
+                url.searchParams.set(pageParam, String(page));
+            }
+            window.history.replaceState(null, "", url.toString());
+        };
+
+        const renderPage = () => {
+            const start = (page - 1) * pageSize;
+            const end = start + pageSize;
+
+            cards.forEach((card, index) => {
+                card.hidden = index < start || index >= end;
+            });
+
+            const first = start + 1;
+            const last = Math.min(end, cards.length);
+            summary.textContent = `Page ${page} of ${pageCount} • Showing ${first}-${last} of ${cards.length}`;
+
+            prev.disabled = page <= 1;
+            next.disabled = page >= pageCount;
+
+            pageButtons.forEach((button, index) => {
+                const isCurrent = index + 1 === page;
+                button.disabled = isCurrent;
+                if (isCurrent) {
+                    button.setAttribute("aria-current", "page");
+                } else {
+                    button.removeAttribute("aria-current");
+                }
+            });
+        };
+
+        const setPage = (nextPage, options = { scroll: false, updateUrl: false }) => {
+            const bounded = Math.min(Math.max(nextPage, 1), pageCount);
+            if (bounded === page) {
+                return;
+            }
+            page = bounded;
+            renderPage();
+            if (options.updateUrl) {
+                writePageToUrl();
+            }
+            if (options.scroll) {
+                grid.scrollIntoView({ behavior: "smooth", block: "start" });
+            }
+        };
+
+        prev.addEventListener("click", () => {
+            setPage(page - 1, { scroll: true, updateUrl: true });
+        });
+
+        next.addEventListener("click", () => {
+            setPage(page + 1, { scroll: true, updateUrl: true });
+        });
+
+        window.addEventListener("popstate", () => {
+            setPage(readPageFromUrl(), { scroll: false, updateUrl: false });
+        });
+
+        page = readPageFromUrl();
+        renderPage();
+    }
+})();
+</script>"""
+
+
 def extract_search_tokens(text: str) -> set[str]:
     """Extract lowercase word tokens used for simple relevance scoring."""
 
@@ -625,11 +757,12 @@ def render_youtube_html(
             <p class=\"meta\">Latest successful fetch: <span class=\"js-time\" data-time-iso=\"{escape(fetched_at_iso)}\">{escape(fetched_at_utc)}</span> | Total videos: {len(videos)}</p>
     </header>
 
-    <section class=\"video-grid\">
+        <section class=\"video-grid\" data-page-size=\"25\">
       {cards}
     </section>
   </main>
     {render_time_localization_script()}
+        {render_pagination_script()}
 </body>
 </html>
 """
@@ -705,11 +838,12 @@ def render_playlists_html(
             <p class=\"meta\">Latest successful fetch: <span class=\"js-time\" data-time-iso=\"{escape(fetched_at_iso)}\">{escape(fetched_at_utc)}</span> | Total playlists: {len(playlists)}</p>
     </header>
 
-    <section class=\"video-grid\">
+        <section class=\"video-grid\" data-page-size=\"25\">
       {cards}
     </section>
   </main>
     {render_time_localization_script()}
+        {render_pagination_script()}
 </body>
 </html>
 """

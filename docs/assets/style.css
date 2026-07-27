@@ -141,6 +141,82 @@ h2 {
   margin: 0.15rem 0;
 }
 
+.pagination-controls {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: var(--surface);
+  padding: 0.8rem 1rem;
+}
+
+.pagination-summary {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 0.94rem;
+}
+
+.pagination-button {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  padding: 0.45rem 0.9rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+.pagination-button:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+
+.pagination-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pagination-pages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  width: 100%;
+}
+
+.pagination-page-button {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ink);
+  padding: 0.3rem 0.7rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+.pagination-page-button:hover:not(:disabled) {
+  border-color: var(--accent);
+}
+
+.pagination-page-button[aria-current="page"] {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.pagination-page-button:disabled {
+  cursor: default;
+}
+
+@media (max-width: 640px) {
+  .pagination-summary {
+    width: 100%;
+    order: 3;
+  }
+}
+
 a {
   color: var(--accent);
 }
