@@ -2,8 +2,8 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 100,
-  "fetched_at_utc": "2026-07-27 17:01 UTC",
-  "fetched_at_iso": "2026-07-27T17:01:01Z",
+  "fetched_at_utc": "2026-07-27 17:13 UTC",
+  "fetched_at_iso": "2026-07-27T17:13:18Z",
   "result_count": 100,
   "videos": [
     {
@@ -124,24 +124,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oSlSg7Er1rk/hqdefault.jpg"
     },
     {
-      "video_id": "K-Bcihkb0z4",
-      "title": "Dinosaur Jr. - Feel the Pain (Cover)",
-      "description": "",
-      "published_at": "2026-07-24T16:03:00Z",
-      "channel_title": "J Smith",
-      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/K-Bcihkb0z4/hqdefault.jpg"
-    },
-    {
-      "video_id": "bB86Z9URIpA",
-      "title": "Dinosaur Jr. - Freak Scene (Cover)",
-      "description": "",
-      "published_at": "2026-07-24T16:01:11Z",
-      "channel_title": "J Smith",
-      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/bB86Z9URIpA/hqdefault.jpg"
-    },
-    {
       "video_id": "WwV5F1PT-XM",
       "title": "Little furry things by Dinosaur Jr.",
       "description": "I played this with my friend who can't play drums Original   https://youtu.be/4WAFdBU88bg?si=mF_N3_xe5LrUpPQt #dinosaurjr ...",
@@ -212,6 +194,15 @@
       "channel_title": "Forever Escaping Boredom",
       "channel_id": "UC79Oc-uXYR1s1dV_FSmXGiQ",
       "thumbnail_url": "https://i.ytimg.com/vi/YDiFT-6tAk8/hqdefault.jpg"
+    },
+    {
+      "video_id": "vnopDGdH4kY",
+      "title": "Dinosaur Jr. @ the Eastern, 7/18/26 #dinosaurjr #jmascis #alternativerock #indierock #punkrock",
+      "description": "",
+      "published_at": "2026-07-23T12:42:18Z",
+      "channel_title": "Forever Escaping Boredom",
+      "channel_id": "UC79Oc-uXYR1s1dV_FSmXGiQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/vnopDGdH4kY/hqdefault.jpg"
     },
     {
       "video_id": "azQQFrA4sUE",
@@ -464,15 +455,6 @@
       "channel_title": "The Metal Junkie",
       "channel_id": "UCTt0uhnHNZeCVzkVV2-6tfA",
       "thumbnail_url": "https://i.ytimg.com/vi/qT4GBqx4_AA/hqdefault.jpg"
-    },
-    {
-      "video_id": "06wZbFcNOuM",
-      "title": "Dinosaur Jr., Feel the Pain, live, July 11, 2026, New Haven, CT #grunge #90smusic #dinosaurjr",
-      "description": "livemusic #90sthrowback #grunge #dinosaurjr #90smusic.",
-      "published_at": "2026-07-12T13:34:21Z",
-      "channel_title": "Clayton Simons",
-      "channel_id": "UCrb2-fnTg7nbO8a_0MP1r3Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/06wZbFcNOuM/hqdefault.jpg"
     },
     {
       "video_id": "m3o9IyFmWG4",
@@ -905,6 +887,24 @@
       "channel_title": "Shadow TV Network 2 ",
       "channel_id": "UCsLtTOLh6C5D_eOI2sWzhOA",
       "thumbnail_url": "https://i.ytimg.com/vi/6UiJNSEArsU/hqdefault.jpg"
+    },
+    {
+      "video_id": "F9zv8PDzzIs",
+      "title": "Fender J Mascis Telecaster set up",
+      "description": "Ok, ok, ok. Strong thumbnail... but this isn't the first time I've discovered Fender Telecasters where the strings travel across the flat ...",
+      "published_at": "2026-01-01T08:59:53Z",
+      "channel_title": "Sam Deeks",
+      "channel_id": "UCY3N_ef8muhPpxTCvdX58sA",
+      "thumbnail_url": "https://i.ytimg.com/vi/F9zv8PDzzIs/hqdefault.jpg"
+    },
+    {
+      "video_id": "OtxvV7Bm2dw",
+      "title": "\u201cOut There\u201d by @dinosaurjrtv \ud83e\udd18\ud83e\udd18 #guitar #dinosaurjr #guitarist #guitarsolo",
+      "description": "",
+      "published_at": "2025-12-30T21:18:21Z",
+      "channel_title": "Steve Nowicki",
+      "channel_id": "UCzy7SwwTeczxtQxYLi7a_Eg",
+      "thumbnail_url": "https://i.ytimg.com/vi/OtxvV7Bm2dw/hqdefault.jpg"
     }
   ]
 }
