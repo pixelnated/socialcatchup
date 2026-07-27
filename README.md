@@ -8,9 +8,12 @@ The first platform implemented is YouTube.
 
 - Uses the YouTube Data API v3 instead of the YouTube web UI search.
 - Fetches newest uploads for a configurable keyword query.
+- Fetches newest playlists for the same keyword query on a separate page.
 - Targets up to 100 results (API page size is 50, so it requests multiple pages).
 - Sorts newest to oldest.
+- Prefers videos that allow external embedding/syndication.
 - Renders a static page with embedded videos and descriptions.
+- Renders a second static page for playlist embeds and descriptions.
 - Shows the latest successful fetch time.
 - Runs on a schedule in GitHub Actions and publishes content in the repo's docs site.
 
@@ -25,8 +28,10 @@ The default query is configured in [config/searches.json](config/searches.json):
 - [scripts/update_youtube.py](scripts/update_youtube.py): Fetches YouTube API results and builds static HTML pages.
 - [config/searches.json](config/searches.json): Query and max-results configuration.
 - [data/youtube_latest.json](data/youtube_latest.json): Most recent normalized fetch output.
+- [data/youtube_playlists_latest.json](data/youtube_playlists_latest.json): Most recent playlist fetch output.
 - [docs/index.html](docs/index.html): Landing page for platform sections.
 - [docs/youtube.html](docs/youtube.html): YouTube results page.
+- [docs/playlists.html](docs/playlists.html): YouTube playlist results page.
 - [.github/workflows/update-youtube.yml](.github/workflows/update-youtube.yml): Scheduled workflow (every 12 hours) and manual run support.
 
 ## Setup
@@ -74,8 +79,15 @@ python3 scripts/update_youtube.py
 This updates:
 
 - [data/youtube_latest.json](data/youtube_latest.json)
+- [data/youtube_playlists_latest.json](data/youtube_playlists_latest.json)
 - [docs/index.html](docs/index.html)
 - [docs/youtube.html](docs/youtube.html)
+- [docs/playlists.html](docs/playlists.html)
+
+## Playlist Notes
+
+- Playlist search can help surface curated sets that include hard-to-find material.
+- YouTube keyword search does not directly discover truly unlisted videos by keyword, but embedded playlists may include items that are only practically discoverable through the playlist itself.
 
 ## Scheduling
 

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Fetch latest YouTube videos for configured keywords and build static pages.
+"""Fetch latest YouTube videos/playlists for configured keywords and build static pages.
 
 This script is designed for GitHub Actions + GitHub Pages:
 - Reads query settings from config/searches.json.
 - Calls the YouTube Data API v3 search endpoint.
-- Writes normalized results to data/youtube_latest.json.
-- Generates docs/index.html and docs/youtube.html.
+- Writes normalized results to data/youtube_latest.json and data/youtube_playlists_latest.json.
+- Generates docs/index.html, docs/youtube.html, and docs/playlists.html.
 """
 
 from __future__ import annotations
@@ -49,7 +49,7 @@ def load_env_file(path: Path) -> None:
         if not key:
             continue
 
-        if (value.startswith("\"") and value.endswith("\"")) or (
+        if (value.startswith('"') and value.endswith('"')) or (
             value.startswith("'") and value.endswith("'")
         ):
             value = value[1:-1]
@@ -62,6 +62,19 @@ class VideoResult:
     """A normalized YouTube video result used by the renderer."""
 
     video_id: str
+    title: str
+    description: str
+    published_at: str
+    channel_title: str
+    channel_id: str
+    thumbnail_url: str
+
+
+@dataclass(frozen=True)
+class PlaylistResult:
+    """A normalized YouTube playlist result used by the renderer."""
+
+    playlist_id: str
     title: str
     description: str
     published_at: str
@@ -88,17 +101,29 @@ def write_json(path: Path, payload: dict[str, Any]) -> None:
     temp_path.replace(path)
 
 
-def youtube_search_request(api_key: str, query: str, max_results: int, page_token: str | None) -> dict[str, Any]:
+def youtube_search_request(
+    api_key: str,
+    query: str,
+    max_results: int,
+    page_token: str | None,
+    result_type: str,
+) -> dict[str, Any]:
     """Send one request to YouTube search and return the decoded JSON payload."""
 
     params: dict[str, str | int] = {
         "part": "snippet",
-        "type": "video",
+        "type": result_type,
         "order": "date",
         "maxResults": max_results,
         "q": query,
         "key": api_key,
     }
+
+    if result_type == "video":
+        # Request videos that can be embedded and are allowed off youtube.com.
+        params["videoEmbeddable"] = "true"
+        params["videoSyndicated"] = "true"
+
     if page_token:
         params["pageToken"] = page_token
 
@@ -150,7 +175,7 @@ def build_youtube_http_error_message(status_code: int, response_body: str) -> st
     return f"YouTube API error (status {status_code}, reasons: {reason_text}): {error_message}.{hint_text}"
 
 
-def normalize_result(item: dict[str, Any]) -> VideoResult | None:
+def normalize_video_result(item: dict[str, Any]) -> VideoResult | None:
     """Convert one YouTube API item into VideoResult, or None when incomplete."""
 
     video_id = item.get("id", {}).get("videoId")
@@ -172,6 +197,28 @@ def normalize_result(item: dict[str, Any]) -> VideoResult | None:
     )
 
 
+def normalize_playlist_result(item: dict[str, Any]) -> PlaylistResult | None:
+    """Convert one YouTube API item into PlaylistResult, or None when incomplete."""
+
+    playlist_id = item.get("id", {}).get("playlistId")
+    snippet = item.get("snippet", {})
+    if not playlist_id or not snippet:
+        return None
+
+    thumbnails = snippet.get("thumbnails", {})
+    thumb = thumbnails.get("high") or thumbnails.get("medium") or thumbnails.get("default") or {}
+
+    return PlaylistResult(
+        playlist_id=playlist_id,
+        title=snippet.get("title", "Untitled"),
+        description=snippet.get("description", ""),
+        published_at=snippet.get("publishedAt", ""),
+        channel_title=snippet.get("channelTitle", ""),
+        channel_id=snippet.get("channelId", ""),
+        thumbnail_url=thumb.get("url", ""),
+    )
+
+
 def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[VideoResult]:
     """Fetch up to target_count videos in newest-first order, deduplicated by video ID."""
 
@@ -181,11 +228,17 @@ def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[Vid
 
     while len(videos) < target_count:
         page_size = min(50, target_count - len(videos))
-        payload = youtube_search_request(api_key, query, page_size, page_token)
+        payload = youtube_search_request(
+            api_key=api_key,
+            query=query,
+            max_results=page_size,
+            page_token=page_token,
+            result_type="video",
+        )
         items = payload.get("items", [])
 
         for item in items:
-            normalized = normalize_result(item)
+            normalized = normalize_video_result(item)
             if not normalized:
                 continue
             if normalized.video_id in seen_ids:
@@ -201,9 +254,47 @@ def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[Vid
         if not page_token:
             break
 
-    # Keep deterministic newest-to-oldest order even if API responses vary.
     videos.sort(key=lambda video: video.published_at, reverse=True)
     return videos
+
+
+def fetch_latest_playlists(api_key: str, query: str, target_count: int) -> list[PlaylistResult]:
+    """Fetch up to target_count playlists in newest-first order, deduplicated by playlist ID."""
+
+    playlists: list[PlaylistResult] = []
+    seen_ids: set[str] = set()
+    page_token: str | None = None
+
+    while len(playlists) < target_count:
+        page_size = min(50, target_count - len(playlists))
+        payload = youtube_search_request(
+            api_key=api_key,
+            query=query,
+            max_results=page_size,
+            page_token=page_token,
+            result_type="playlist",
+        )
+        items = payload.get("items", [])
+
+        for item in items:
+            normalized = normalize_playlist_result(item)
+            if not normalized:
+                continue
+            if normalized.playlist_id in seen_ids:
+                continue
+
+            seen_ids.add(normalized.playlist_id)
+            playlists.append(normalized)
+
+            if len(playlists) >= target_count:
+                break
+
+        page_token = payload.get("nextPageToken")
+        if not page_token:
+            break
+
+    playlists.sort(key=lambda playlist: playlist.published_at, reverse=True)
+    return playlists
 
 
 def render_index_html(last_fetch_utc: str | None) -> str:
@@ -233,8 +324,12 @@ def render_index_html(last_fetch_utc: str | None) -> str:
 
     <section class=\"cards\">
       <a class=\"card\" href=\"youtube.html\">
-        <h2>YouTube</h2>
+        <h2>YouTube Videos</h2>
         <p>Newest uploads for your configured keyword query, embedded and sorted newest to oldest.</p>
+      </a>
+      <a class=\"card\" href=\"playlists.html\">
+        <h2>YouTube Playlists</h2>
+        <p>Newest playlists matching your keyword query, shown with embedded playlist players and descriptions.</p>
       </a>
     </section>
   </main>
@@ -322,6 +417,73 @@ def render_youtube_html(query: str, fetched_at_utc: str, videos: list[VideoResul
 """
 
 
+def render_playlist_card(playlist: PlaylistResult) -> str:
+    """Render one embedded YouTube playlist card with metadata and description."""
+
+    safe_title = escape(playlist.title)
+    safe_description = escape(playlist.description).replace("\n", "<br>")
+    safe_channel = escape(playlist.channel_title)
+    published_label = escape(format_timestamp(playlist.published_at))
+    watch_url = f"https://www.youtube.com/playlist?list={playlist.playlist_id}"
+    channel_url = f"https://www.youtube.com/channel/{playlist.channel_id}" if playlist.channel_id else "https://www.youtube.com"
+
+    return f"""
+<article class=\"video-card\">
+  <div class=\"embed-wrap\">
+    <iframe
+      src=\"https://www.youtube.com/embed/videoseries?list={playlist.playlist_id}\"
+      title={json.dumps(playlist.title)}
+      loading=\"lazy\"
+      allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"
+      referrerpolicy=\"strict-origin-when-cross-origin\"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class=\"video-content\">
+    <h2><a href=\"{watch_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_title}</a></h2>
+    <p class=\"video-meta\">{published_label} | <a href=\"{channel_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_channel}</a></p>
+    <p>{safe_description}</p>
+  </div>
+</article>
+"""
+
+
+def render_playlists_html(query: str, fetched_at_utc: str, playlists: list[PlaylistResult]) -> str:
+    """Render the YouTube playlists page with playlist embeds and descriptions."""
+
+    cards = "\n".join(render_playlist_card(playlist) for playlist in playlists)
+
+    return f"""<!doctype html>
+<html lang=\"en\">
+<head>
+  <meta charset=\"utf-8\">
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+  <title>YouTube Playlists | Social Catchup</title>
+  <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">
+  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>
+  <link href=\"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,600&display=swap\" rel=\"stylesheet\">
+  <link rel=\"stylesheet\" href=\"assets/style.css\">
+</head>
+<body>
+  <main class=\"wrap\">
+    <p><a href=\"index.html\">Back to all platforms</a></p>
+    <header class=\"hero\">
+      <p class=\"eyebrow\">YouTube Playlists</p>
+      <h1>Latest Playlists</h1>
+      <p class=\"lede\">Query: {escape(query)}</p>
+      <p class=\"meta\">Latest successful fetch: {escape(fetched_at_utc)} | Total playlists: {len(playlists)}</p>
+    </header>
+
+    <section class=\"video-grid\">
+      {cards}
+    </section>
+  </main>
+</body>
+</html>
+"""
+
+
 def ensure_static_files(docs_dir: Path) -> None:
     """Create docs output directory and static asset directory if needed."""
 
@@ -329,12 +491,13 @@ def ensure_static_files(docs_dir: Path) -> None:
 
 
 def main() -> int:
-    """Run fetch + render workflow for YouTube results."""
+    """Run fetch + render workflow for YouTube video and playlist results."""
 
     root = Path(__file__).resolve().parents[1]
     load_env_file(root / ".env")
     config_path = root / "config" / "searches.json"
-    data_path = root / "data" / "youtube_latest.json"
+    videos_data_path = root / "data" / "youtube_latest.json"
+    playlists_data_path = root / "data" / "youtube_playlists_latest.json"
     docs_dir = root / "docs"
 
     api_key = os.getenv("YOUTUBE_API_KEY", "").strip()
@@ -343,21 +506,34 @@ def main() -> int:
 
     config = read_json(config_path)
     youtube_cfg = config.get("youtube", {})
+    playlists_cfg = config.get("youtube_playlists", {})
+
     query = str(youtube_cfg.get("query", "")).strip()
     max_results = int(youtube_cfg.get("max_results", 100))
+    playlists_query = str(playlists_cfg.get("query", query)).strip()
+    playlists_max_results = int(playlists_cfg.get("max_results", 50))
 
     if not query:
         raise SystemExit("YouTube query is empty in config/searches.json.")
     if max_results < 1:
-        raise SystemExit("max_results must be at least 1.")
+        raise SystemExit("youtube.max_results must be at least 1.")
+    if not playlists_query:
+        raise SystemExit("YouTube playlists query is empty in config/searches.json.")
+    if playlists_max_results < 1:
+        raise SystemExit("youtube_playlists.max_results must be at least 1.")
 
     fetched_at_utc = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
     try:
         videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
+        playlists = fetch_latest_playlists(
+            api_key=api_key,
+            query=playlists_query,
+            target_count=playlists_max_results,
+        )
     except RuntimeError as exc:
         raise SystemExit(str(exc)) from exc
 
-    payload = {
+    videos_payload = {
         "platform": "youtube",
         "query": query,
         "max_results": max_results,
@@ -365,17 +541,32 @@ def main() -> int:
         "result_count": len(videos),
         "videos": [video.__dict__ for video in videos],
     }
+    playlists_payload = {
+        "platform": "youtube_playlists",
+        "query": playlists_query,
+        "max_results": playlists_max_results,
+        "fetched_at_utc": fetched_at_utc,
+        "result_count": len(playlists),
+        "playlists": [playlist.__dict__ for playlist in playlists],
+    }
 
-    write_json(data_path, payload)
+    write_json(videos_data_path, videos_payload)
+    write_json(playlists_data_path, playlists_payload)
     ensure_static_files(docs_dir)
 
     index_html = render_index_html(fetched_at_utc)
     youtube_html = render_youtube_html(query=query, fetched_at_utc=fetched_at_utc, videos=videos)
+    playlists_html = render_playlists_html(
+        query=playlists_query,
+        fetched_at_utc=fetched_at_utc,
+        playlists=playlists,
+    )
 
     (docs_dir / "index.html").write_text(index_html, encoding="utf-8")
     (docs_dir / "youtube.html").write_text(youtube_html, encoding="utf-8")
+    (docs_dir / "playlists.html").write_text(playlists_html, encoding="utf-8")
 
-    print(f"Fetched {len(videos)} videos and generated docs pages.")
+    print(f"Fetched {len(videos)} videos and {len(playlists)} playlists and generated docs pages.")
     return 0
 
 
