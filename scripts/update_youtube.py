@@ -1,0 +1,338 @@
+#!/usr/bin/env python3
+"""Fetch latest YouTube videos for configured keywords and build static pages.
+
+This script is designed for GitHub Actions + GitHub Pages:
+- Reads query settings from config/searches.json.
+- Calls the YouTube Data API v3 search endpoint.
+- Writes normalized results to data/youtube_latest.json.
+- Generates docs/index.html and docs/youtube.html.
+"""
+
+from __future__ import annotations
+
+import json
+import os
+from dataclasses import dataclass
+from datetime import UTC, datetime
+from html import escape
+from pathlib import Path
+from typing import Any
+from urllib.parse import urlencode
+from urllib.request import urlopen
+
+YOUTUBE_SEARCH_ENDPOINT = "https://www.googleapis.com/youtube/v3/search"
+
+
+def load_env_file(path: Path) -> None:
+    """Load simple KEY=VALUE pairs from a local .env file if present.
+
+    The parser intentionally supports a small safe subset:
+    - Ignores blank lines and # comments.
+    - Accepts KEY=VALUE lines.
+    - Removes surrounding single or double quotes from values.
+    - Does not override variables already set in the environment.
+    """
+
+    if not path.exists():
+        return
+
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip()
+
+        if not key:
+            continue
+
+        if (value.startswith("\"") and value.endswith("\"")) or (
+            value.startswith("'") and value.endswith("'")
+        ):
+            value = value[1:-1]
+
+        os.environ.setdefault(key, value)
+
+
+@dataclass(frozen=True)
+class VideoResult:
+    """A normalized YouTube video result used by the renderer."""
+
+    video_id: str
+    title: str
+    description: str
+    published_at: str
+    channel_title: str
+    channel_id: str
+    thumbnail_url: str
+
+
+def read_json(path: Path) -> dict[str, Any]:
+    """Read and parse a JSON file into a dictionary."""
+
+    with path.open("r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+def write_json(path: Path, payload: dict[str, Any]) -> None:
+    """Write JSON atomically to prevent partial files on interrupted writes."""
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temp_path = path.with_suffix(path.suffix + ".tmp")
+    with temp_path.open("w", encoding="utf-8") as file:
+        json.dump(payload, file, indent=2)
+        file.write("\n")
+    temp_path.replace(path)
+
+
+def youtube_search_request(api_key: str, query: str, max_results: int, page_token: str | None) -> dict[str, Any]:
+    """Send one request to YouTube search and return the decoded JSON payload."""
+
+    params: dict[str, str | int] = {
+        "part": "snippet",
+        "type": "video",
+        "order": "date",
+        "maxResults": max_results,
+        "q": query,
+        "key": api_key,
+    }
+    if page_token:
+        params["pageToken"] = page_token
+
+    url = f"{YOUTUBE_SEARCH_ENDPOINT}?{urlencode(params)}"
+
+    with urlopen(url, timeout=30) as response:
+        body = response.read().decode("utf-8")
+    return json.loads(body)
+
+
+def normalize_result(item: dict[str, Any]) -> VideoResult | None:
+    """Convert one YouTube API item into VideoResult, or None when incomplete."""
+
+    video_id = item.get("id", {}).get("videoId")
+    snippet = item.get("snippet", {})
+    if not video_id or not snippet:
+        return None
+
+    thumbnails = snippet.get("thumbnails", {})
+    thumb = thumbnails.get("high") or thumbnails.get("medium") or thumbnails.get("default") or {}
+
+    return VideoResult(
+        video_id=video_id,
+        title=snippet.get("title", "Untitled"),
+        description=snippet.get("description", ""),
+        published_at=snippet.get("publishedAt", ""),
+        channel_title=snippet.get("channelTitle", ""),
+        channel_id=snippet.get("channelId", ""),
+        thumbnail_url=thumb.get("url", ""),
+    )
+
+
+def fetch_latest_videos(api_key: str, query: str, target_count: int) -> list[VideoResult]:
+    """Fetch up to target_count videos in newest-first order, deduplicated by video ID."""
+
+    videos: list[VideoResult] = []
+    seen_ids: set[str] = set()
+    page_token: str | None = None
+
+    while len(videos) < target_count:
+        page_size = min(50, target_count - len(videos))
+        payload = youtube_search_request(api_key, query, page_size, page_token)
+        items = payload.get("items", [])
+
+        for item in items:
+            normalized = normalize_result(item)
+            if not normalized:
+                continue
+            if normalized.video_id in seen_ids:
+                continue
+
+            seen_ids.add(normalized.video_id)
+            videos.append(normalized)
+
+            if len(videos) >= target_count:
+                break
+
+        page_token = payload.get("nextPageToken")
+        if not page_token:
+            break
+
+    # Keep deterministic newest-to-oldest order even if API responses vary.
+    videos.sort(key=lambda video: video.published_at, reverse=True)
+    return videos
+
+
+def render_index_html(last_fetch_utc: str | None) -> str:
+    """Render the landing page for platform-specific result pages."""
+
+    fetch_label = last_fetch_utc or "No successful run yet"
+
+    return f"""<!doctype html>
+<html lang=\"en\">
+<head>
+  <meta charset=\"utf-8\">
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+  <title>Social Catchup</title>
+  <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">
+  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>
+  <link href=\"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,600&display=swap\" rel=\"stylesheet\">
+  <link rel=\"stylesheet\" href=\"assets/style.css\">
+</head>
+<body>
+  <main class=\"wrap\">
+    <header class=\"hero\">
+      <p class=\"eyebrow\">socialcatchup</p>
+      <h1>Latest Posts Across Platforms</h1>
+      <p class=\"lede\">Start with YouTube now, then expand to Instagram, Reddit, Bluesky, and more.</p>
+      <p class=\"meta\">Latest successful fetch: {escape(fetch_label)}</p>
+    </header>
+
+    <section class=\"cards\">
+      <a class=\"card\" href=\"youtube.html\">
+        <h2>YouTube</h2>
+        <p>Newest uploads for your configured keyword query, embedded and sorted newest to oldest.</p>
+      </a>
+    </section>
+  </main>
+</body>
+</html>
+"""
+
+
+def format_timestamp(iso_value: str) -> str:
+    """Convert an RFC3339 UTC timestamp to a readable UTC display string."""
+
+    if not iso_value:
+        return "Unknown publish date"
+    try:
+        parsed = datetime.fromisoformat(iso_value.replace("Z", "+00:00"))
+        return parsed.astimezone(UTC).strftime("%Y-%m-%d %H:%M UTC")
+    except ValueError:
+        return iso_value
+
+
+def render_video_card(video: VideoResult) -> str:
+    """Render one embedded YouTube video card with metadata and description."""
+
+    safe_title = escape(video.title)
+    safe_description = escape(video.description).replace("\n", "<br>")
+    safe_channel = escape(video.channel_title)
+    published_label = escape(format_timestamp(video.published_at))
+    watch_url = f"https://www.youtube.com/watch?v={video.video_id}"
+    channel_url = f"https://www.youtube.com/channel/{video.channel_id}" if video.channel_id else "https://www.youtube.com"
+
+    return f"""
+<article class=\"video-card\">
+  <div class=\"embed-wrap\">
+    <iframe
+      src=\"https://www.youtube.com/embed/{video.video_id}\"
+      title={json.dumps(video.title)}
+      loading=\"lazy\"
+      allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\"
+      referrerpolicy=\"strict-origin-when-cross-origin\"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <div class=\"video-content\">
+    <h2><a href=\"{watch_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_title}</a></h2>
+    <p class=\"video-meta\">{published_label} | <a href=\"{channel_url}\" target=\"_blank\" rel=\"noopener noreferrer\">{safe_channel}</a></p>
+    <p>{safe_description}</p>
+  </div>
+</article>
+"""
+
+
+def render_youtube_html(query: str, fetched_at_utc: str, videos: list[VideoResult]) -> str:
+    """Render the YouTube results page with embeds and descriptions."""
+
+    cards = "\n".join(render_video_card(video) for video in videos)
+
+    return f"""<!doctype html>
+<html lang=\"en\">
+<head>
+  <meta charset=\"utf-8\">
+  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
+  <title>YouTube Results | Social Catchup</title>
+  <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\">
+  <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>
+  <link href=\"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,600&display=swap\" rel=\"stylesheet\">
+  <link rel=\"stylesheet\" href=\"assets/style.css\">
+</head>
+<body>
+  <main class=\"wrap\">
+    <p><a href=\"index.html\">Back to all platforms</a></p>
+    <header class=\"hero\">
+      <p class=\"eyebrow\">YouTube</p>
+      <h1>Latest Uploads</h1>
+      <p class=\"lede\">Query: {escape(query)}</p>
+      <p class=\"meta\">Latest successful fetch: {escape(fetched_at_utc)} | Total videos: {len(videos)}</p>
+    </header>
+
+    <section class=\"video-grid\">
+      {cards}
+    </section>
+  </main>
+</body>
+</html>
+"""
+
+
+def ensure_static_files(docs_dir: Path) -> None:
+    """Create docs output directory and static asset directory if needed."""
+
+    (docs_dir / "assets").mkdir(parents=True, exist_ok=True)
+
+
+def main() -> int:
+    """Run fetch + render workflow for YouTube results."""
+
+    root = Path(__file__).resolve().parents[1]
+    load_env_file(root / ".env")
+    config_path = root / "config" / "searches.json"
+    data_path = root / "data" / "youtube_latest.json"
+    docs_dir = root / "docs"
+
+    api_key = os.getenv("YOUTUBE_API_KEY", "").strip()
+    if not api_key:
+        raise SystemExit("YOUTUBE_API_KEY is not set. Add it to your environment or GitHub Actions secrets.")
+
+    config = read_json(config_path)
+    youtube_cfg = config.get("youtube", {})
+    query = str(youtube_cfg.get("query", "")).strip()
+    max_results = int(youtube_cfg.get("max_results", 100))
+
+    if not query:
+        raise SystemExit("YouTube query is empty in config/searches.json.")
+    if max_results < 1:
+        raise SystemExit("max_results must be at least 1.")
+
+    fetched_at_utc = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
+    videos = fetch_latest_videos(api_key=api_key, query=query, target_count=max_results)
+
+    payload = {
+        "platform": "youtube",
+        "query": query,
+        "max_results": max_results,
+        "fetched_at_utc": fetched_at_utc,
+        "result_count": len(videos),
+        "videos": [video.__dict__ for video in videos],
+    }
+
+    write_json(data_path, payload)
+    ensure_static_files(docs_dir)
+
+    index_html = render_index_html(fetched_at_utc)
+    youtube_html = render_youtube_html(query=query, fetched_at_utc=fetched_at_utc, videos=videos)
+
+    (docs_dir / "index.html").write_text(index_html, encoding="utf-8")
+    (docs_dir / "youtube.html").write_text(youtube_html, encoding="utf-8")
+
+    print(f"Fetched {len(videos)} videos and generated docs pages.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
