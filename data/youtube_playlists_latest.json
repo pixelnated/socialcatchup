@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 100,
-  "fetched_at_utc": "2026-07-28 00:18 UTC",
-  "fetched_at_iso": "2026-07-28T00:18:23Z",
+  "fetched_at_utc": "2026-07-28 02:54 UTC",
+  "fetched_at_iso": "2026-07-28T02:54:20Z",
   "result_count": 100,
   "playlists": [
+    {
+      "playlist_id": "PLMvzD_siBAco",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2026-07-27T01:16:57Z",
+      "channel_title": "Jude Broussard",
+      "channel_id": "UCQddg76IkDShwVzYztShrEA",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
+      "video_count": 10
+    },
     {
       "playlist_id": "PLLpIyh56tjfg",
       "title": "Dinosaur Jr. 2026-07-21 Avondale Brewing Company, Birmingham, AL",
@@ -507,6 +517,126 @@
       "video_count": 50
     },
     {
+      "playlist_id": "PL4th5nWHrVmkflRICSsB3XdrghP97AgBb",
+      "title": "Dinosaur Jr.  1987-09-20: Richmond, VA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-06-01T00:18:15Z",
+      "channel_title": "Lulu Esco",
+      "channel_id": "UCJH9mCtRgdOQdT7DT_vdEOA",
+      "thumbnail_url": "https://i.ytimg.com/vi/WFgVwxDmPlM/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLpw-M_VzO_5ByZ_MaracRQ9ZHSgUQUoNu",
+      "title": "Dinosaur Jr. - 1987-09-20: Richmond, VA, USA (Full Album)",
+      "description": "",
+      "published_at": "2026-06-01T00:14:16Z",
+      "channel_title": "Charles Ohren",
+      "channel_id": "UCMBbQUNAW_xQhH5EAYxpsHA",
+      "thumbnail_url": "https://i.ytimg.com/vi/mdJmLP__Ps8/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLoSrd9CYmbK1nFGPgA7fh9dIl3cioB2lv",
+      "title": "Dinosaur Jr. - 1987-09-20: Richmond, VA, USA (Full Album)",
+      "description": "",
+      "published_at": "2026-06-01T00:13:11Z",
+      "channel_title": "Jinny Matelski",
+      "channel_id": "UCnrXXwcCGk9FcbTdPZWFD7g",
+      "thumbnail_url": "https://i.ytimg.com/vi/2VPxWQSVBn0/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PL_Ns6lwwTLvLLFAcLEi_d236sBu7Taj9R",
+      "title": "Dinosaur Jr.  1987-09-20: Richmond, VA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-05-31T16:20:05Z",
+      "channel_title": "Allegra Aiudi",
+      "channel_id": "UCsIoozKRhXKsBJWJ-1a4iiA",
+      "thumbnail_url": "https://i.ytimg.com/vi/bSI0Jfo5UrY/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLM45WCwG4vQaPrsv2xdILcYFlyMoXxGYu",
+      "title": "Dinosaur Jr. - 2011-06-26: Variety Playhouse, Athens, GA, USA (Full Album)",
+      "description": "",
+      "published_at": "2026-05-31T16:13:24Z",
+      "channel_title": "Maire Brooks",
+      "channel_id": "UCjfpNxqbmBQAMlyxeE1dKqw",
+      "thumbnail_url": "https://i.ytimg.com/vi/3umPvhSZxuo/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PL-UfIOU7hzBxMNb3iL4uteXM__yNOfm3b",
+      "title": "Dinosaur Jr.  2011-06-26: Variety Playhouse, Athens, GA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-05-31T15:17:15Z",
+      "channel_title": "Herman Gault",
+      "channel_id": "UCRa5uM2sQtVDd6vOYWqTiAQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/XL218-kU8LQ/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PL6AKXmliPZe01fBnhmD6IQiA6WYwAZU_u",
+      "title": "Dinosaur Jr. - 2011-06-26: Variety Playhouse, Athens, GA, USA (Full Album)",
+      "description": "",
+      "published_at": "2026-05-31T11:11:18Z",
+      "channel_title": "Season Kolander",
+      "channel_id": "UCTOwsxycF2t_-DfxmsFmnDA",
+      "thumbnail_url": "https://i.ytimg.com/vi/apAKU_sXQJQ/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLkCD0GEaDWdNXAo9epNe8-3MSoXhN9GGj",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2026-05-31T03:21:50Z",
+      "channel_title": "Kenny Goundas",
+      "channel_id": "UC5O9gkqmmPmPcGoEwd27qnw",
+      "thumbnail_url": "https://i.ytimg.com/vi/86JvaWOeUgw/hqdefault.jpg",
+      "video_count": 11
+    },
+    {
+      "playlist_id": "PLoSrd9CYmbK1Wf_5Z78bw6GmHwuJLTb2M",
+      "title": "Dinosaur Jr.  2011-06-26: Variety Playhouse, Athens, GA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-05-30T16:10:23Z",
+      "channel_title": "Jinny Matelski",
+      "channel_id": "UCnrXXwcCGk9FcbTdPZWFD7g",
+      "thumbnail_url": "https://i.ytimg.com/vi/LXO5GjnFJXg/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLCGlIvTvNbyOSGZMEfTys-rM1AB2b9LzH",
+      "title": "Dinosaur Jr. - 2011-06-26: Variety Playhouse, Athens, GA, USA (Full Album)",
+      "description": "",
+      "published_at": "2026-05-30T15:06:28Z",
+      "channel_title": "Elroy Valdivieso",
+      "channel_id": "UCrugKQfszaB9nrpvqfF3z0g",
+      "thumbnail_url": "https://i.ytimg.com/vi/sm7flMpKK5Y/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLPRCOZMBVAUINeYfb-Q2cvVCtX6SV6_Su",
+      "title": "Dinosaur Jr.  2011-06-26: Variety Playhouse, Athens, GA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-05-30T13:14:25Z",
+      "channel_title": "Roman Vivar",
+      "channel_id": "UCCLjBoSRMK-FGbK-YwIJ0lg",
+      "thumbnail_url": "https://i.ytimg.com/vi/7F4f-2BYp8w/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLRvDpO_hlxQWMVcRceuJo9ATPejdwZYmI",
+      "title": "sebadoh - Lou",
+      "description": "",
+      "published_at": "2026-05-26T22:44:08Z",
+      "channel_title": "Matt Garner",
+      "channel_id": "UCS2SZDZ7FFZvSjDWO4WvRwg",
+      "thumbnail_url": "https://i.ytimg.com/vi/39X9i9IrvkE/hqdefault.jpg",
+      "video_count": 8
+    },
+    {
       "playlist_id": "PLeASSzHvQYTloZfoKxMFgb6a0nV-jlwFk",
       "title": "Dinosaur Jr",
       "description": "",
@@ -515,6 +645,16 @@
       "channel_id": "UCvPtP4rVqYDI8qRRAULAf3g",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 131
+    },
+    {
+      "playlist_id": "PLB9WvQ6kDo1aFTeasttB2D8DkGiYNMQEU",
+      "title": "Dinosaur Jr.",
+      "description": "",
+      "published_at": "2026-05-20T19:37:04Z",
+      "channel_title": "Saturno64",
+      "channel_id": "UCLfkWnnaxaVIh87RRzq2sbg",
+      "thumbnail_url": "https://i.ytimg.com/vi/Es8elGpszxI/hqdefault.jpg",
+      "video_count": 53
     },
     {
       "playlist_id": "PL7yUlRpjPP7LQDEiu2iB-0dckC7g55kcE",
@@ -547,14 +687,14 @@
       "video_count": 9
     },
     {
-      "playlist_id": "PLJ5U4k-8GxoFlXjrWzgnNFJA5O97fDmgP",
-      "title": "Dinosaur Jr",
+      "playlist_id": "PLZtx-ByHoRSd79AUkOUie1VH4FktkK--F",
+      "title": "dinosaur jr- where you been",
       "description": "",
-      "published_at": "2026-05-11T18:38:44Z",
-      "channel_title": "Morgan Leighty",
-      "channel_id": "UC6txoL_c2FvuJD-ThVCkaVA",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 71
+      "published_at": "2026-05-11T22:24:26Z",
+      "channel_title": "Middle Migraine.",
+      "channel_id": "UCbivojrxJkveZJYF44UkylQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/lyE0sEHw3cc/hqdefault.jpg",
+      "video_count": 30
     },
     {
       "playlist_id": "PLZtx-ByHoRSe_7g2t791C-GiB2ipxd694",
@@ -597,6 +737,16 @@
       "video_count": 12
     },
     {
+      "playlist_id": "PLVuC6mfy71mjB3n23MkSPczQKqGz7GIz_",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2026-05-09T19:57:27Z",
+      "channel_title": "BetchyaAzz",
+      "channel_id": "UCbfd0sj0D1uylDsGnt3bPoA",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
+      "video_count": 11
+    },
+    {
       "playlist_id": "PLrAXFU6USRBxuNetWZU0Hgdlxp_sGbe3d",
       "title": "dinosaur jr discography",
       "description": "",
@@ -605,6 +755,16 @@
       "channel_id": "UCW64RAlat-6MzNMtoS7zu8A",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 131
+    },
+    {
+      "playlist_id": "PLShrO7pSa-q8CN7jkJHoZbK0FN-97ijvE",
+      "title": "J Mascis The Moshpit Presents",
+      "description": "",
+      "published_at": "2026-04-29T05:05:09Z",
+      "channel_title": "Ronald W",
+      "channel_id": "UCU_ZPUGRpqiU4IBj-_XoGTg",
+      "thumbnail_url": "https://i.ytimg.com/vi/XIrTyYIRvHo/hqdefault.jpg",
+      "video_count": 28
     },
     {
       "playlist_id": "PLoLY7xvIHs_XS68E5TDepjASTVR3DERip",
@@ -637,14 +797,24 @@
       "video_count": 147
     },
     {
-      "playlist_id": "PLJ5j9pR3MaL3HtNVKJLDQP2IKUyWM9WAi",
-      "title": "DINOSAUR JR",
+      "playlist_id": "PLC-pkwR_jtO0_a5I7h1_8MTXwknzpZ7t9",
+      "title": "Dinosaur Jr",
       "description": "",
-      "published_at": "2026-04-12T20:43:46Z",
-      "channel_title": "LISTEN TO THE SOUND I LIKE",
-      "channel_id": "UCdE3ZA-ypbCjBbpvmJou3Cw",
-      "thumbnail_url": "https://i.ytimg.com/vi/MwmkErJ35O4/hqdefault.jpg",
-      "video_count": 173
+      "published_at": "2026-04-19T11:08:19Z",
+      "channel_title": "Ty Trujillo",
+      "channel_id": "UCbhk3cTj61gHz0Ig_LayISw",
+      "thumbnail_url": "https://i.ytimg.com/vi/5QTcJ6TylSk/hqdefault.jpg",
+      "video_count": 16
+    },
+    {
+      "playlist_id": "PLDcIF2Cf9mEI-u3bXhrQ--JaCSw-eYgMk",
+      "title": "Dinosaur Jr. covering other artists",
+      "description": "",
+      "published_at": "2026-04-17T04:42:28Z",
+      "channel_title": "GhostlyPanCakes",
+      "channel_id": "UC-un81Vs5D5XD_PI1tJHdlw",
+      "thumbnail_url": "https://i.ytimg.com/vi/-UkuEjZblj4/hqdefault.jpg",
+      "video_count": 12
     },
     {
       "playlist_id": "PLYnp-Z4l6QoWrpD3AYFfRtATr6hXzTN02",
@@ -667,24 +837,14 @@
       "video_count": 6
     },
     {
-      "playlist_id": "PLkxPnys3uEyOuAPkLxzgHDS1ilLJM5O9k",
-      "title": "sebadoh , new folk ensemble",
+      "playlist_id": "PLeCd1u1p9F1nPhh6K8BeWfxqLI_R3mZy6",
+      "title": "lou barlow",
       "description": "",
-      "published_at": "2026-04-06T02:03:35Z",
-      "channel_title": "WFM",
-      "channel_id": "UCDDtaH2AxbfxOf8xzkKVqWg",
-      "thumbnail_url": "https://i.ytimg.com/vi/vsuJjy4ReN4/hqdefault.jpg",
-      "video_count": 42
-    },
-    {
-      "playlist_id": "PLjMLOeYxbmkRaNkucWDq5xHFTlBTngwww",
-      "title": "Fall into Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-04-04T19:18:05Z",
-      "channel_title": "Erick Solis",
-      "channel_id": "UCzHn775tgwzXMarfdD_-6Ug",
-      "thumbnail_url": "https://i.ytimg.com/vi/z6o1te3hitQ/hqdefault.jpg",
-      "video_count": 12
+      "published_at": "2026-04-02T17:25:50Z",
+      "channel_title": "whosM5678",
+      "channel_id": "UCN-qyJBNpMB2idxLCjYYw6w",
+      "thumbnail_url": "https://i.ytimg.com/vi/3HL04uFCqvI/hqdefault.jpg",
+      "video_count": 25
     },
     {
       "playlist_id": "PLDaa1k1hAd9__B5ZC1UAz2ANJRHRfXy9j",
@@ -695,6 +855,16 @@
       "channel_id": "UCTWCnq52-lsdgBSTGucjnIQ",
       "thumbnail_url": "https://i.ytimg.com/vi/bEL9yR3Mahw/hqdefault.jpg",
       "video_count": 8
+    },
+    {
+      "playlist_id": "PLt7HjNY0dXe6xvLSjaf5jGAigWOrox0aH",
+      "title": "Dinosaur jr",
+      "description": "Dinosaur jr songs I like.",
+      "published_at": "2026-03-30T06:10:46Z",
+      "channel_title": "Recko",
+      "channel_id": "UCV4P1hEEloNC8vjoiiRKpZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
+      "video_count": 36
     },
     {
       "playlist_id": "PLoJnvEqFlAm_HsZjqg6v8Aj5c9LdIpciI",
@@ -727,14 +897,34 @@
       "video_count": 22
     },
     {
-      "playlist_id": "PLPixNh4Et_pglaENGFjY8PaWt6QMHBLgZ",
-      "title": "Dinosaur Jr. - Best Of Dinosaur Jr.",
+      "playlist_id": "PLtvCs5x3CewhBHosDM_8ODc43dxVikio3",
+      "title": "Dinosaur Jr. - Give a Glimpse of What Yer Not - (bonus disc) (EP)",
       "description": "",
-      "published_at": "2026-03-14T03:05:20Z",
-      "channel_title": "Daniel Green",
-      "channel_id": "UCHgXzbSDMBnV-BW9N6rMPhQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/bvFkoJfk2jc/hqdefault.jpg",
-      "video_count": 13
+      "published_at": "2026-03-15T06:33:41Z",
+      "channel_title": "Neal Pitocco",
+      "channel_id": "UCR51zNBr31MAHOOMT6I5FkA",
+      "thumbnail_url": "https://i.ytimg.com/vi/T7ys-jH5kvc/hqdefault.jpg",
+      "video_count": 54
+    },
+    {
+      "playlist_id": "PLwINv1PEjP2mjMNpgrR5znopELRiKKFsy",
+      "title": "Dinosaur Jr. - \u201cSweep It Into Space\u201d (Full Album)",
+      "description": "",
+      "published_at": "2026-03-14T07:34:15Z",
+      "channel_title": "Caroline Thammavongsa",
+      "channel_id": "UCK76y771M0mJWlKwyQvD0-w",
+      "thumbnail_url": "https://i.ytimg.com/vi/bP2gTUqYCHo/hqdefault.jpg",
+      "video_count": 54
+    },
+    {
+      "playlist_id": "PLxgk2PLvccimglUeSzWuM6OrCKfPnuGfs",
+      "title": "Dinosaur Jr.  Blue Room Sessions | Single",
+      "description": "",
+      "published_at": "2026-03-14T03:39:04Z",
+      "channel_title": "Ernesto Hills",
+      "channel_id": "UC-hhwUit8EPMssrbxmRoyvg",
+      "thumbnail_url": "https://i.ytimg.com/vi/w1p0K8Bef5k/hqdefault.jpg",
+      "video_count": 53
     },
     {
       "playlist_id": "PLxFJvCKlgl-8LB_XlZuWl3TOWbo1Q3co6",
@@ -767,6 +957,36 @@
       "video_count": 257
     },
     {
+      "playlist_id": "PLTb8GbOt5eWbYAvslgAfXW2t4FbxxuDxv",
+      "title": "Dinosaur Jr. - Farm (Full Album)",
+      "description": "",
+      "published_at": "2026-03-11T22:32:26Z",
+      "channel_title": "Ernestine Santomauro",
+      "channel_id": "UC8_RW_qnGLrLuW70QHjCEgQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/bP2gTUqYCHo/hqdefault.jpg",
+      "video_count": 54
+    },
+    {
+      "playlist_id": "PLbQ0CgSIMe6TtP2rrLFFpul6i0A3R9APq",
+      "title": "Dinosaur Jr.  Start Choppin | Single",
+      "description": "",
+      "published_at": "2026-03-11T18:40:49Z",
+      "channel_title": "Earl Burnet",
+      "channel_id": "UCUnDdRDJDTRt70-8uEUmitQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/RG8MMmc_HKI/hqdefault.jpg",
+      "video_count": 54
+    },
+    {
+      "playlist_id": "PLon94mejtH-p2Fzx3plabIkekmxxoI9GG",
+      "title": "Dinosaur Jr.  I Bet on Sky | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-03-11T07:30:57Z",
+      "channel_title": "Leonardo Algarin",
+      "channel_id": "UCbBigYgZv3XAdR3RgExuPIA",
+      "thumbnail_url": "https://i.ytimg.com/vi/RG8MMmc_HKI/hqdefault.jpg",
+      "video_count": 52
+    },
+    {
       "playlist_id": "PL3DrYXmomx7utD5TX1oqeRfIupxS57oKL",
       "title": "Dinosaur Jr. - Ear Bleeding Country: The Best of Dinosaur Jr. (Full Album)",
       "description": "",
@@ -785,226 +1005,6 @@
       "channel_id": "UC3636DOpP-8UyeKl0SGZnkw",
       "thumbnail_url": "https://i.ytimg.com/vi/T7ys-jH5kvc/hqdefault.jpg",
       "video_count": 53
-    },
-    {
-      "playlist_id": "PLHZ7noO7XrwnWR4OZJkhnZ1z_68if1KEt",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-03-03T10:50:53Z",
-      "channel_title": "Guilherme Palma",
-      "channel_id": "UCmQ0WmP3OcCeg8BCToKcn4Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wk_0z6rHvnU/hqdefault.jpg",
-      "video_count": 14
-    },
-    {
-      "playlist_id": "PLJKsu4lL_CVe6h_W4RIAlxUWTu3l-yb7a",
-      "title": "2026.3.1 \u3044\u308d\u3044\u308d\u3042\u308b\u306dXXX Dinosaur Jr. vs Sonic Youth",
-      "description": "",
-      "published_at": "2026-02-28T10:45:31Z",
-      "channel_title": "h.katoh1975\u306e\u97f3\u697d\u51e6\u65b9\u7b8b  - Music Prescription -",
-      "channel_id": "UCHmSwpF0KUflgUdqjigu_wg",
-      "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
-      "video_count": 14
-    },
-    {
-      "playlist_id": "PLVRy-dXCQjufdcKFPOD5WfRmyGf7SsCNS",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-22T05:55:03Z",
-      "channel_title": "Isaac Halkyard",
-      "channel_id": "UCzsCVbT7cIrpKgkMKZFa3Ag",
-      "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
-      "video_count": 18
-    },
-    {
-      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-16T03:04:53Z",
-      "channel_title": "VOICE YOUR OPINION",
-      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
-      "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
-      "title": "DINOSAUR JR",
-      "description": "",
-      "published_at": "2026-02-11T19:52:45Z",
-      "channel_title": "mitsos johnson",
-      "channel_id": "UCt-MlgswTGTKA3EnkWdMrfw",
-      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": 109
-    },
-    {
-      "playlist_id": "PLYgTQSnx-Ly5-3_0TmTFxYjQMgwhaDAgy",
-      "title": "Dinosaur Jr/ Mascis",
-      "description": "",
-      "published_at": "2026-02-07T09:20:25Z",
-      "channel_title": "William Stafford",
-      "channel_id": "UCRWLYuFfMpfcKCxs6-9rFeg",
-      "thumbnail_url": "https://i.ytimg.com/vi/PvvkEMlqda8/hqdefault.jpg",
-      "video_count": 49
-    },
-    {
-      "playlist_id": "PL1aOeeEKKKp3bdFTlP5YsF7NJyMiEWKNn",
-      "title": "SY Sebadoh",
-      "description": "",
-      "published_at": "2026-02-05T15:01:29Z",
-      "channel_title": "Daniel Cardenas",
-      "channel_id": "UC_KgtIffuJK_dTDRtXdWG3A",
-      "thumbnail_url": "https://i.ytimg.com/vi/XuYzovmIFH0/hqdefault.jpg",
-      "video_count": 25
-    },
-    {
-      "playlist_id": "PLDErGz4BqWYdz_vX_TLLb5erRDK1S7aNU",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-01-27T09:47:08Z",
-      "channel_title": "truce",
-      "channel_id": "UCneE6t_EYIOgON1rMdtpwJQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/d1ISJmz0dZI/hqdefault.jpg",
-      "video_count": 27
-    },
-    {
-      "playlist_id": "PLcF_rxCGFAdjC-uh_l3NXZBPvHL0sjlMd",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-01-21T17:52:26Z",
-      "channel_title": "craig norton",
-      "channel_id": "UCwsxRUwNn6CUnkiQq-k72aQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/QjK8TPjlylw/hqdefault.jpg",
-      "video_count": 12
-    },
-    {
-      "playlist_id": "PLjQXlAvOtLGlx82vDOP84bj-RIHxfuOxt",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-01-12T12:02:08Z",
-      "channel_title": "ale",
-      "channel_id": "UCkRMW3S1fA3z-bFU2jhSXmg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hg754oiWW1Q/hqdefault.jpg",
-      "video_count": 9
-    },
-    {
-      "playlist_id": "PLM0jPcYB2ju9aaLt0mmoaetyg1gvxB4if",
-      "title": "Dinosaur Jr. compi",
-      "description": "",
-      "published_at": "2025-12-25T16:13:50Z",
-      "channel_title": "Arnaldo Vidal",
-      "channel_id": "UCWFxrpkxQDz_5CjxWKSvmAg",
-      "thumbnail_url": "https://i.ytimg.com/vi/0A27PFDiLl8/hqdefault.jpg",
-      "video_count": 24
-    },
-    {
-      "playlist_id": "PLRkJAGt1bpPYOEiKVOq2A6b7WcYo43uhp",
-      "title": "Sebadoh",
-      "description": "",
-      "published_at": "2025-12-21T22:15:14Z",
-      "channel_title": "Grazed",
-      "channel_id": "UCNotz02vQd6kKRDshZj0-gQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RF4p3hwOiEs/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
-      "playlist_id": "PLsfyt9L2HqIw7A85oZrv7xJqWI5B_UWf2",
-      "title": "dinosaur Jr mix",
-      "description": "my own personal favs.",
-      "published_at": "2025-12-18T15:46:55Z",
-      "channel_title": "Michael ",
-      "channel_id": "UCzMlzYevs7PM9GDxM5e2N5w",
-      "thumbnail_url": "https://i.ytimg.com/vi/hOz3ywZ3ctM/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
-      "playlist_id": "PL8QaUotc-A-CiiZNDUGX3WQPmXe6mykOz",
-      "title": "Dinosaur Jr. - Where You Been (Full album)",
-      "description": "",
-      "published_at": "2025-12-12T12:52:25Z",
-      "channel_title": "Alberto gomez salas",
-      "channel_id": "UCHK5mgaNDIhwsQJ11Gl51nQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/DGNHcctzKIY/hqdefault.jpg",
-      "video_count": 13
-    },
-    {
-      "playlist_id": "PLRYX6_JmGq8B9psodCuReMN5SUbHiXHcJ",
-      "title": "Dinosaur Jr. \u2013 Without A Sound (1994) [Full Album]",
-      "description": "",
-      "published_at": "2025-12-05T01:04:28Z",
-      "channel_title": "Cacique Sealth",
-      "channel_id": "UCQc4uC35HapfNmkJQSMdOAg",
-      "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
-      "playlist_id": "PLRYX6_JmGq8DHpJEz_hdBTkuIMmRIlmLT",
-      "title": "Dinosaur Jr. \u2013 Where You Been (1993) [Full Album]",
-      "description": "",
-      "published_at": "2025-12-05T00:47:32Z",
-      "channel_title": "Cacique Sealth",
-      "channel_id": "UCQc4uC35HapfNmkJQSMdOAg",
-      "thumbnail_url": "https://i.ytimg.com/vi/lyE0sEHw3cc/hqdefault.jpg",
-      "video_count": 12
-    },
-    {
-      "playlist_id": "PLb4iyk87_3qIiUgyCk73YMrtYHHXDdVZD",
-      "title": "DINOSAUR JR.",
-      "description": "FARM LP.",
-      "published_at": "2025-11-23T14:23:09Z",
-      "channel_title": "noro",
-      "channel_id": "UCRIjq4Q7Va34J98mTYzBWKg",
-      "thumbnail_url": "https://i.ytimg.com/vi/_PFd6Ag2tDs/hqdefault.jpg",
-      "video_count": 12
-    },
-    {
-      "playlist_id": "PLOes-njVCYcLv7O9qXE3-R0KR5SIcXXfY",
-      "title": "Dinosaur Jr. - \u201cTiny\u201d (Single)",
-      "description": "",
-      "published_at": "2025-11-15T07:31:21Z",
-      "channel_title": "Emily Boscarino",
-      "channel_id": "UCi8PeGRZthP2c1v_fRPaPkQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RG8MMmc_HKI/hqdefault.jpg",
-      "video_count": 30
-    },
-    {
-      "playlist_id": "PLKohjwxIMDprYZFTfPoS92Mh2ZBDiGXCs",
-      "title": "Dinosaur Jr M\u00e9xico Foro Indie rocks \ud83c\udfb8\ud83e\udd41\ud83d\udca5\ud83e\udd95",
-      "description": "",
-      "published_at": "2025-11-13T01:32:51Z",
-      "channel_title": "Hey Ross",
-      "channel_id": "UClyA6_68WNWH18iDSPc9nSg",
-      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
-      "video_count": 18
-    },
-    {
-      "playlist_id": "PL_F1RDUVTZX2fq6Ny9nDbxVRNuAqrh9lX",
-      "title": "DINOSAUR JR.",
-      "description": "",
-      "published_at": "2025-11-12T19:37:04Z",
-      "channel_title": "EL CHIRINGUITO MUSICAL",
-      "channel_id": "UC8AI_lF8B9Ep81eyajfybbw",
-      "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
-      "video_count": 27
-    },
-    {
-      "playlist_id": "PLdgfKxKXqHyd-P09hY3W8cSyCJEk5H0Ua",
-      "title": "Dinosaur Jr. - Nothin&#39;s Goin On (Single)",
-      "description": "",
-      "published_at": "2025-11-09T20:31:58Z",
-      "channel_title": "Rose Chatlos",
-      "channel_id": "UCS3DVsipazSBH4CX2c-Zd1g",
-      "thumbnail_url": "https://i.ytimg.com/vi/9oQB9rJyOqI/hqdefault.jpg",
-      "video_count": 55
-    },
-    {
-      "playlist_id": "PLoR4e6RPWa-37Ltbuz4AfjooprbLgcfbb",
-      "title": "Dinosaur Jr. - U.S.A. 1991 (Full Album)",
-      "description": "",
-      "published_at": "2025-11-05T22:33:17Z",
-      "channel_title": "Gianna Leasor",
-      "channel_id": "UC5FFFbY9lKjrQSpnWMTkhuw",
-      "thumbnail_url": "https://i.ytimg.com/vi/85hvFafdO5o/hqdefault.jpg",
-      "video_count": 56
     }
   ]
 }
