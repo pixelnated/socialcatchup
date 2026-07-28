@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 100,
-  "fetched_at_utc": "2026-07-27 21:21 UTC",
-  "fetched_at_iso": "2026-07-27T21:21:33Z",
+  "fetched_at_utc": "2026-07-28 00:18 UTC",
+  "fetched_at_iso": "2026-07-28T00:18:23Z",
   "result_count": 100,
   "playlists": [
     {
@@ -507,16 +507,6 @@
       "video_count": 50
     },
     {
-      "playlist_id": "PLKBS8eQZCkociUKar-9JUhPA-DoEbKI76",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-05-25T03:24:07Z",
-      "channel_title": "cigarettedoscud",
-      "channel_id": "UCS7JeU6Reba0Wq2PxUFNn-w",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 20
-    },
-    {
       "playlist_id": "PLeASSzHvQYTloZfoKxMFgb6a0nV-jlwFk",
       "title": "Dinosaur Jr",
       "description": "",
@@ -1005,6 +995,16 @@
       "channel_id": "UCS3DVsipazSBH4CX2c-Zd1g",
       "thumbnail_url": "https://i.ytimg.com/vi/9oQB9rJyOqI/hqdefault.jpg",
       "video_count": 55
+    },
+    {
+      "playlist_id": "PLoR4e6RPWa-37Ltbuz4AfjooprbLgcfbb",
+      "title": "Dinosaur Jr. - U.S.A. 1991 (Full Album)",
+      "description": "",
+      "published_at": "2025-11-05T22:33:17Z",
+      "channel_title": "Gianna Leasor",
+      "channel_id": "UC5FFFbY9lKjrQSpnWMTkhuw",
+      "thumbnail_url": "https://i.ytimg.com/vi/85hvFafdO5o/hqdefault.jpg",
+      "video_count": 56
     }
   ]
 }
