@@ -1,10 +1,10 @@
 {
   "youtube": {
     "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
-    "max_results": 200
+    "max_results": 300
   },
   "youtube_playlists": {
     "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
-    "max_results": 100 
+    "max_results": 300 
   }
 }
