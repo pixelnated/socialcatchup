@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 100,
-  "fetched_at_utc": "2026-07-28 02:54 UTC",
-  "fetched_at_iso": "2026-07-28T02:54:20Z",
+  "fetched_at_utc": "2026-07-28 12:32 UTC",
+  "fetched_at_iso": "2026-07-28T12:32:01Z",
   "result_count": 100,
   "playlists": [
     {
@@ -35,16 +35,6 @@
       "channel_id": "UCSOwe3SAyGIoEPuDrfn5xpA",
       "thumbnail_url": "https://i.ytimg.com/vi/nU3PWl4qglM/hqdefault.jpg",
       "video_count": 54
-    },
-    {
-      "playlist_id": "PLAAFS3yB7ecM",
-      "title": "Dinosaur JR Avondale",
-      "description": "Songs they played on the 18th in Atlanta.",
-      "published_at": "2026-07-21T01:53:23Z",
-      "channel_title": "Jay Sorrell",
-      "channel_id": "UC3DrcVpwHU4XIShW6DSROLQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/9-tkwY2aDkA/hqdefault.jpg",
-      "video_count": 15
     },
     {
       "playlist_id": "PLRG-on16k8IQ",
@@ -1005,6 +995,16 @@
       "channel_id": "UC3636DOpP-8UyeKl0SGZnkw",
       "thumbnail_url": "https://i.ytimg.com/vi/T7ys-jH5kvc/hqdefault.jpg",
       "video_count": 53
+    },
+    {
+      "playlist_id": "PLebKOcrInJxWR5XFk5IKNQNwn7AygcqZS",
+      "title": "Dinosaur Jr.  Freakin&#39; Live | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-03-04T22:33:51Z",
+      "channel_title": "Lawana Nao",
+      "channel_id": "UCKmjJM6KcBwxNF-9XhAGiMQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/bP2gTUqYCHo/hqdefault.jpg",
+      "video_count": 54
     }
   ]
 }
