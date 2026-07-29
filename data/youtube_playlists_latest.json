@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-07-29 00:17 UTC",
-  "fetched_at_iso": "2026-07-29T00:17:33Z",
+  "fetched_at_utc": "2026-07-29 12:35 UTC",
+  "fetched_at_iso": "2026-07-29T12:35:50Z",
   "result_count": 300,
   "playlists": [
     {
@@ -1197,6 +1197,16 @@
       "video_count": 54
     },
     {
+      "playlist_id": "PL6XFaQdFqUbKNt5Hny5GxSVW-dVb5e_aB",
+      "title": "Dinosaur Jr.  Houses | Single",
+      "description": "",
+      "published_at": "2026-01-14T10:33:26Z",
+      "channel_title": "Debbie Lanius",
+      "channel_id": "UCO7n1DodRlZAstzAMPSgNSw",
+      "thumbnail_url": "https://i.ytimg.com/vi/UWsT-gVM1lo/hqdefault.jpg",
+      "video_count": 54
+    },
+    {
       "playlist_id": "PLjQXlAvOtLGlx82vDOP84bj-RIHxfuOxt",
       "title": "dinosaur jr",
       "description": "",
@@ -2157,16 +2167,6 @@
       "video_count": 43
     },
     {
-      "playlist_id": "PLX1EE_8ktx_ikHq5_tUbKzPOf4cnTKurP",
-      "title": "Dinosaur Jr. [Music Videos]",
-      "description": "",
-      "published_at": "2025-01-26T04:59:10Z",
-      "channel_title": "jhalqu",
-      "channel_id": "UCkWp8ZlCuoQVO_qI4Sj0G9g",
-      "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
-      "video_count": 27
-    },
-    {
       "playlist_id": "PLCg7Bwpqz2zLigjOx8roYzuLgvVHweBTG",
       "title": "Lou Barlow (Dinosaur Jr tracks)",
       "description": "",
@@ -2857,16 +2857,6 @@
       "video_count": 25
     },
     {
-      "playlist_id": "PLY794u4ALcq-L55hOGs0qo6hsdTO-YCz-",
-      "title": "J Mascis",
-      "description": "",
-      "published_at": "2022-12-22T12:59:17Z",
-      "channel_title": "Liberty-Cap",
-      "channel_id": "UC5AeMWXqQUVc7JoW9ySY50A",
-      "thumbnail_url": "https://i.ytimg.com/vi/-C_4AK134Vk/hqdefault.jpg",
-      "video_count": 60
-    },
-    {
       "playlist_id": "PLNZ0cTaAfacGENis3VnGQ81r2VG3V-VSq",
       "title": "Dinosaur Jr &amp; Guided by Voices @ Terminal 5 NYC on 12/03/2022",
       "description": "Full Playlists. https://www.setlist.fm/setlist/guided-by-voices/2022/terminal-5-new-york-ny-4bbf0f0a.html ...",
@@ -3005,6 +2995,16 @@
       "channel_id": "UCgcn-xFhPiNdww8UYNZZ_ww",
       "thumbnail_url": "https://i.ytimg.com/vi/QjK8TPjlylw/hqdefault.jpg",
       "video_count": 12
+    },
+    {
+      "playlist_id": "PLF0yIDuA63HXD6I5luUmzWBqA3x9EUEFm",
+      "title": "Dinosaur Jr. - Give a Glimpse of What Yer Not (2016)",
+      "description": "",
+      "published_at": "2022-03-08T10:53:49Z",
+      "channel_title": "MetalLyrics",
+      "channel_id": "UCgcn-xFhPiNdww8UYNZZ_ww",
+      "thumbnail_url": "https://i.ytimg.com/vi/lR7XaG5xefY/hqdefault.jpg",
+      "video_count": 11
     }
   ]
 }
