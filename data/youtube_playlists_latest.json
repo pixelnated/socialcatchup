@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-08-11 12:13 UTC",
-  "fetched_at_iso": "2026-08-11T12:13:29Z",
+  "fetched_at_utc": "2026-08-12 00:11 UTC",
+  "fetched_at_iso": "2026-08-12T00:11:59Z",
   "result_count": 300,
   "playlists": [
     {
