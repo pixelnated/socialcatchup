@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-08-17 12:03 UTC",
-  "fetched_at_iso": "2026-08-17T12:03:48Z",
+  "fetched_at_utc": "2026-08-18 00:04 UTC",
+  "fetched_at_iso": "2026-08-18T00:04:18Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLNsBblcPaAVY",
+      "title": "Dinosaur Jr - Bug",
+      "description": "",
+      "published_at": "2026-08-17T18:51:53Z",
+      "channel_title": "A G",
+      "channel_id": "UCwDNmHccxZIsz-klrhasTOA",
+      "thumbnail_url": "https://i.ytimg.com/vi/z45yWIXipy8/hqdefault.jpg",
+      "video_count": 10
+    },
     {
       "playlist_id": "PLE5hr2OzStgg",
       "title": "J Mascis",
@@ -114,7 +124,7 @@
       "channel_title": "Jes\u00fas Ruda",
       "channel_id": "UCfK5NEwyasnu1Os1g1FXE_A",
       "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 90
+      "video_count": 91
     },
     {
       "playlist_id": "PLa5cXSDGXglI",
@@ -265,16 +275,6 @@
       "channel_id": "UCQZ9sUnpHRYpyAfZLXWFdKg",
       "thumbnail_url": "https://i.ytimg.com/vi/IyoXmyYLTmg/hqdefault.jpg",
       "video_count": 54
-    },
-    {
-      "playlist_id": "PLVM-FbCQ02rs",
-      "title": "Dinosaur Jr - You&#39;re Living All Over Me",
-      "description": "",
-      "published_at": "2026-07-15T21:54:38Z",
-      "channel_title": "A G",
-      "channel_id": "UCwDNmHccxZIsz-klrhasTOA",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 9
     },
     {
       "playlist_id": "PLYaWgrf3-vtY",
@@ -1284,6 +1284,16 @@
       "channel_title": "Lydia Hartsoe",
       "channel_id": "UCb7smHvW-93o3sNPwpGcnVw",
       "thumbnail_url": "https://i.ytimg.com/vi/_yXFIWCNELY/hqdefault.jpg",
+      "video_count": 55
+    },
+    {
+      "playlist_id": "PLKPIvz6LwFLkZmNfK4OnmSmsIFa2pDsyT",
+      "title": "Dinosaur Jr.  Crumble | Single",
+      "description": "",
+      "published_at": "2025-11-04T11:32:00Z",
+      "channel_title": "Alice Channer",
+      "channel_id": "UCAt1bdX2owARNVe-xoSZsag",
+      "thumbnail_url": "https://i.ytimg.com/vi/9oQB9rJyOqI/hqdefault.jpg",
       "video_count": 55
     },
     {
@@ -2995,16 +3005,6 @@
       "channel_id": "UClhG20_3IaEt5JqREf3Si_Q",
       "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
       "video_count": 14
-    },
-    {
-      "playlist_id": "PLyluFNnFo6HCH159OFrd20CMiZvFGwN6t",
-      "title": "Jazzmaster - Squier J MASCIS",
-      "description": "",
-      "published_at": "2021-08-29T15:48:01Z",
-      "channel_title": "Sly Oak Tree",
-      "channel_id": "UCP9xqPph2ae42HCv3RwdUTw",
-      "thumbnail_url": "https://i.ytimg.com/vi/yckoAPhzKb0/hqdefault.jpg",
-      "video_count": 8
     }
   ]
 }
