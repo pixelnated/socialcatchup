@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-05 00:04 UTC",
-  "fetched_at_iso": "2026-09-05T00:04:20Z",
+  "fetched_at_utc": "2026-09-05 12:01 UTC",
+  "fetched_at_iso": "2026-09-05T12:01:58Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLZIhTPO9Ixcg",
+      "title": "Dinosaur Jr \ud83e\udd95",
+      "description": "",
+      "published_at": "2026-09-03T18:48:02Z",
+      "channel_title": "Jared May",
+      "channel_id": "UCiTmjnCWvlK9zpgUwGjpSFw",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
+      "video_count": 167
+    },
     {
       "playlist_id": "PLN_epK-cMQd0",
       "title": "Dinosaur Jr songs I like (in discography order)",
@@ -1107,16 +1117,6 @@
       "video_count": 10
     },
     {
-      "playlist_id": "PLRYX6_JmGq8BEwWf1k7T8xDB4u9i69mUd",
-      "title": "Dinosaur Jr. \u2013 Dinosaur (1985) [Full Album]",
-      "description": "",
-      "published_at": "2025-12-04T20:50:06Z",
-      "channel_title": "Cacique Sealth",
-      "channel_id": "UCQc4uC35HapfNmkJQSMdOAg",
-      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
       "playlist_id": "PLEULZBF0kjHt--9FFxwoATnlqqSbeXm2K",
       "title": "Dinosaur Jr.  Over It | Single",
       "description": "",
@@ -1705,6 +1705,16 @@
       "channel_id": "UCn2eKHRxnKD-6ZME7SoKxyQ",
       "thumbnail_url": "https://i.ytimg.com/vi/FpsGcnLEZbk/hqdefault.jpg",
       "video_count": 10
+    },
+    {
+      "playlist_id": "PLWglaGIYe9b7o6Niz-VDcVMdyQo8_u7n-",
+      "title": "dinosaur jr",
+      "description": "",
+      "published_at": "2025-06-27T06:13:42Z",
+      "channel_title": "Michael McKinney",
+      "channel_id": "UCUWz87ZKdaHlx87vB4OFguA",
+      "thumbnail_url": "https://i.ytimg.com/vi/X6-50glOqmY/hqdefault.jpg",
+      "video_count": 48
     },
     {
       "playlist_id": "PLf64Ynv2Hl9HxtEGN5v-bDOSMw6NSy8P9",
@@ -2397,6 +2407,16 @@
       "video_count": 68
     },
     {
+      "playlist_id": "PLUX4TTXGDj7PdRYH0WlPaySaXUFVQfwO5",
+      "title": "J Mascis",
+      "description": "",
+      "published_at": "2023-12-12T23:21:38Z",
+      "channel_title": "Morrigan",
+      "channel_id": "UC59nMB8dY_dxC2OvqMvgt6g",
+      "thumbnail_url": "https://i.ytimg.com/vi/LkgXTDqiRFs/hqdefault.jpg",
+      "video_count": 85
+    },
+    {
       "playlist_id": "PLHyK9_YNVyBi0eg4M8iTlnU7eNyZy2q39",
       "title": "DINOSAUR JR",
       "description": "",
@@ -2827,16 +2847,6 @@
       "video_count": 20
     },
     {
-      "playlist_id": "PLnyvBlRxwMHTJBFJWvT0a8qeuWC_8YH9B",
-      "title": "Dinosaur Jr setlist",
-      "description": "",
-      "published_at": "2021-12-24T16:58:03Z",
-      "channel_title": "Graham Moore",
-      "channel_id": "UCRPFdfR32YXV7X86hHto7YA",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
-      "video_count": 21
-    },
-    {
       "playlist_id": "PL6H4g-gc1PWzQjUOl7Pec70pesUIzVxRj",
       "title": "Witch-J. Mascis",
       "description": "",
@@ -2995,16 +3005,6 @@
       "channel_id": "UCnYEqAPVBhF2CBLRgFKGuXQ",
       "thumbnail_url": "https://i.ytimg.com/vi/qGTeID0b7bU/hqdefault.jpg",
       "video_count": 8
-    },
-    {
-      "playlist_id": "PLSBWvYm8t6ubeINRr1iM_LdyWIPz12Eju",
-      "title": "Dinosaur Jr. - There Near (FULL ALBUM 2026) Sweep It Into Space",
-      "description": "Dinosaur Jr. - There Near (FULL ALBUM 2026) Sweep It Into Space.",
-      "published_at": "2021-04-22T13:53:57Z",
-      "channel_title": "\u03bf \u03b5\u03c6\u03b9\u03ac\u03bb\u03c4\u03b7\u03c2 \u03c3\u03bf\u03c5",
-      "channel_id": "UC07Ky8wPJ83vF3Dv6XrDGZA",
-      "thumbnail_url": "https://i.ytimg.com/vi/2XwYVWnYMB8/hqdefault.jpg",
-      "video_count": 24
     }
   ]
 }
