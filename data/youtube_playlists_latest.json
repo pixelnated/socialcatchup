@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-09 12:02 UTC",
-  "fetched_at_iso": "2026-09-09T12:02:52Z",
+  "fetched_at_utc": "2026-09-10 00:04 UTC",
+  "fetched_at_iso": "2026-09-10T00:04:35Z",
   "result_count": 300,
   "playlists": [
     {
@@ -14,7 +14,7 @@
       "channel_title": "\u767d\u6f5f\u5fb3\u6cbb",
       "channel_id": "UC_r7YNpX4brNjPcHdB3AHaA",
       "thumbnail_url": "https://i.ytimg.com/vi/ct2iZmwD-J8/hqdefault.jpg",
-      "video_count": 21
+      "video_count": 68
     },
     {
       "playlist_id": "PLDk4iaAAs3L8",
@@ -1015,16 +1015,6 @@
       "channel_id": "UCneE6t_EYIOgON1rMdtpwJQ",
       "thumbnail_url": "https://i.ytimg.com/vi/d1ISJmz0dZI/hqdefault.jpg",
       "video_count": 27
-    },
-    {
-      "playlist_id": "PLuy0bmScRXkHNfzfJsPrq1t2JEuTpj5ID",
-      "title": "Dinosaur Jr.",
-      "description": "",
-      "published_at": "2026-01-08T00:33:41Z",
-      "channel_title": "Bridgett De Leon",
-      "channel_id": "UCKuvTMT9OrCx7m5YJcFTqaw",
-      "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
-      "video_count": 53
     },
     {
       "playlist_id": "PLM0jPcYB2ju9aaLt0mmoaetyg1gvxB4if",
@@ -2507,16 +2497,6 @@
       "video_count": 9
     },
     {
-      "playlist_id": "PLoguKkStf_K60T3r50COKFJoxtTOuRzIO",
-      "title": "Dinosaur Jr.",
-      "description": "",
-      "published_at": "2023-05-19T02:06:46Z",
-      "channel_title": "Arhythmatic",
-      "channel_id": "UCzaPJ_Z3-sioQgMgDBKRVnA",
-      "thumbnail_url": "https://i.ytimg.com/vi/HGicymPwcUY/hqdefault.jpg",
-      "video_count": 8
-    },
-    {
       "playlist_id": "PLz6fYeROpAx7TEeas0gaPJY8W6ZJCGzTh",
       "title": "Dinosaur Jr. - Roadrunner Boston 5.13.2023",
       "description": "",
@@ -3004,6 +2984,26 @@
       "channel_title": "\u6e05\u6c34\u88d5\u4e45",
       "channel_id": "UCxpNFOJVd1juBZTBekRUElQ",
       "thumbnail_url": "https://i.ytimg.com/vi/51WW3vUKF5Q/hqdefault.jpg",
+      "video_count": 19
+    },
+    {
+      "playlist_id": "PL3GOaZCXVJzxCwrs89_oTx3dCBxFJDlNd",
+      "title": "J. Mascis+Dinosaur Jr.",
+      "description": "",
+      "published_at": "2021-03-03T14:35:06Z",
+      "channel_title": "Andy Vasquez",
+      "channel_id": "UCQFbw19kUGyJDiQXa3f0mqw",
+      "thumbnail_url": "https://i.ytimg.com/vi/3N9yhRlNaUw/hqdefault.jpg",
+      "video_count": 14
+    },
+    {
+      "playlist_id": "PLFV4Gr8OvH_N39p-DjaxsdZsMgEwsxkzV",
+      "title": "Dinosaur Jr Best Imaginary Mixtape",
+      "description": "https://www.dinosaurjr.com.",
+      "published_at": "2021-01-13T01:53:23Z",
+      "channel_title": "Andrew Bullock",
+      "channel_id": "UCXayJVTj22Z6po2SVwsJn4Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/gHnPaGFzhTY/hqdefault.jpg",
       "video_count": 19
     }
   ]
