@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-16 12:03 UTC",
-  "fetched_at_iso": "2026-09-16T12:03:05Z",
+  "fetched_at_utc": "2026-09-17 00:04 UTC",
+  "fetched_at_iso": "2026-09-17T00:04:12Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLMFqz_fkccSc",
+      "title": "Dinosaur Jr - Green Mind",
+      "description": "",
+      "published_at": "2026-09-16T19:54:44Z",
+      "channel_title": "A G",
+      "channel_id": "UCwDNmHccxZIsz-klrhasTOA",
+      "thumbnail_url": "https://i.ytimg.com/vi/86JvaWOeUgw/hqdefault.jpg",
+      "video_count": 10
+    },
     {
       "playlist_id": "PLAEwjU9FCX00",
       "title": "Dinosaur Jr.",
@@ -54,7 +64,7 @@
       "channel_title": "fukumimi",
       "channel_id": "UCG9_JAy31ntklZTQ5zPTN9A",
       "thumbnail_url": "https://i.ytimg.com/vi/jDKJUvnyIMQ/hqdefault.jpg",
-      "video_count": 125
+      "video_count": 121
     },
     {
       "playlist_id": "PLDa_w_ZyK-RE",
@@ -345,16 +355,6 @@
       "channel_id": "UCoVbIxezQ01awI7qXCc_VHQ",
       "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
       "video_count": 10
-    },
-    {
-      "playlist_id": "PLBI_CjAnN9-I",
-      "title": "Sebadoh",
-      "description": "",
-      "published_at": "2026-08-18T11:35:06Z",
-      "channel_title": "kien",
-      "channel_id": "UCaNjR6aulyXKAXEHojKuJXA",
-      "thumbnail_url": "https://i.ytimg.com/vi/cHENmlS2ASA/hqdefault.jpg",
-      "video_count": 9
     },
     {
       "playlist_id": "PLTyrkuYXffvQ",
@@ -1137,16 +1137,6 @@
       "video_count": 10
     },
     {
-      "playlist_id": "PL3uTM_UVLaKXH9F13OkIAc88R3eIpaBhs",
-      "title": "Dinosaur Jr. - Blue Room Sessions (Single)",
-      "description": "",
-      "published_at": "2025-11-29T01:26:28Z",
-      "channel_title": "Everly Huckle",
-      "channel_id": "UCueId1FRUDmYWtCYhcG5eog",
-      "thumbnail_url": "https://i.ytimg.com/vi/3IsTiUhik20/hqdefault.jpg",
-      "video_count": 55
-    },
-    {
       "playlist_id": "PLEULZBF0kjHt--9FFxwoATnlqqSbeXm2K",
       "title": "Dinosaur Jr.  Over It | Single",
       "description": "",
@@ -1267,6 +1257,16 @@
       "video_count": 152
     },
     {
+      "playlist_id": "PLcOXU8A_swouRFN2cBouZ49L8P2YNIo8u",
+      "title": "Dinosaur Jr. - \u201cSeventytwohundredseconds\u201d (Full Album)",
+      "description": "",
+      "published_at": "2025-10-27T23:49:26Z",
+      "channel_title": "Charlie Rich",
+      "channel_id": "UCtzgmKivemgKnz91iEFcugg",
+      "thumbnail_url": "https://i.ytimg.com/vi/3IsTiUhik20/hqdefault.jpg",
+      "video_count": 55
+    },
+    {
       "playlist_id": "PLqeGmmszAK6NekGNjcBlRazN0tZ5Oqngi",
       "title": "Dinosaur Jr",
       "description": "",
@@ -1325,6 +1325,16 @@
       "channel_id": "UCWzbGJaYsC9wuJxSHXLK1iw",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 65
+    },
+    {
+      "playlist_id": "PLfBYTtipWElCB5hojiuiGjY2aV14X1BNQ",
+      "title": "Mix - Mitilanti e Mascis",
+      "description": "Music by Mitilanti e Mascis / Mitilanti e Mascis tracklist: Corsica 1999 A Volte Vorrei Ti Ho Chiesto Ponte D'Arbia Vuoto D'Aria Non ...",
+      "published_at": "2025-08-24T02:19:52Z",
+      "channel_title": "brdjhnsn",
+      "channel_id": "UCW_U2L3I2RIAeLHxcei0lJA",
+      "thumbnail_url": "https://i.ytimg.com/vi/mYKuuiYvVS0/hqdefault.jpg",
+      "video_count": 7
     },
     {
       "playlist_id": "PLbfLZr66NUVxyijJFQ7_HecekjRLwp2Ee",
@@ -1997,16 +2007,6 @@
       "video_count": 7
     },
     {
-      "playlist_id": "PL-A_6MpPoIaRVUWjJFQlP29KAQYqDJuO0",
-      "title": "Dinosaur Jr - Feel The Pain by dinosaurjnr and more",
-      "description": "Credits go for: dinosaurjnr, Sunny Day Real Estate , Slowdive Official, 311, Sunny Day Real Estate - Topic, What's for afters?, ...",
-      "published_at": "2025-01-12T00:21:49Z",
-      "channel_title": "cuhrazyy",
-      "channel_id": "UCCkKbzkbNJ8SloqMFavc7ZA",
-      "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
-      "video_count": 15
-    },
-    {
       "playlist_id": "PLmiMnYsxGDXLQmiGao22PBwWz_j71WGTV",
       "title": "Yeah We Know (Dinosaur Jr. - Topic), ...",
       "description": "will be watching on lunch break :D uploads by: Dinosaur Jr. - Topic, KEXP, dinosaurjnr, The Breeders, Reverb, masiozares, ...",
@@ -2215,16 +2215,6 @@
       "channel_id": "UCkrym9mF-5CDAdHaIb3kE9g",
       "thumbnail_url": "https://i.ytimg.com/vi/LkgXTDqiRFs/hqdefault.jpg",
       "video_count": 21
-    },
-    {
-      "playlist_id": "PLr6ha6SKZ0XPUsT6Npag8wD1g1xKbqZdR",
-      "title": "From DEEP WOUND To DINOSAUR Jr.",
-      "description": "",
-      "published_at": "2024-06-23T21:47:51Z",
-      "channel_title": "Marco Luparia",
-      "channel_id": "UCMEVp1MAABXFWotfXvLW2hA",
-      "thumbnail_url": "https://i.ytimg.com/vi/wBMrVh3Rx0A/hqdefault.jpg",
-      "video_count": 81
     },
     {
       "playlist_id": "PLZypoF04ZcKd0hAiTfOglz9qF271fazOx",
@@ -2727,6 +2717,16 @@
       "video_count": 10
     },
     {
+      "playlist_id": "PLOJS0PDGJsl3mm2N5B8Sdfz7AIU7fcMdS",
+      "title": "Dinosaur Jr.",
+      "description": "",
+      "published_at": "2023-01-05T06:58:34Z",
+      "channel_title": "Harmony Rockets",
+      "channel_id": "UCjQ-p3rOHM3FK1hhjk1saCg",
+      "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
+      "video_count": 18
+    },
+    {
       "playlist_id": "PLY794u4ALcq-L55hOGs0qo6hsdTO-YCz-",
       "title": "J Mascis",
       "description": "",
@@ -2867,16 +2867,6 @@
       "video_count": 20
     },
     {
-      "playlist_id": "PLVlA7k9mkZmsEQ9NMdR90euW3glm3CckZ",
-      "title": "J Mascis",
-      "description": "",
-      "published_at": "2022-03-28T17:50:19Z",
-      "channel_title": "Mirna Valhalla",
-      "channel_id": "UCRoAXJho-d9iawQpw4-1zoA",
-      "thumbnail_url": "https://i.ytimg.com/vi/zMleorxm0h8/hqdefault.jpg",
-      "video_count": 25
-    },
-    {
       "playlist_id": "PLLJomVjCOvkijq5OCMgePfvi_OhPo7tbz",
       "title": "Dinosaur Jr",
       "description": "",
@@ -3005,6 +2995,16 @@
       "channel_id": "UCP9xqPph2ae42HCv3RwdUTw",
       "thumbnail_url": "https://i.ytimg.com/vi/yckoAPhzKb0/hqdefault.jpg",
       "video_count": 8
+    },
+    {
+      "playlist_id": "PLIsBnICe1ML8xxA7vq91WZ-lVjYAJ_S0O",
+      "title": "Dinosaur Jr Covers",
+      "description": "",
+      "published_at": "2021-08-21T09:25:47Z",
+      "channel_title": "Ben Washbrook",
+      "channel_id": "UCSvUnn3X-iTWbxwp2uixQjw",
+      "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
+      "video_count": 14
     }
   ]
 }
