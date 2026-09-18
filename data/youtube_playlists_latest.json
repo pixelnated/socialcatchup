@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-17 12:03 UTC",
-  "fetched_at_iso": "2026-09-17T12:03:05Z",
+  "fetched_at_utc": "2026-09-18 00:04 UTC",
+  "fetched_at_iso": "2026-09-18T00:04:10Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLJu_b7x7ADfw",
+      "title": "2026.09 POPR Dinosaur Jr / TT",
+      "description": "",
+      "published_at": "2026-09-17T21:37:26Z",
+      "channel_title": "EVRARD J\u00e9r\u00f4me",
+      "channel_id": "UCx_HE_PB-eHxZJiHY6Arc3Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/RQHdQqJKmbI/hqdefault.jpg",
+      "video_count": 11
+    },
     {
       "playlist_id": "PLMFqz_fkccSc",
       "title": "Dinosaur Jr - Green Mind",
@@ -154,7 +164,7 @@
       "channel_title": "Brian Smyth",
       "channel_id": "UCID3GGI4uP_acknJZBRMzBg",
       "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
-      "video_count": 11
+      "video_count": 12
     },
     {
       "playlist_id": "PLdwnUqzusIJE",
@@ -744,7 +754,7 @@
       "channel_title": "Jamie Illman",
       "channel_id": "UCvPtP4rVqYDI8qRRAULAf3g",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
-      "video_count": 131
+      "video_count": 142
     },
     {
       "playlist_id": "PL7yUlRpjPP7LQDEiu2iB-0dckC7g55kcE",
@@ -1005,6 +1015,26 @@
       "channel_id": "UC3636DOpP-8UyeKl0SGZnkw",
       "thumbnail_url": "https://i.ytimg.com/vi/T7ys-jH5kvc/hqdefault.jpg",
       "video_count": 53
+    },
+    {
+      "playlist_id": "PLGbPIpBQTMdrFJ0NFQ0mJJ9Skx8iswYrH",
+      "title": "Best of Dinosaur Jr. Songbook",
+      "description": "",
+      "published_at": "2026-03-05T17:30:51Z",
+      "channel_title": "David Thorpe",
+      "channel_id": "UCh-rsb-kZUkp0OzWh8zQL3g",
+      "thumbnail_url": "https://i.ytimg.com/vi/9-tkwY2aDkA/hqdefault.jpg",
+      "video_count": 12
+    },
+    {
+      "playlist_id": "PLHZ7noO7XrwnWR4OZJkhnZ1z_68if1KEt",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2026-03-03T10:50:53Z",
+      "channel_title": "Guilherme Palma",
+      "channel_id": "UCmQ0WmP3OcCeg8BCToKcn4Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wk_0z6rHvnU/hqdefault.jpg",
+      "video_count": 14
     },
     {
       "playlist_id": "PLJKsu4lL_CVe6h_W4RIAlxUWTu3l-yb7a",
@@ -1415,16 +1445,6 @@
       "channel_id": "UCTco7_oqDQw5bfcJICVlSeA",
       "thumbnail_url": "https://i.ytimg.com/vi/hQb8kB5-MV0/hqdefault.jpg",
       "video_count": 11
-    },
-    {
-      "playlist_id": "PLn9ZHQFyNicq9qN5OlU6e6nf5sGUoIFxf",
-      "title": "Lou Barlow - Songs from Loobiecore 2.5 (Full Album)",
-      "description": "The full album for Songs from Loobiecore 2.5 / Music by Lou Barlow playlist Lou Barlow - Songs from Loobiecore 2.5 / Lou Barlow ...",
-      "published_at": "2025-08-10T23:48:22Z",
-      "channel_title": "trutje1970",
-      "channel_id": "UCbcWr7_cJgAPYfloY9ksA4A",
-      "thumbnail_url": "https://i.ytimg.com/vi/FTjy1NMvYME/hqdefault.jpg",
-      "video_count": 32
     },
     {
       "playlist_id": "PL9ElQ_sK6adL2RAdkQvu1i-FQlTiuH0xY",
@@ -2985,26 +3005,6 @@
       "channel_id": "UCG91ylymZlVVMFxL0W5mrSg",
       "thumbnail_url": "https://i.ytimg.com/vi/PpVXCOsSlQc/hqdefault.jpg",
       "video_count": 16
-    },
-    {
-      "playlist_id": "PLBXKzN4qVCIyTmOPa1NbTmEI7xlViL-wr",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2021-10-10T23:39:03Z",
-      "channel_title": "TimBobbro",
-      "channel_id": "UCepZgOUyMr02egVMQ1A7_8w",
-      "thumbnail_url": "https://i.ytimg.com/vi/5eO6up9Gpv0/hqdefault.jpg",
-      "video_count": 9
-    },
-    {
-      "playlist_id": "PLNFEuWs1lFjC5TsRZCF3pb85EdaY84Llf",
-      "title": "Dinosaur jr bitch",
-      "description": "",
-      "published_at": "2021-09-19T23:25:48Z",
-      "channel_title": "Blurfest",
-      "channel_id": "UClhG20_3IaEt5JqREf3Si_Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
-      "video_count": 14
     }
   ]
 }
