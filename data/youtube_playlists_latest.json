@@ -2,10 +2,30 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-19 00:04 UTC",
-  "fetched_at_iso": "2026-09-19T00:04:30Z",
+  "fetched_at_utc": "2026-09-19 12:02 UTC",
+  "fetched_at_iso": "2026-09-19T12:02:22Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLMvORD3QMp-U",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2026-09-19T03:28:58Z",
+      "channel_title": "Felicia Hall",
+      "channel_id": "UCmo7gTYys1pNvnjTK6BRsvQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/dEMpedLZGok/hqdefault.jpg",
+      "video_count": 8
+    },
+    {
+      "playlist_id": "PLBvYfgmNyyMM",
+      "title": "DINOSAUR JR.",
+      "description": "",
+      "published_at": "2026-09-19T03:12:10Z",
+      "channel_title": "Anna Raineri",
+      "channel_id": "UCNLa9BX1edFw8Xlf2mPsLXQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/RQHdQqJKmbI/hqdefault.jpg",
+      "video_count": 11
+    },
     {
       "playlist_id": "PLJu_b7x7ADfw",
       "title": "2026.09 POPR Dinosaur Jr / TT",
@@ -1085,6 +1105,16 @@
       "channel_id": "UCRWLYuFfMpfcKCxs6-9rFeg",
       "thumbnail_url": "https://i.ytimg.com/vi/PvvkEMlqda8/hqdefault.jpg",
       "video_count": 49
+    },
+    {
+      "playlist_id": "PLCJ1qNYcvO7sYzm4ySwHMKxvoHeDrwcKF",
+      "title": "Dinosaur Jr. - \u201cPierce the Morning Rain\u201d (Single)",
+      "description": "",
+      "published_at": "2026-01-30T04:33:52Z",
+      "channel_title": "Dara Musco",
+      "channel_id": "UCrfugiUWYRvbWrQr5nEXHqA",
+      "thumbnail_url": "https://i.ytimg.com/vi/MhKzke7W7OQ/hqdefault.jpg",
+      "video_count": 54
     },
     {
       "playlist_id": "PLDErGz4BqWYdz_vX_TLLb5erRDK1S7aNU",
@@ -2975,36 +3005,6 @@
       "channel_id": "UCaKiC6fBme0FJlaqz2x9BoQ",
       "thumbnail_url": "https://i.ytimg.com/vi/jeUoLheDiqw/hqdefault.jpg",
       "video_count": 59
-    },
-    {
-      "playlist_id": "PL6H4g-gc1PWzQjUOl7Pec70pesUIzVxRj",
-      "title": "Witch-J. Mascis",
-      "description": "",
-      "published_at": "2021-12-14T22:58:00Z",
-      "channel_title": "Zee B. Donaldson",
-      "channel_id": "UCjobUipKOC7rlbYGfMDS8Ig",
-      "thumbnail_url": "https://i.ytimg.com/vi/3w9hAhS93qg/hqdefault.jpg",
-      "video_count": 14
-    },
-    {
-      "playlist_id": "PLfJ2VMp_AJy-lVSY4gnwlCakwpY7_aSDm",
-      "title": "DINOSAUR JR  BEYOND",
-      "description": "",
-      "published_at": "2021-11-19T21:14:12Z",
-      "channel_title": "thomas knipp",
-      "channel_id": "UCZbHzD1sPr8P39oxzckFIIQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wk_0z6rHvnU/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
-      "playlist_id": "PL5_qpf49mWtkZKUHYFJYygbtUZ-Lkm__w",
-      "title": "Dinosaur Jr. - Emptiness at the Sinclair [2021]",
-      "description": "",
-      "published_at": "2021-10-29T15:10:17Z",
-      "channel_title": "realexkav",
-      "channel_id": "UCG91ylymZlVVMFxL0W5mrSg",
-      "thumbnail_url": "https://i.ytimg.com/vi/PpVXCOsSlQc/hqdefault.jpg",
-      "video_count": 16
     }
   ]
 }
