@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-20 00:05 UTC",
-  "fetched_at_iso": "2026-09-20T00:05:09Z",
+  "fetched_at_utc": "2026-09-20 12:02 UTC",
+  "fetched_at_iso": "2026-09-20T12:02:18Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLE-lftJTUpZA",
+      "title": "DINOSAUR JR",
+      "description": "",
+      "published_at": "2026-09-19T17:19:49Z",
+      "channel_title": "Mars",
+      "channel_id": "UCBQYhMBmKregHg6Bl9QC2lA",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
+      "video_count": 116
+    },
     {
       "playlist_id": "PLMvORD3QMp-U",
       "title": "Dinosaur Jr",
@@ -605,16 +615,6 @@
       "channel_id": "UCdTE7TNwWPGB6o8MOe-lJOg",
       "thumbnail_url": "https://i.ytimg.com/vi/Es8elGpszxI/hqdefault.jpg",
       "video_count": 28
-    },
-    {
-      "playlist_id": "PLbr8acRWzbMfTKGipk-a4yo0rS3yPFRx7",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-06-08T02:18:45Z",
-      "channel_title": "Tim Shields",
-      "channel_id": "UC4FkgSg0P9R8EsIMdnFSQ7g",
-      "thumbnail_url": "https://i.ytimg.com/vi/dEMpedLZGok/hqdefault.jpg",
-      "video_count": 17
     },
     {
       "playlist_id": "PLEOMOHKhhJabzyWCN9tr9ZFZF9OknCNpw",
@@ -1737,6 +1737,16 @@
       "video_count": 31
     },
     {
+      "playlist_id": "PLG-idShYpDGhzG8AX_t5RrtSrBQRYcj-5",
+      "title": "#3 - Mind Playing Tricks with J Mascis",
+      "description": "J Mascis has joined Double J for April and is digging deep into his record collection to bring you an unmissable two hours of killer ...",
+      "published_at": "2025-07-26T11:59:33Z",
+      "channel_title": "Tiago Laranjo",
+      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
+      "thumbnail_url": "https://i.ytimg.com/vi/n7SXX4ZXXFE/hqdefault.jpg",
+      "video_count": 25
+    },
+    {
       "playlist_id": "PLG-idShYpDGg1CKm3LFdI0bVVoBhdVGl1",
       "title": "#2 - Deep In The Woods with J Mascis",
       "description": "J Mascis has joined Double J for April and is digging deep into his record collection to bring you an unmissable two hours of killer ...",
@@ -2197,6 +2207,16 @@
       "video_count": 135
     },
     {
+      "playlist_id": "PLmElE5AEv9UL8249CDAeghLb9KXhXTKkU",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-08-21T11:57:29Z",
+      "channel_title": "Bryan's Songs",
+      "channel_id": "UCJFxhYfsJRNoWCUydrTdLnA",
+      "thumbnail_url": "https://i.ytimg.com/vi/MwmkErJ35O4/hqdefault.jpg",
+      "video_count": 14
+    },
+    {
       "playlist_id": "PLGJNsANtrQpacNf4b6nDyUQKz9Lr5OWVt",
       "title": "dinosaur jr \ud83e\udd95",
       "description": "",
@@ -2507,6 +2527,16 @@
       "video_count": 20
     },
     {
+      "playlist_id": "PL0-or6onDTMtm8OdKh72JZ-mwPwU8EKDJ",
+      "title": "Cult American &quot;indie rock&quot; band 12 : Dinosaur Jr (discographic selection : the first 6 albums) - indie rock/noise pop/slacker rock - [1984-1994]",
+      "description": "",
+      "published_at": "2023-12-13T17:01:57Z",
+      "channel_title": "PROCUREUR Beno\u00eet",
+      "channel_id": "UCWvBXdjxRaCeomQidEhoWmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
+      "video_count": 68
+    },
+    {
       "playlist_id": "PLUX4TTXGDj7PdRYH0WlPaySaXUFVQfwO5",
       "title": "J Mascis",
       "description": "",
@@ -2535,6 +2565,16 @@
       "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 58
+    },
+    {
+      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
+      "title": "Dinosaur Jr &amp; Related",
+      "description": "",
+      "published_at": "2023-10-12T10:28:55Z",
+      "channel_title": "Scott McAvoy",
+      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
+      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
+      "video_count": 8
     },
     {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
@@ -2787,16 +2827,6 @@
       "video_count": 7
     },
     {
-      "playlist_id": "PLr80IPQ7f5lMdzI7mrz9em5gUKU6g55d6",
-      "title": "J mascis and the fog + j mascis",
-      "description": "",
-      "published_at": "2022-10-26T11:06:32Z",
-      "channel_title": "Daniel Morales",
-      "channel_id": "UCFmzpw508BW9i3LLYF8zXsg",
-      "thumbnail_url": "https://i.ytimg.com/vi/wOyquBokaSM/hqdefault.jpg",
-      "video_count": 40
-    },
-    {
       "playlist_id": "PLSIAm3L2zObPRv71XwKCxQLY5GiyglsYS",
       "title": "Lou Barlow\u2019s Dinosaur Jr Songs",
       "description": "",
@@ -2975,36 +3005,6 @@
       "channel_id": "UCZxUi7Bz-Yly06jNOjCD2Yg",
       "thumbnail_url": "https://i.ytimg.com/vi/4QkX3wea8eY/hqdefault.jpg",
       "video_count": 20
-    },
-    {
-      "playlist_id": "PLMaIU89SeKmW66IJtKr2cFJuRjW0KBmlP",
-      "title": "Dinosaur Jr // My Best Of",
-      "description": "\"I know your name I know the people out there feel the same I know you're gone I hope you got some friends to come along I know ...",
-      "published_at": "2022-01-05T13:48:49Z",
-      "channel_title": "emii",
-      "channel_id": "UCaKiC6fBme0FJlaqz2x9BoQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/jeUoLheDiqw/hqdefault.jpg",
-      "video_count": 59
-    },
-    {
-      "playlist_id": "PL6H4g-gc1PWzQjUOl7Pec70pesUIzVxRj",
-      "title": "Witch-J. Mascis",
-      "description": "",
-      "published_at": "2021-12-14T22:58:00Z",
-      "channel_title": "Zee B. Donaldson",
-      "channel_id": "UCjobUipKOC7rlbYGfMDS8Ig",
-      "thumbnail_url": "https://i.ytimg.com/vi/3w9hAhS93qg/hqdefault.jpg",
-      "video_count": 14
-    },
-    {
-      "playlist_id": "PLfJ2VMp_AJy-lVSY4gnwlCakwpY7_aSDm",
-      "title": "DINOSAUR JR  BEYOND",
-      "description": "",
-      "published_at": "2021-11-19T21:14:12Z",
-      "channel_title": "thomas knipp",
-      "channel_id": "UCZbHzD1sPr8P39oxzckFIIQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wk_0z6rHvnU/hqdefault.jpg",
-      "video_count": 11
     }
   ]
 }
