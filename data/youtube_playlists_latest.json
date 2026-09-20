@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-19 12:02 UTC",
-  "fetched_at_iso": "2026-09-19T12:02:22Z",
+  "fetched_at_utc": "2026-09-20 00:05 UTC",
+  "fetched_at_iso": "2026-09-20T00:05:09Z",
   "result_count": 300,
   "playlists": [
     {
@@ -94,7 +94,7 @@
       "channel_title": "fukumimi",
       "channel_id": "UCG9_JAy31ntklZTQ5zPTN9A",
       "thumbnail_url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-      "video_count": 112
+      "video_count": 109
     },
     {
       "playlist_id": "PLDa_w_ZyK-RE",
@@ -897,6 +897,16 @@
       "video_count": 6
     },
     {
+      "playlist_id": "PLbV4ac_CmrNqT3-VJf75Sav7sO0JARS_v",
+      "title": "dinosaur jr",
+      "description": "",
+      "published_at": "2026-04-06T11:09:02Z",
+      "channel_title": "Toby Millar",
+      "channel_id": "UCVr0xpZpFfqRuSbCCcvu0PA",
+      "thumbnail_url": "https://i.ytimg.com/vi/hZcbMZz1ato/hqdefault.jpg",
+      "video_count": 9
+    },
+    {
       "playlist_id": "PLjMLOeYxbmkRaNkucWDq5xHFTlBTngwww",
       "title": "Fall into Dinosaur Jr",
       "description": "",
@@ -1255,16 +1265,6 @@
       "channel_id": "UC8AI_lF8B9Ep81eyajfybbw",
       "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
       "video_count": 27
-    },
-    {
-      "playlist_id": "PLdgfKxKXqHyd-P09hY3W8cSyCJEk5H0Ua",
-      "title": "Dinosaur Jr. - Nothin&#39;s Goin On (Single)",
-      "description": "",
-      "published_at": "2025-11-09T20:31:58Z",
-      "channel_title": "Rose Chatlos",
-      "channel_id": "UCS3DVsipazSBH4CX2c-Zd1g",
-      "thumbnail_url": "https://i.ytimg.com/vi/9oQB9rJyOqI/hqdefault.jpg",
-      "video_count": 55
     },
     {
       "playlist_id": "PLoR4e6RPWa-37Ltbuz4AfjooprbLgcfbb",
@@ -2507,16 +2507,6 @@
       "video_count": 20
     },
     {
-      "playlist_id": "PL0-or6onDTMtm8OdKh72JZ-mwPwU8EKDJ",
-      "title": "Cult American &quot;indie rock&quot; band 12 : Dinosaur Jr (discographic selection : the first 6 albums) - indie rock/noise pop/slacker rock - [1984-1994]",
-      "description": "",
-      "published_at": "2023-12-13T17:01:57Z",
-      "channel_title": "PROCUREUR Beno\u00eet",
-      "channel_id": "UCWvBXdjxRaCeomQidEhoWmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": 68
-    },
-    {
       "playlist_id": "PLUX4TTXGDj7PdRYH0WlPaySaXUFVQfwO5",
       "title": "J Mascis",
       "description": "",
@@ -2545,16 +2535,6 @@
       "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 58
-    },
-    {
-      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
-      "title": "Dinosaur Jr &amp; Related",
-      "description": "",
-      "published_at": "2023-10-12T10:28:55Z",
-      "channel_title": "Scott McAvoy",
-      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
-      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
-      "video_count": 8
     },
     {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
@@ -3005,6 +2985,26 @@
       "channel_id": "UCaKiC6fBme0FJlaqz2x9BoQ",
       "thumbnail_url": "https://i.ytimg.com/vi/jeUoLheDiqw/hqdefault.jpg",
       "video_count": 59
+    },
+    {
+      "playlist_id": "PL6H4g-gc1PWzQjUOl7Pec70pesUIzVxRj",
+      "title": "Witch-J. Mascis",
+      "description": "",
+      "published_at": "2021-12-14T22:58:00Z",
+      "channel_title": "Zee B. Donaldson",
+      "channel_id": "UCjobUipKOC7rlbYGfMDS8Ig",
+      "thumbnail_url": "https://i.ytimg.com/vi/3w9hAhS93qg/hqdefault.jpg",
+      "video_count": 14
+    },
+    {
+      "playlist_id": "PLfJ2VMp_AJy-lVSY4gnwlCakwpY7_aSDm",
+      "title": "DINOSAUR JR  BEYOND",
+      "description": "",
+      "published_at": "2021-11-19T21:14:12Z",
+      "channel_title": "thomas knipp",
+      "channel_id": "UCZbHzD1sPr8P39oxzckFIIQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Wk_0z6rHvnU/hqdefault.jpg",
+      "video_count": 11
     }
   ]
 }
