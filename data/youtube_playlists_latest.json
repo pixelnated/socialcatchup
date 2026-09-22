@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-22 00:05 UTC",
-  "fetched_at_iso": "2026-09-22T00:05:30Z",
+  "fetched_at_utc": "2026-09-22 12:02 UTC",
+  "fetched_at_iso": "2026-09-22T12:02:15Z",
   "result_count": 300,
   "playlists": [
     {
@@ -49,7 +49,7 @@
     {
       "playlist_id": "PLBvYfgmNyyMM",
       "title": "DINOSAUR JR.",
-      "description": "",
+      "description": "THERE NEAR.",
       "published_at": "2026-09-19T03:12:10Z",
       "channel_title": "Anna Raineri",
       "channel_id": "UCNLa9BX1edFw8Xlf2mPsLXQ",
@@ -747,16 +747,6 @@
       "video_count": 50
     },
     {
-      "playlist_id": "PL-UfIOU7hzBxMNb3iL4uteXM__yNOfm3b",
-      "title": "Dinosaur Jr.  2011-06-26: Variety Playhouse, Athens, GA, USA | FULL ALBUM",
-      "description": "",
-      "published_at": "2026-05-31T15:17:15Z",
-      "channel_title": "Herman Gault",
-      "channel_id": "UCRa5uM2sQtVDd6vOYWqTiAQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/XL218-kU8LQ/hqdefault.jpg",
-      "video_count": 50
-    },
-    {
       "playlist_id": "PL6AKXmliPZe01fBnhmD6IQiA6WYwAZU_u",
       "title": "Dinosaur Jr. - 2011-06-26: Variety Playhouse, Athens, GA, USA (Full Album)",
       "description": "",
@@ -915,6 +905,16 @@
       "channel_id": "UCjmV5g_qALv5ZubfCUyyO8Q",
       "thumbnail_url": "https://i.ytimg.com/vi/pxLpEX2bt8w/hqdefault.jpg",
       "video_count": 6
+    },
+    {
+      "playlist_id": "PLbV4ac_CmrNqT3-VJf75Sav7sO0JARS_v",
+      "title": "dinosaur jr",
+      "description": "",
+      "published_at": "2026-04-06T11:09:02Z",
+      "channel_title": "Toby Millar",
+      "channel_id": "UCVr0xpZpFfqRuSbCCcvu0PA",
+      "thumbnail_url": "https://i.ytimg.com/vi/hZcbMZz1ato/hqdefault.jpg",
+      "video_count": 9
     },
     {
       "playlist_id": "PLjMLOeYxbmkRaNkucWDq5xHFTlBTngwww",
@@ -1264,16 +1264,6 @@
       "channel_title": "EL CHIRINGUITO MUSICAL",
       "channel_id": "UC8AI_lF8B9Ep81eyajfybbw",
       "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
-      "video_count": 27
-    },
-    {
-      "playlist_id": "PLOC49329x2N0NO_giQTcV17ABc14PbuZt",
-      "title": "Dinosaur Jr.  Emptiness at The Sinclair | FULL ALBUM",
-      "description": "",
-      "published_at": "2025-11-11T21:31:45Z",
-      "channel_title": "Mia Enfort",
-      "channel_id": "UCeApgmcYgdfgoJ1yoVxSVYA",
-      "thumbnail_url": "https://i.ytimg.com/vi/9oQB9rJyOqI/hqdefault.jpg",
       "video_count": 27
     },
     {
@@ -3005,6 +2995,16 @@
       "channel_id": "UCZxUi7Bz-Yly06jNOjCD2Yg",
       "thumbnail_url": "https://i.ytimg.com/vi/4QkX3wea8eY/hqdefault.jpg",
       "video_count": 20
+    },
+    {
+      "playlist_id": "PLMaIU89SeKmW66IJtKr2cFJuRjW0KBmlP",
+      "title": "Dinosaur Jr // My Best Of",
+      "description": "\"I know your name I know the people out there feel the same I know you're gone I hope you got some friends to come along I know ...",
+      "published_at": "2022-01-05T13:48:49Z",
+      "channel_title": "emii",
+      "channel_id": "UCaKiC6fBme0FJlaqz2x9BoQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/jeUoLheDiqw/hqdefault.jpg",
+      "video_count": 59
     }
   ]
 }
