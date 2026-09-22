@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-21 12:02 UTC",
-  "fetched_at_iso": "2026-09-21T12:02:45Z",
+  "fetched_at_utc": "2026-09-22 00:05 UTC",
+  "fetched_at_iso": "2026-09-22T00:05:30Z",
   "result_count": 300,
   "playlists": [
     {
@@ -794,7 +794,7 @@
       "channel_title": "Jamie Illman",
       "channel_id": "UCvPtP4rVqYDI8qRRAULAf3g",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
-      "video_count": 142
+      "video_count": 141
     },
     {
       "playlist_id": "PL7yUlRpjPP7LQDEiu2iB-0dckC7g55kcE",
@@ -1145,16 +1145,6 @@
       "channel_id": "UCneE6t_EYIOgON1rMdtpwJQ",
       "thumbnail_url": "https://i.ytimg.com/vi/d1ISJmz0dZI/hqdefault.jpg",
       "video_count": 27
-    },
-    {
-      "playlist_id": "PLcF_rxCGFAdjC-uh_l3NXZBPvHL0sjlMd",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-01-21T17:52:26Z",
-      "channel_title": "craig norton",
-      "channel_id": "UCwsxRUwNn6CUnkiQq-k72aQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/QjK8TPjlylw/hqdefault.jpg",
-      "video_count": 12
     },
     {
       "playlist_id": "PLuy0bmScRXkHNfzfJsPrq1t2JEuTpj5ID",
@@ -2507,6 +2497,26 @@
       "video_count": 9
     },
     {
+      "playlist_id": "PLEpjZ6a3i26czSG_GeY6N3SzHNPZDr9R-",
+      "title": "J Mascis - What Do We Do Now (ALBUM 2024)",
+      "description": "J Mascis - What Do We Do Now (ALBUM 2024)",
+      "published_at": "2024-01-01T13:33:52Z",
+      "channel_title": "Bliskitunhe",
+      "channel_id": "UCTsq4KfLHdZtgqKSgRw09hw",
+      "thumbnail_url": "https://i.ytimg.com/vi/CM7WAKMW6NU/hqdefault.jpg",
+      "video_count": 19
+    },
+    {
+      "playlist_id": "PLopx1Zw2LK0uGnOO_1o6bqIhEwYT_gfzy",
+      "title": "Dinosaur jr",
+      "description": "",
+      "published_at": "2023-12-28T03:15:51Z",
+      "channel_title": "Mr.Bigglesworth",
+      "channel_id": "UCGRyPTQ1ESZhhZem-AU1XiA",
+      "thumbnail_url": "https://i.ytimg.com/vi/IQi2l1oy1TA/hqdefault.jpg",
+      "video_count": 6
+    },
+    {
       "playlist_id": "PLTY1dG8ymVZea5gRILIx1ShjV0DIIh9WH",
       "title": "j mascis specific",
       "description": "",
@@ -2995,16 +3005,6 @@
       "channel_id": "UCZxUi7Bz-Yly06jNOjCD2Yg",
       "thumbnail_url": "https://i.ytimg.com/vi/4QkX3wea8eY/hqdefault.jpg",
       "video_count": 20
-    },
-    {
-      "playlist_id": "PLMaIU89SeKmW66IJtKr2cFJuRjW0KBmlP",
-      "title": "Dinosaur Jr // My Best Of",
-      "description": "\"I know your name I know the people out there feel the same I know you're gone I hope you got some friends to come along I know ...",
-      "published_at": "2022-01-05T13:48:49Z",
-      "channel_title": "emii",
-      "channel_id": "UCaKiC6fBme0FJlaqz2x9BoQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/jeUoLheDiqw/hqdefault.jpg",
-      "video_count": 59
     }
   ]
 }
