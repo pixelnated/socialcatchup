@@ -2,10 +2,28 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-23 00:04 UTC",
-  "fetched_at_iso": "2026-09-23T00:04:42Z",
+  "fetched_at_utc": "2026-09-23 12:03 UTC",
+  "fetched_at_iso": "2026-09-23T12:03:00Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "SQrZy9F_uUE",
+      "title": "we are blessed and lucky to have this",
+      "description": "This improvisation took place on September 20th 2026. I had fun touching the pickups with a metal carabiner. I'm going to have to ...",
+      "published_at": "2026-09-23T10:28:11Z",
+      "channel_title": "ROMSHII",
+      "channel_id": "UCl6VAZr3RQaZ9FPLkst_-hA",
+      "thumbnail_url": "https://i.ytimg.com/vi/SQrZy9F_uUE/hqdefault.jpg"
+    },
+    {
+      "video_id": "_n_Iox-yP1A",
+      "title": "SMILE YOUR ON CAMERA. #dinosaurjr #ifeelthepain",
+      "description": "",
+      "published_at": "2026-09-23T05:33:42Z",
+      "channel_title": "Ska-tty Sweeney ",
+      "channel_id": "UCzpKP--eEcE65e4NmPbKgZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/_n_Iox-yP1A/hqdefault.jpg"
+    },
     {
       "video_id": "2kwXxtQKbpc",
       "title": "tiny tunes tuesday: perfect way, lazy mind, news about Sebadoh",
@@ -77,15 +95,6 @@
       "channel_title": "Drums",
       "channel_id": "UCD1-XzMPiCj8f0FHi2yTUAA",
       "thumbnail_url": "https://i.ytimg.com/vi/LuSxV-n-vdY/hqdefault.jpg"
-    },
-    {
-      "video_id": "Jlxooc3jMSQ",
-      "title": "Dinosaur Jr. - Forget The Swan (drums backing track)",
-      "description": "This video features \"Forget The Swan\" by Dinosaur Jr.. My sincere appreciation to these musicians. Copyright Notice: All rights to ...",
-      "published_at": "2026-09-21T12:41:33Z",
-      "channel_title": "Drum Station Solo Tracks",
-      "channel_id": "UCeh7R3aJZH84SGVUuFXtGsw",
-      "thumbnail_url": "https://i.ytimg.com/vi/Jlxooc3jMSQ/hqdefault.jpg"
     },
     {
       "video_id": "KEHPUp_Yqf4",
@@ -187,33 +196,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Sl2_cZfUlY0/hqdefault.jpg"
     },
     {
-      "video_id": "4fEhkxOoRO0",
-      "title": "Dinosaur Jr - \u201cTake Me With You\u201d 17th street Virginia Beach Oceanfront 9-12-26",
-      "description": "",
-      "published_at": "2026-09-14T04:03:55Z",
-      "channel_title": "Paul Verebely",
-      "channel_id": "UCkqfbao-1Bc7wTllkUHz06w",
-      "thumbnail_url": "https://i.ytimg.com/vi/4fEhkxOoRO0/hqdefault.jpg"
-    },
-    {
-      "video_id": "9bsBpb8pEKI",
-      "title": "Dinosaur Jr - Feel the Pain (1994) | People Remember The Golf First",
-      "description": "Dinosaur Jr - Feel the Pain (1994) Numbness described from inside it, where even the complaint sounds tired. Go listen to them.",
-      "published_at": "2026-09-14T02:00:37Z",
-      "channel_title": "The Next Radio",
-      "channel_id": "UC1rri5ML24tedIMN8IyDWhg",
-      "thumbnail_url": "https://i.ytimg.com/vi/9bsBpb8pEKI/hqdefault.jpg"
-    },
-    {
-      "video_id": "aG4tKfjzJGM",
-      "title": "Dinosaur Jr - Late Night with David Letterman May 21, 1992 #shorts",
-      "description": "Dinosaur Jr - Late Night with David Letterman May 21, 1992 #90s #letterman #dinosaurjr #livemusic #fyp Watch the full video: ...",
-      "published_at": "2026-09-14T01:39:38Z",
-      "channel_title": "Aadam Jacobs Archive",
-      "channel_id": "UCJJ78xI3A3ukuz0TKSLeQVw",
-      "thumbnail_url": "https://i.ytimg.com/vi/aG4tKfjzJGM/hqdefault.jpg"
-    },
-    {
       "video_id": "i86nXqnx2pE",
       "title": "Despu\u00e9s de 40 a\u00f1os, Dinosaur Jr. sigue rompiendo. \u2018There Near\u2019 es la prueba de ello. \ud83d\udd25",
       "description": "therenear #dinosaurjr #indierock #altrock.",
@@ -230,15 +212,6 @@
       "channel_title": "Yoonchae Rants!  ",
       "channel_id": "UCPlLyWK4mj2h5CRYI1kN1zA",
       "thumbnail_url": "https://i.ytimg.com/vi/L31P_0BkMt8/hqdefault.jpg"
-    },
-    {
-      "video_id": "qrFnaTo11YQ",
-      "title": "Dinosaur Jr - \u201cThumb\u201d 17th street Virginia Beach Oceanfront 9-12-26",
-      "description": "",
-      "published_at": "2026-09-13T15:22:51Z",
-      "channel_title": "Paul Verebely",
-      "channel_id": "UCkqfbao-1Bc7wTllkUHz06w",
-      "thumbnail_url": "https://i.ytimg.com/vi/qrFnaTo11YQ/hqdefault.jpg"
     },
     {
       "video_id": "FqrFCQV46ls",
@@ -266,15 +239,6 @@
       "channel_title": "Tiago Laranjo",
       "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
       "thumbnail_url": "https://i.ytimg.com/vi/ATNMhmFLaZ4/hqdefault.jpg"
-    },
-    {
-      "video_id": "0nCn2VUwIgU",
-      "title": "Dinosaur Jr - May 21, 1992 - Late Night with David Letterman",
-      "description": "Recording generously loaned from the Aadam Jacobs Video Archive MASTER TAPE FROM TV Retrotink 4K in 720x480i 59.94 ...",
-      "published_at": "2026-09-07T20:48:14Z",
-      "channel_title": "Aadam Jacobs Tube",
-      "channel_id": "UCyscXaaLSrpnmN5u1OlRm7Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/0nCn2VUwIgU/hqdefault.jpg"
     },
     {
       "video_id": "P82JCA4QGqE",
@@ -671,15 +635,6 @@
       "channel_title": "Multiplicity FM",
       "channel_id": "UCLvIaxITqodEUcN04Kz_mMw",
       "thumbnail_url": "https://i.ytimg.com/vi/vkYn0raGEbI/hqdefault.jpg"
-    },
-    {
-      "video_id": "0__ToI6eZZo",
-      "title": "Take Me With You",
-      "description": "Provided to YouTube by BWSCD Inc Take Me With You \u00b7 Dinosaur Jr. There Near \u2117 2026 Jagjaguwar Released on: 2026-08-28 ...",
-      "published_at": "2026-07-01T10:03:07Z",
-      "channel_title": "Dinosaur Jr - Topic",
-      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
-      "thumbnail_url": "https://i.ytimg.com/vi/0__ToI6eZZo/hqdefault.jpg"
     },
     {
       "video_id": "R53uedd9x44",
@@ -2626,6 +2581,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/zu1sigxqRmE/hqdefault.jpg"
     },
     {
+      "video_id": "HR9hYmf2xDU",
+      "title": "Dinosaur Jr. &quot;Garden&quot; Pre-Premiere Q&amp;A with Lou Barlow",
+      "description": "Everyone seemed to want a disruption in the order of American life, it seemed necessary. Then it happened. It began as a bitter ...",
+      "published_at": "2021-03-31T14:03:32Z",
+      "channel_title": "dinosaurjnr",
+      "channel_id": "UCfo74Lcf9bcQJd2MMq-XBzw",
+      "thumbnail_url": "https://i.ytimg.com/vi/HR9hYmf2xDU/hqdefault.jpg"
+    },
+    {
       "video_id": "cAXUmZ7sjWQ",
       "title": "Dinosaur Jr. - I Ran Away (Animation by Mortis Studio)",
       "description": "\"I Ran Away\" the new song by Dinosaur Jr. from the album 'Sweep It Into Space', out April 23rd on Jagjaguwar. STREAM/BUY: ...",
@@ -2705,6 +2669,42 @@
       "channel_title": "Wilson Guitars",
       "channel_id": "UC76sNmlDytLkGVhTH1uy9jg",
       "thumbnail_url": "https://i.ytimg.com/vi/XBvmG9Pponw/hqdefault.jpg"
+    },
+    {
+      "video_id": "3H7-kIv3HK0",
+      "title": "Classic Vibe vs J Mascis Jazzmasters: Which one plays better?",
+      "description": "This video explains the differences in playability between the two guitars. Here's my video that compares how they sound: ...",
+      "published_at": "2020-09-24T14:38:11Z",
+      "channel_title": "David Niles Guitar",
+      "channel_id": "UCW997wmpxhN4-3_AHDfxntg",
+      "thumbnail_url": "https://i.ytimg.com/vi/3H7-kIv3HK0/hqdefault.jpg"
+    },
+    {
+      "video_id": "FZ9SD9eclDY",
+      "title": "Squier J Mascis Jazzmaster Demo and Review",
+      "description": "Get Squier guitars via this affiliate link to support this channel: https://reverb.grsm.io/GOSquier The J Mascis Squier Jazmaster is ...",
+      "published_at": "2020-06-13T16:20:24Z",
+      "channel_title": "Get Offset",
+      "channel_id": "UCYi7l2LsLFi_vSr4wr6EZHw",
+      "thumbnail_url": "https://i.ytimg.com/vi/FZ9SD9eclDY/hqdefault.jpg"
+    },
+    {
+      "video_id": "37H4LxE9v3E",
+      "title": "Kestrels - Grey and Blue (ft. J Mascis)",
+      "description": "Kestrels - Grey and Blue (feat. J Mascis) from the album Dream or Don't Dream (2020 Darla Records) #Kestrels #GreyandBlue ...",
+      "published_at": "2020-06-03T23:02:06Z",
+      "channel_title": "Radial by The Orchard",
+      "channel_id": "UChCDNXr_7WGYGcVsk6JuboQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/37H4LxE9v3E/hqdefault.jpg"
+    },
+    {
+      "video_id": "MWHmTMCnxdU",
+      "title": "Dinosaur Jr. - Get Me guitar cover (lead part)",
+      "description": "very fun to play cheers.",
+      "published_at": "2020-05-09T07:04:56Z",
+      "channel_title": "adrian gonz",
+      "channel_id": "UCtdI2x0y2Qii0QqI4_gKOjA",
+      "thumbnail_url": "https://i.ytimg.com/vi/MWHmTMCnxdU/hqdefault.jpg"
     }
   ]
 }
