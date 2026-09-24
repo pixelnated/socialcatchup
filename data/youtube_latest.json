@@ -2,10 +2,46 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-23 12:03 UTC",
-  "fetched_at_iso": "2026-09-23T12:03:00Z",
+  "fetched_at_utc": "2026-09-24 00:04 UTC",
+  "fetched_at_iso": "2026-09-24T00:04:08Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "Lu3oUCRgNE4",
+      "title": "Dinosaur Jr Feel the Pain",
+      "description": "",
+      "published_at": "2026-09-23T22:39:40Z",
+      "channel_title": "J Smith",
+      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lu3oUCRgNE4/hqdefault.jpg"
+    },
+    {
+      "video_id": "d1ue9rCXbTQ",
+      "title": "Dinosaur Jr Freak Scene",
+      "description": "",
+      "published_at": "2026-09-23T22:39:19Z",
+      "channel_title": "J Smith",
+      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/d1ue9rCXbTQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "C3pmFZMzRXU",
+      "title": "Dinosaur Jr Little Fury Things",
+      "description": "",
+      "published_at": "2026-09-23T22:39:07Z",
+      "channel_title": "J Smith",
+      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/C3pmFZMzRXU/hqdefault.jpg"
+    },
+    {
+      "video_id": "C7ESL56glOw",
+      "title": "TVE #232 - 11\u00e8me saison - Episode #01 Dinosaur Jr/Sebadoh",
+      "description": "TVE, onzi\u00e8me saison c'est parti !! Au menu de ce premier num\u00e9ro de la saison, accompagn\u00e9 de mon fid\u00e8le Matt ainsi que du ...",
+      "published_at": "2026-09-23T20:49:58Z",
+      "channel_title": "DJ_Gonzales",
+      "channel_id": "UCxUKJ4YjvWRPZ-ziM_0urZA",
+      "thumbnail_url": "https://i.ytimg.com/vi/C7ESL56glOw/hqdefault.jpg"
+    },
     {
       "video_id": "SQrZy9F_uUE",
       "title": "we are blessed and lucky to have this",
@@ -178,22 +214,13 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lBWwlOfl5GI/hqdefault.jpg"
     },
     {
-      "video_id": "oA-2FT3vIS0",
-      "title": "Dinosaur Jr. - Live at Reeperbahn Festival 2009",
-      "description": "Hamburg, Germany Reeperbahn Festival 24/09/09 The line-up: J Mascis - vocals, guitar Lou Barlow - bass guitar Murph - drums ...",
-      "published_at": "2026-09-17T14:32:01Z",
-      "channel_title": "Tiago Laranjo",
-      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
-      "thumbnail_url": "https://i.ytimg.com/vi/oA-2FT3vIS0/hqdefault.jpg"
-    },
-    {
-      "video_id": "Sl2_cZfUlY0",
-      "title": "Dino Jr and Neil Young",
-      "description": "Separated at birth? #dinosaurjr #neilyoung #music @JMascisOfficial.",
-      "published_at": "2026-09-14T14:38:54Z",
-      "channel_title": "Jack Rabbit Music",
-      "channel_id": "UCNvNmqEXEf8JctMULyRpl_A",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sl2_cZfUlY0/hqdefault.jpg"
+      "video_id": "4fEhkxOoRO0",
+      "title": "Dinosaur Jr - \u201cTake Me With You\u201d 17th street Virginia Beach Oceanfront 9-12-26",
+      "description": "",
+      "published_at": "2026-09-14T04:03:55Z",
+      "channel_title": "Paul Verebely",
+      "channel_id": "UCkqfbao-1Bc7wTllkUHz06w",
+      "thumbnail_url": "https://i.ytimg.com/vi/4fEhkxOoRO0/hqdefault.jpg"
     },
     {
       "video_id": "i86nXqnx2pE",
@@ -209,9 +236,18 @@
       "title": "\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc26\ud835\udc28\ud835\udc2c\ud835\udc1a\ud835\udc2c\ud835\udc1a\ud835\udc2b\ud835\udc2e\ud835\udc2c \ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d (\ud835\udc26\ud835\udc1a\ud835\udc1d\ud835\udc1e \ud835\udc1a \ud835\udc27\ud835\udc1e\ud835\udc30 \ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc27\ud835\udc1d?) #dinosaur #fypp #trend #dinosaurjr #dinopark",
       "description": "",
       "published_at": "2026-09-13T17:04:41Z",
-      "channel_title": "Yoonchae Rants!  ",
+      "channel_title": "Muktho's diary! \ud83e\ude77",
       "channel_id": "UCPlLyWK4mj2h5CRYI1kN1zA",
       "thumbnail_url": "https://i.ytimg.com/vi/L31P_0BkMt8/hqdefault.jpg"
+    },
+    {
+      "video_id": "qrFnaTo11YQ",
+      "title": "Dinosaur Jr - \u201cThumb\u201d 17th street Virginia Beach Oceanfront 9-12-26",
+      "description": "",
+      "published_at": "2026-09-13T15:22:51Z",
+      "channel_title": "Paul Verebely",
+      "channel_id": "UCkqfbao-1Bc7wTllkUHz06w",
+      "thumbnail_url": "https://i.ytimg.com/vi/qrFnaTo11YQ/hqdefault.jpg"
     },
     {
       "video_id": "FqrFCQV46ls",
@@ -239,6 +275,15 @@
       "channel_title": "Tiago Laranjo",
       "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
       "thumbnail_url": "https://i.ytimg.com/vi/ATNMhmFLaZ4/hqdefault.jpg"
+    },
+    {
+      "video_id": "0nCn2VUwIgU",
+      "title": "Dinosaur Jr - May 21, 1992 - Late Night with David Letterman",
+      "description": "Recording generously loaned from the Aadam Jacobs Video Archive MASTER TAPE FROM TV Retrotink 4K in 720x480i 59.94 ...",
+      "published_at": "2026-09-07T20:48:14Z",
+      "channel_title": "Aadam Jacobs Tube",
+      "channel_id": "UCyscXaaLSrpnmN5u1OlRm7Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/0nCn2VUwIgU/hqdefault.jpg"
     },
     {
       "video_id": "P82JCA4QGqE",
@@ -394,6 +439,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kG_RG4y8SbY/hqdefault.jpg"
     },
     {
+      "video_id": "C7IQ5wMku1E",
+      "title": "Fan of Arctic Monkeys? Then check out CuVa BiM\u00f6 #arcticmonkeys #newmusic #rockband #cuvabimo",
+      "description": "Fan of Arctic Monkeys? Dinosaur Jr? Stone Temple Pilots? Then check out CuVa BiM\u00f6 and our new album New Western Values ...",
+      "published_at": "2026-08-30T19:00:40Z",
+      "channel_title": "CuVa BiM\u00f6",
+      "channel_id": "UCL2Dd0S-6wO8yfAZhFr_2hw",
+      "thumbnail_url": "https://i.ytimg.com/vi/C7IQ5wMku1E/hqdefault.jpg"
+    },
+    {
       "video_id": "rmLzVu2u_wE",
       "title": "Dinosaur Jr. -&quot;Freak Scene&quot; - live Tompkins Square Park NYC 8/28/26",
       "description": "video by Paul Papadeas #jmascis #dinosaurjr #nyc #livemusic.",
@@ -509,6 +563,15 @@
       "channel_title": "Fumachroma",
       "channel_id": "UCNJ6i0qEUgrkRPyRz3AKlAQ",
       "thumbnail_url": "https://i.ytimg.com/vi/j2t6PHg-Xtc/hqdefault.jpg"
+    },
+    {
+      "video_id": "esWFEFOIdRA",
+      "title": "New Western Values Out Sep 4 #bayarea #newmusic #pizza #dinosaurjr #rockband",
+      "description": "New Western Values out September 4th on @selltheheartrecords Don't be a dork, listen on September 4th #burritos #cuvabimo ...",
+      "published_at": "2026-08-18T07:00:19Z",
+      "channel_title": "CuVa BiM\u00f6",
+      "channel_id": "UCL2Dd0S-6wO8yfAZhFr_2hw",
+      "thumbnail_url": "https://i.ytimg.com/vi/esWFEFOIdRA/hqdefault.jpg"
     },
     {
       "video_id": "e60GjnFW9dY",
@@ -716,15 +779,6 @@
       "channel_title": "Cherry Red Records",
       "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
       "thumbnail_url": "https://i.ytimg.com/vi/0-YzuPa5y0Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "p4H6v2MzjCo",
-      "title": "Dinosaur Jr - MTV 120 Minutes: Interview &amp; Clips (1994)",
-      "description": "This broadcast features Dinosaur Jr. in interview and performance. Please note: Two music videos chosen by the band (Army of ...",
-      "published_at": "2026-05-18T18:00:00Z",
-      "channel_title": "VG's VHS BITS",
-      "channel_id": "UCS_MswQjiJO0UVVchHNZEOg",
-      "thumbnail_url": "https://i.ytimg.com/vi/p4H6v2MzjCo/hqdefault.jpg"
     },
     {
       "video_id": "hSYJ-U_cny4",
@@ -1571,6 +1625,15 @@
       "channel_title": "Tiago Laranjo",
       "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
       "thumbnail_url": "https://i.ytimg.com/vi/VLFPxpfgm7o/hqdefault.jpg"
+    },
+    {
+      "video_id": "AWpaUkco99E",
+      "title": "Freakscene: The Story of Dinosaur Jr (Bonus Interviews)",
+      "description": "Bonus interviews from the 2021 documentary \"Freakscene: The Story of Dinosaur Jr.\"",
+      "published_at": "2024-08-02T10:48:21Z",
+      "channel_title": "Tiago Laranjo",
+      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
+      "thumbnail_url": "https://i.ytimg.com/vi/AWpaUkco99E/hqdefault.jpg"
     },
     {
       "video_id": "WFgVwxDmPlM",
@@ -2642,69 +2705,6 @@
       "channel_title": "PlazaErick",
       "channel_id": "UCh6RIKf0eadSN2kRpNfS0DA",
       "thumbnail_url": "https://i.ytimg.com/vi/PB7WWE6tAzo/hqdefault.jpg"
-    },
-    {
-      "video_id": "K-rF1_1aGPc",
-      "title": "Dinosaur Jr &quot;Forget The Swan&quot; Live On The Henry Rollins Show.",
-      "description": "0:33 Dinosaur Jr. Forget The Swan. Live 5-29-2006 The Henry Rollins Show.",
-      "published_at": "2020-11-14T21:34:34Z",
-      "channel_title": "Brundle Fly",
-      "channel_id": "UClm8BxaMyEqtkRrlpB36tNw",
-      "thumbnail_url": "https://i.ytimg.com/vi/K-rF1_1aGPc/hqdefault.jpg"
-    },
-    {
-      "video_id": "aYrJ6WqCLfc",
-      "title": "TV Live: Dinosaur Jr - &quot;Almost Ready&quot; (Letterman 2007)",
-      "description": "www.musicitymike.net Please LIKE, SUBSCRIBE and SHARE!",
-      "published_at": "2020-11-11T13:00:00Z",
-      "channel_title": "Music City Mike",
-      "channel_id": "UC1_zV9rICeQ1mIzfOYOO__w",
-      "thumbnail_url": "https://i.ytimg.com/vi/aYrJ6WqCLfc/hqdefault.jpg"
-    },
-    {
-      "video_id": "XBvmG9Pponw",
-      "title": "The Ultimate Fender Squier Jazzmaster Shootout | J Mascis vs Classic Vibe vs Vintage Modified",
-      "description": "Today, we look at (and hear) the differences between the Squier J Mascis Jazzmaster, the Vintage Modified Jazzmaster and it's ...",
-      "published_at": "2020-10-04T13:00:06Z",
-      "channel_title": "Wilson Guitars",
-      "channel_id": "UC76sNmlDytLkGVhTH1uy9jg",
-      "thumbnail_url": "https://i.ytimg.com/vi/XBvmG9Pponw/hqdefault.jpg"
-    },
-    {
-      "video_id": "3H7-kIv3HK0",
-      "title": "Classic Vibe vs J Mascis Jazzmasters: Which one plays better?",
-      "description": "This video explains the differences in playability between the two guitars. Here's my video that compares how they sound: ...",
-      "published_at": "2020-09-24T14:38:11Z",
-      "channel_title": "David Niles Guitar",
-      "channel_id": "UCW997wmpxhN4-3_AHDfxntg",
-      "thumbnail_url": "https://i.ytimg.com/vi/3H7-kIv3HK0/hqdefault.jpg"
-    },
-    {
-      "video_id": "FZ9SD9eclDY",
-      "title": "Squier J Mascis Jazzmaster Demo and Review",
-      "description": "Get Squier guitars via this affiliate link to support this channel: https://reverb.grsm.io/GOSquier The J Mascis Squier Jazmaster is ...",
-      "published_at": "2020-06-13T16:20:24Z",
-      "channel_title": "Get Offset",
-      "channel_id": "UCYi7l2LsLFi_vSr4wr6EZHw",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZ9SD9eclDY/hqdefault.jpg"
-    },
-    {
-      "video_id": "37H4LxE9v3E",
-      "title": "Kestrels - Grey and Blue (ft. J Mascis)",
-      "description": "Kestrels - Grey and Blue (feat. J Mascis) from the album Dream or Don't Dream (2020 Darla Records) #Kestrels #GreyandBlue ...",
-      "published_at": "2020-06-03T23:02:06Z",
-      "channel_title": "Radial by The Orchard",
-      "channel_id": "UChCDNXr_7WGYGcVsk6JuboQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/37H4LxE9v3E/hqdefault.jpg"
-    },
-    {
-      "video_id": "MWHmTMCnxdU",
-      "title": "Dinosaur Jr. - Get Me guitar cover (lead part)",
-      "description": "very fun to play cheers.",
-      "published_at": "2020-05-09T07:04:56Z",
-      "channel_title": "adrian gonz",
-      "channel_id": "UCtdI2x0y2Qii0QqI4_gKOjA",
-      "thumbnail_url": "https://i.ytimg.com/vi/MWHmTMCnxdU/hqdefault.jpg"
     }
   ]
 }

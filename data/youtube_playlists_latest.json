@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-23 12:03 UTC",
-  "fetched_at_iso": "2026-09-23T12:03:00Z",
+  "fetched_at_utc": "2026-09-24 00:04 UTC",
+  "fetched_at_iso": "2026-09-24T00:04:08Z",
   "result_count": 300,
   "playlists": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "playlist_id": "PLUuT7XRSEGGI",
-      "title": "J MASCIS",
+      "title": "EU/ J MASCIS",
       "description": "DinosaurJr.",
       "published_at": "2026-09-19T13:50:51Z",
       "channel_title": "Santiago",
@@ -337,16 +337,6 @@
       "video_count": 12
     },
     {
-      "playlist_id": "PLdHRi7b_90Z0",
-      "title": "2026 - Dinosaur Jr. - There Near",
-      "description": "",
-      "published_at": "2026-08-29T02:48:30Z",
-      "channel_title": "Kaylan TV",
-      "channel_id": "UCbHxcAhQsAezYCWfK5t6jjQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RQHdQqJKmbI/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
       "playlist_id": "PLWUSl8UGdZ3Q",
       "title": "DINOSAUR JR. Playlist",
       "description": "",
@@ -645,16 +635,6 @@
       "channel_id": "UC8_3i5ahrpmFFgK19NdrPQg",
       "thumbnail_url": "https://i.ytimg.com/vi/z45yWIXipy8/hqdefault.jpg",
       "video_count": 15
-    },
-    {
-      "playlist_id": "PLDCjSqcE-gIRhWkalTkgy6E8qKEktrzdz",
-      "title": "Dinosaur Jr. - 2011-06-26: Variety Playhouse, Athens, GA, USA (Full Album)",
-      "description": "",
-      "published_at": "2026-06-03T01:17:54Z",
-      "channel_title": "Madelaine Veres",
-      "channel_id": "UC2syjFT6OSXb986kkMxPQ4A",
-      "thumbnail_url": "https://i.ytimg.com/vi/SyBC63gGTYs/hqdefault.jpg",
-      "video_count": 50
     },
     {
       "playlist_id": "PLrfGczV1yvilfJgfO_TtxafwLCVGPZIUL",
@@ -1127,6 +1107,16 @@
       "video_count": 54
     },
     {
+      "playlist_id": "PLiWiUvLUBXdpnYJ7W5m13O3TEWtcWf4pS",
+      "title": "Dinosaur Jr.  Emptiness at The Sinclair | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-01-29T17:33:11Z",
+      "channel_title": "Tyrone Zachter",
+      "channel_id": "UC_rjx5vLRNZ6n-ESDDIAY0g",
+      "thumbnail_url": "https://i.ytimg.com/vi/UWsT-gVM1lo/hqdefault.jpg",
+      "video_count": 26
+    },
+    {
       "playlist_id": "PLDErGz4BqWYdz_vX_TLLb5erRDK1S7aNU",
       "title": "dinosaur jr",
       "description": "",
@@ -1205,6 +1195,16 @@
       "channel_id": "UCQc4uC35HapfNmkJQSMdOAg",
       "thumbnail_url": "https://i.ytimg.com/vi/z45yWIXipy8/hqdefault.jpg",
       "video_count": 10
+    },
+    {
+      "playlist_id": "PL3uTM_UVLaKXH9F13OkIAc88R3eIpaBhs",
+      "title": "Dinosaur Jr. - Blue Room Sessions (Single)",
+      "description": "",
+      "published_at": "2025-11-29T01:26:28Z",
+      "channel_title": "Everly Huckle",
+      "channel_id": "UCueId1FRUDmYWtCYhcG5eog",
+      "thumbnail_url": "https://i.ytimg.com/vi/3IsTiUhik20/hqdefault.jpg",
+      "video_count": 55
     },
     {
       "playlist_id": "PLEULZBF0kjHt--9FFxwoATnlqqSbeXm2K",
@@ -1305,16 +1305,6 @@
       "channel_id": "UC7BGIpzC7aNtpcnwgk_eJ1w",
       "thumbnail_url": "https://i.ytimg.com/vi/QjK8TPjlylw/hqdefault.jpg",
       "video_count": 152
-    },
-    {
-      "playlist_id": "PLcOXU8A_swouRFN2cBouZ49L8P2YNIo8u",
-      "title": "Dinosaur Jr. - \u201cSeventytwohundredseconds\u201d (Full Album)",
-      "description": "",
-      "published_at": "2025-10-27T23:49:26Z",
-      "channel_title": "Charlie Rich",
-      "channel_id": "UCtzgmKivemgKnz91iEFcugg",
-      "thumbnail_url": "https://i.ytimg.com/vi/3IsTiUhik20/hqdefault.jpg",
-      "video_count": 55
     },
     {
       "playlist_id": "PLqeGmmszAK6NekGNjcBlRazN0tZ5Oqngi",
@@ -1795,6 +1785,16 @@
       "channel_id": "UCfawG1LBhNwM9mpQsPolaUQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 18
+    },
+    {
+      "playlist_id": "PLvb-X69PH8x01NvEtfzuvrdUes4l2MWvr",
+      "title": "The very best of Dinosaur Jr.",
+      "description": "enjoy.",
+      "published_at": "2025-06-22T14:41:00Z",
+      "channel_title": "KLAWISZ",
+      "channel_id": "UC6Y6hN1nzildqhx6xmpBX8Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/86JvaWOeUgw/hqdefault.jpg",
+      "video_count": 66
     },
     {
       "playlist_id": "PLbe-_W4ETGypZOVUbMGuR3QfmVTpI9ccn",
