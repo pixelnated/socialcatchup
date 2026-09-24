@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-24 00:04 UTC",
-  "fetched_at_iso": "2026-09-24T00:04:08Z",
+  "fetched_at_utc": "2026-09-24 12:02 UTC",
+  "fetched_at_iso": "2026-09-24T12:02:52Z",
   "result_count": 300,
   "playlists": [
     {
@@ -335,6 +335,16 @@
       "channel_id": "UChTI6EB6HCLyx5dcgxDczoA",
       "thumbnail_url": "https://i.ytimg.com/vi/2XwYVWnYMB8/hqdefault.jpg",
       "video_count": 12
+    },
+    {
+      "playlist_id": "PLdHRi7b_90Z0",
+      "title": "2026 - Dinosaur Jr. - There Near",
+      "description": "",
+      "published_at": "2026-08-29T02:48:30Z",
+      "channel_title": "Kaylan TV",
+      "channel_id": "UCbHxcAhQsAezYCWfK5t6jjQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/RQHdQqJKmbI/hqdefault.jpg",
+      "video_count": 11
     },
     {
       "playlist_id": "PLWUSl8UGdZ3Q",
@@ -1314,7 +1324,7 @@
       "channel_title": "Jake Merch",
       "channel_id": "UC5TJ18WUu-HJOOS-ZJkwR5Q",
       "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": 34
+      "video_count": null
     },
     {
       "playlist_id": "PLqA4mB-9pTrxrr2Mp0HJLgd4xKAKfcLZ1",
@@ -1995,16 +2005,6 @@
       "channel_id": "UCynenRFSHB1veDbdWMYSSAw",
       "thumbnail_url": "https://i.ytimg.com/vi/TYDIH_H43yE/hqdefault.jpg",
       "video_count": 13
-    },
-    {
-      "playlist_id": "PLUYl_bHOHZzhWxFt-HtMYks7y6p7jPaL_",
-      "title": "j mascis",
-      "description": "",
-      "published_at": "2025-01-15T02:14:01Z",
-      "channel_title": "mysecretworld",
-      "channel_id": "UCnOEJHA431GKDIvg3kyJBaw",
-      "thumbnail_url": "https://i.ytimg.com/vi/F91bWG4vX38/hqdefault.jpg",
-      "video_count": 7
     },
     {
       "playlist_id": "PL-A_6MpPoIaRVUWjJFQlP29KAQYqDJuO0",
