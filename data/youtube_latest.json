@@ -2,10 +2,28 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-26 12:02 UTC",
-  "fetched_at_iso": "2026-09-26T12:02:17Z",
+  "fetched_at_utc": "2026-09-27 00:05 UTC",
+  "fetched_at_iso": "2026-09-27T00:05:40Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "5MyU6M-hlt8",
+      "title": "Dinosaur Jr - Get Me (drums backing track)",
+      "description": "This video features \"Get Me\" by Dinosaur Jr. My sincere appreciation to these musicians. Copyright Notice: All rights to the music ...",
+      "published_at": "2026-09-26T23:35:26Z",
+      "channel_title": "Drum Station Solo Tracks",
+      "channel_id": "UCeh7R3aJZH84SGVUuFXtGsw",
+      "thumbnail_url": "https://i.ytimg.com/vi/5MyU6M-hlt8/hqdefault.jpg"
+    },
+    {
+      "video_id": "t3SvZgzMkG8",
+      "title": "QOTSA\u65b0\u66f2MV\u516c\u958b\u3001Soundgarden\u516c\u5f0f\u6620\u50cf\u3001J Mascis\u306e\u97f3\u4f5c\u308a\uff5c\u9031\u520a\u30aa\u30eb\u30bf\u30ca\u30cb\u30e5\u30fc\u30b9",
+      "description": "Queens of the Stone Age\u306e\u65b0\u66f2\u300cWhere The Goth Girls At?\u300d\u3068MV\u3001Soundgarden\u306e\u30b7\u30a2\u30c8\u30eb\u516c\u6f14\u306e\u516c\u5f0f\u6620\u50cf\u3001Dinosaur Jr.\u306eJ ...",
+      "published_at": "2026-09-26T17:33:25Z",
+      "channel_title": "Tommy's Alternative",
+      "channel_id": "UCrimL3ulainVjUThCWsIKFg",
+      "thumbnail_url": "https://i.ytimg.com/vi/t3SvZgzMkG8/hqdefault.jpg"
+    },
     {
       "video_id": "BuILGBvqy9E",
       "title": "acoustic bass feel the pain dinosaur jr",
@@ -133,33 +151,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7-OrBGhDVyY/hqdefault.jpg"
     },
     {
-      "video_id": "Lu3oUCRgNE4",
-      "title": "Dinosaur Jr Feel the Pain",
-      "description": "",
-      "published_at": "2026-09-23T22:39:40Z",
-      "channel_title": "J Smith",
-      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lu3oUCRgNE4/hqdefault.jpg"
-    },
-    {
-      "video_id": "d1ue9rCXbTQ",
-      "title": "Dinosaur Jr Freak Scene",
-      "description": "",
-      "published_at": "2026-09-23T22:39:19Z",
-      "channel_title": "J Smith",
-      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/d1ue9rCXbTQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "C3pmFZMzRXU",
-      "title": "Dinosaur Jr Little Fury Things",
-      "description": "",
-      "published_at": "2026-09-23T22:39:07Z",
-      "channel_title": "J Smith",
-      "channel_id": "UCOs4xcZMKYej5sMLBWM7GmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/C3pmFZMzRXU/hqdefault.jpg"
-    },
-    {
       "video_id": "C7ESL56glOw",
       "title": "TVE #232 - 11\u00e8me saison - Episode #01 Dinosaur Jr/Sebadoh",
       "description": "TVE, onzi\u00e8me saison c'est parti !! Au menu de ce premier num\u00e9ro de la saison, accompagn\u00e9 de mon fid\u00e8le Matt ainsi que du ...",
@@ -167,6 +158,15 @@
       "channel_title": "DJ_Gonzales",
       "channel_id": "UCxUKJ4YjvWRPZ-ziM_0urZA",
       "thumbnail_url": "https://i.ytimg.com/vi/C7ESL56glOw/hqdefault.jpg"
+    },
+    {
+      "video_id": "2kwXxtQKbpc",
+      "title": "tiny tunes tuesday: perfect way, lazy mind, news about Sebadoh",
+      "description": "This tiny tunes tuesday is immediately derailed, for no good reason, by ringworm talk. Lou manages to play two songs: Perfect ...",
+      "published_at": "2026-09-22T23:40:03Z",
+      "channel_title": "Lou Barlow",
+      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
+      "thumbnail_url": "https://i.ytimg.com/vi/2kwXxtQKbpc/hqdefault.jpg"
     },
     {
       "video_id": "atEDT8x64Z8",
@@ -248,6 +248,15 @@
       "channel_title": "Bass",
       "channel_id": "UCldlFTX9zN5RG2MmxTXO2nw",
       "thumbnail_url": "https://i.ytimg.com/vi/lBWwlOfl5GI/hqdefault.jpg"
+    },
+    {
+      "video_id": "oA-2FT3vIS0",
+      "title": "Dinosaur Jr. - Live at Reeperbahn Festival 2009",
+      "description": "Hamburg, Germany Reeperbahn Festival 24/09/09 The line-up: J Mascis - vocals, guitar Lou Barlow - bass guitar Murph - drums ...",
+      "published_at": "2026-09-17T14:32:01Z",
+      "channel_title": "Tiago Laranjo",
+      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
+      "thumbnail_url": "https://i.ytimg.com/vi/oA-2FT3vIS0/hqdefault.jpg"
     },
     {
       "video_id": "i86nXqnx2pE",
@@ -466,15 +475,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/kG_RG4y8SbY/hqdefault.jpg"
     },
     {
-      "video_id": "C7IQ5wMku1E",
-      "title": "Fan of Arctic Monkeys? Then check out CuVa BiM\u00f6 #arcticmonkeys #newmusic #rockband #cuvabimo",
-      "description": "Fan of Arctic Monkeys? Dinosaur Jr? Stone Temple Pilots? Then check out CuVa BiM\u00f6 and our new album New Western Values ...",
-      "published_at": "2026-08-30T19:00:40Z",
-      "channel_title": "CuVa BiM\u00f6",
-      "channel_id": "UCL2Dd0S-6wO8yfAZhFr_2hw",
-      "thumbnail_url": "https://i.ytimg.com/vi/C7IQ5wMku1E/hqdefault.jpg"
-    },
-    {
       "video_id": "rmLzVu2u_wE",
       "title": "Dinosaur Jr. -&quot;Freak Scene&quot; - live Tompkins Square Park NYC 8/28/26",
       "description": "video by Paul Papadeas #jmascis #dinosaurjr #nyc #livemusic.",
@@ -556,15 +556,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/ofp8yrm-Qgo/hqdefault.jpg"
     },
     {
-      "video_id": "swYhl10Qdfw",
-      "title": "Plattenladen Neuheiten KW35 | Prince, Interpol, Dinosaur Jr. und Pulp",
-      "description": "Hallo liebe Zielgruppe am Endger\u00e4t, im Plattenladen ist diese Woche ordentlich was los. Deshalb zieht Tom f\u00fcr die Vinyl ...",
-      "published_at": "2026-08-28T06:30:28Z",
-      "channel_title": "Der Plattenladen Freiburg",
-      "channel_id": "UCII_uyJyW41ETGNIbWsOHNg",
-      "thumbnail_url": "https://i.ytimg.com/vi/swYhl10Qdfw/hqdefault.jpg"
-    },
-    {
       "video_id": "lH3ejMb4GoE",
       "title": "Dinosaur Jr. - Sludgefeast (Karaoke)",
       "description": "Sing along to \"Sludgefeast\" by Dinosaur Jr. \u2014 a high-quality karaoke version using the original song audio with the lead vocals ...",
@@ -572,15 +563,6 @@
       "channel_title": "Nomad Karaoke",
       "channel_id": "UCroMk5b4XILdeP7ZCGFicpw",
       "thumbnail_url": "https://i.ytimg.com/vi/lH3ejMb4GoE/hqdefault.jpg"
-    },
-    {
-      "video_id": "esWFEFOIdRA",
-      "title": "New Western Values Out Sep 4 #bayarea #newmusic #pizza #dinosaurjr #rockband",
-      "description": "New Western Values out September 4th on @selltheheartrecords Don't be a dork, listen on September 4th #burritos #cuvabimo ...",
-      "published_at": "2026-08-18T07:00:19Z",
-      "channel_title": "CuVa BiM\u00f6",
-      "channel_id": "UCL2Dd0S-6wO8yfAZhFr_2hw",
-      "thumbnail_url": "https://i.ytimg.com/vi/esWFEFOIdRA/hqdefault.jpg"
     },
     {
       "video_id": "e60GjnFW9dY",
@@ -680,15 +662,6 @@
       "channel_title": "Cherry Red Records",
       "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
       "thumbnail_url": "https://i.ytimg.com/vi/LQhU107jifo/hqdefault.jpg"
-    },
-    {
-      "video_id": "AmaT6IdWf2I",
-      "title": "Dinosaur Jr. - \u201cStart Chopping\u201d - Point of the Bluff Vineyards - Hammondsport, NY - 12 July, 2026",
-      "description": "Three miles from my family's homestead in a village of 600.",
-      "published_at": "2026-07-13T03:35:39Z",
-      "channel_title": "samuel presley",
-      "channel_id": "UCrrfZ-oYVR_LCrylQD2ea9w",
-      "thumbnail_url": "https://i.ytimg.com/vi/AmaT6IdWf2I/hqdefault.jpg"
     },
     {
       "video_id": "oOiP_4Ri3Yg",
@@ -1112,15 +1085,6 @@
       "channel_title": "indie_music_travels",
       "channel_id": "UCdQXWRnxr_KsF9KwuuV5gEg",
       "thumbnail_url": "https://i.ytimg.com/vi/Sx7g8U0YbDw/hqdefault.jpg"
-    },
-    {
-      "video_id": "RCxgdih8sjk",
-      "title": "Squier J Mascis Jazzmaster Demo",
-      "description": "Today I finally try a Squier J Mascis Jazzmaster!! If you like what you see please leave a thumbs up and subscribe!! Cheers!",
-      "published_at": "2025-08-01T13:00:51Z",
-      "channel_title": "Ben Coombs",
-      "channel_id": "UCz65xfFPxAlXwwmrYRci-AQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RCxgdih8sjk/hqdefault.jpg"
     },
     {
       "video_id": "htyHyit2cRE",
@@ -1787,15 +1751,6 @@
       "channel_title": "Marshall",
       "channel_id": "UCmVo7smbyR2PuIgKLawjCTQ",
       "thumbnail_url": "https://i.ytimg.com/vi/WNFnBqXo8wA/hqdefault.jpg"
-    },
-    {
-      "video_id": "m80mLbBS6q4",
-      "title": "First Time Hearing DINOSAUR JR! Bass Teacher REACTS to &quot;The Lung&quot; (Live on KEXP)",
-      "description": "BECOME A PATRON! https://www.patreon.com/LowEndUniversity --------------------------------------------------- \u27a1\ufe0f I don't ever think ...",
-      "published_at": "2024-03-05T22:00:20Z",
-      "channel_title": "Low End University",
-      "channel_id": "UC3TqK2sSktlk7CmXGpw7_Cg",
-      "thumbnail_url": "https://i.ytimg.com/vi/m80mLbBS6q4/hqdefault.jpg"
     },
     {
       "video_id": "Dhh04KHbhuE",
@@ -2705,6 +2660,51 @@
       "channel_title": "Brundle Fly",
       "channel_id": "UClm8BxaMyEqtkRrlpB36tNw",
       "thumbnail_url": "https://i.ytimg.com/vi/K-rF1_1aGPc/hqdefault.jpg"
+    },
+    {
+      "video_id": "aYrJ6WqCLfc",
+      "title": "TV Live: Dinosaur Jr - &quot;Almost Ready&quot; (Letterman 2007)",
+      "description": "www.musicitymike.net Please LIKE, SUBSCRIBE and SHARE!",
+      "published_at": "2020-11-11T13:00:00Z",
+      "channel_title": "Music City Mike",
+      "channel_id": "UC1_zV9rICeQ1mIzfOYOO__w",
+      "thumbnail_url": "https://i.ytimg.com/vi/aYrJ6WqCLfc/hqdefault.jpg"
+    },
+    {
+      "video_id": "XBvmG9Pponw",
+      "title": "The Ultimate Fender Squier Jazzmaster Shootout | J Mascis vs Classic Vibe vs Vintage Modified",
+      "description": "Today, we look at (and hear) the differences between the Squier J Mascis Jazzmaster, the Vintage Modified Jazzmaster and it's ...",
+      "published_at": "2020-10-04T13:00:06Z",
+      "channel_title": "Wilson Guitars",
+      "channel_id": "UC76sNmlDytLkGVhTH1uy9jg",
+      "thumbnail_url": "https://i.ytimg.com/vi/XBvmG9Pponw/hqdefault.jpg"
+    },
+    {
+      "video_id": "3H7-kIv3HK0",
+      "title": "Classic Vibe vs J Mascis Jazzmasters: Which one plays better?",
+      "description": "This video explains the differences in playability between the two guitars. Here's my video that compares how they sound: ...",
+      "published_at": "2020-09-24T14:38:11Z",
+      "channel_title": "David Niles Guitar",
+      "channel_id": "UCW997wmpxhN4-3_AHDfxntg",
+      "thumbnail_url": "https://i.ytimg.com/vi/3H7-kIv3HK0/hqdefault.jpg"
+    },
+    {
+      "video_id": "vuLWp1eizLk",
+      "title": "THROWBACK:  J MASCIS of Dinosaur Jr Interview from 2014",
+      "description": "We uploaded this throwback interview here because we originally had it on the Party Smasher Youtube channel which was ...",
+      "published_at": "2020-09-17T14:07:21Z",
+      "channel_title": "Little Punk People",
+      "channel_id": "UCFWa5FZJxCBapruoro0BnAw",
+      "thumbnail_url": "https://i.ytimg.com/vi/vuLWp1eizLk/hqdefault.jpg"
+    },
+    {
+      "video_id": "S2LvrGn2gvk",
+      "title": "Una Squier muy especial | Squier J Mascis Jazzmaster",
+      "description": "Squier lo hace de nuevo! Es evidente c\u00f3mo con el paso de los a\u00f1os, la idea de que la manufactura asi\u00e1tica es mala, se ha ido ...",
+      "published_at": "2020-07-24T17:00:07Z",
+      "channel_title": "Steelwood Guitars",
+      "channel_id": "UCDK9RLrloH-4piSfnLxTiYw",
+      "thumbnail_url": "https://i.ytimg.com/vi/S2LvrGn2gvk/hqdefault.jpg"
     }
   ]
 }

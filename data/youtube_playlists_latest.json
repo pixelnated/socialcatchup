@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-26 12:02 UTC",
-  "fetched_at_iso": "2026-09-26T12:02:17Z",
+  "fetched_at_utc": "2026-09-27 00:05 UTC",
+  "fetched_at_iso": "2026-09-27T00:05:40Z",
   "result_count": 300,
   "playlists": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "playlist_id": "PLKmtT3Elw4Qw",
-      "title": "Ind Sebadoh &amp; Co",
+      "title": "ID/ Sebadoh &amp; Co",
       "description": "",
       "published_at": "2026-09-24T08:22:05Z",
       "channel_title": "Santiago",
@@ -164,7 +164,7 @@
       "channel_title": "fukumimi",
       "channel_id": "UCG9_JAy31ntklZTQ5zPTN9A",
       "thumbnail_url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-      "video_count": 103
+      "video_count": 102
     },
     {
       "playlist_id": "PLDa_w_ZyK-RE",
@@ -1507,6 +1507,16 @@
       "video_count": 11
     },
     {
+      "playlist_id": "PLn9ZHQFyNicq9qN5OlU6e6nf5sGUoIFxf",
+      "title": "Lou Barlow - Songs from Loobiecore 2.5 (Full Album)",
+      "description": "The full album for Songs from Loobiecore 2.5 / Music by Lou Barlow playlist Lou Barlow - Songs from Loobiecore 2.5 / Lou Barlow ...",
+      "published_at": "2025-08-10T23:48:22Z",
+      "channel_title": "trutje1970",
+      "channel_id": "UCbcWr7_cJgAPYfloY9ksA4A",
+      "thumbnail_url": "https://i.ytimg.com/vi/FTjy1NMvYME/hqdefault.jpg",
+      "video_count": 32
+    },
+    {
       "playlist_id": "PL9ElQ_sK6adL2RAdkQvu1i-FQlTiuH0xY",
       "title": "J Mascis - J &amp; Friends Sing &amp; Chant For Amma (Full Album)",
       "description": "The full album for J & Friends Sing & Chant For Amma / Music by J Mascis playlist J Mascis - J & Friends Sing & Chant For Amma ...",
@@ -2115,6 +2125,16 @@
       "channel_id": "UCk7wiDSkwB2Ud9MpJlHX3ww",
       "thumbnail_url": "https://i.ytimg.com/vi/ro3MbdlByaM/hqdefault.jpg",
       "video_count": 15
+    },
+    {
+      "playlist_id": "PLAMwWC9ro-k40LkxsK6fri1pi6xRBClVS",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-11-10T12:42:28Z",
+      "channel_title": "walter",
+      "channel_id": "UCF6SmIeR6HjxtRJQYqi7uGQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
+      "video_count": 10
     },
     {
       "playlist_id": "PLPPM3l83NTrBx-r8ME6ZNSrWJhnbSUkHS",
@@ -2985,26 +3005,6 @@
       "channel_id": "UCjobUipKOC7rlbYGfMDS8Ig",
       "thumbnail_url": "https://i.ytimg.com/vi/3w9hAhS93qg/hqdefault.jpg",
       "video_count": 14
-    },
-    {
-      "playlist_id": "PLfJ2VMp_AJy-lVSY4gnwlCakwpY7_aSDm",
-      "title": "DINOSAUR JR  BEYOND",
-      "description": "",
-      "published_at": "2021-11-19T21:14:12Z",
-      "channel_title": "thomas knipp",
-      "channel_id": "UCZbHzD1sPr8P39oxzckFIIQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/Wk_0z6rHvnU/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
-      "playlist_id": "PL5_qpf49mWtkZKUHYFJYygbtUZ-Lkm__w",
-      "title": "Dinosaur Jr. - Emptiness at the Sinclair [2021]",
-      "description": "",
-      "published_at": "2021-10-29T15:10:17Z",
-      "channel_title": "realexkav",
-      "channel_id": "UCG91ylymZlVVMFxL0W5mrSg",
-      "thumbnail_url": "https://i.ytimg.com/vi/PpVXCOsSlQc/hqdefault.jpg",
-      "video_count": 16
     }
   ]
 }
