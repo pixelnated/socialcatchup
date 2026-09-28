@@ -2,13 +2,85 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-09-27 12:02 UTC",
-  "fetched_at_iso": "2026-09-27T12:02:41Z",
+  "fetched_at_utc": "2026-09-28 00:05 UTC",
+  "fetched_at_iso": "2026-09-28T00:05:25Z",
   "result_count": 300,
   "videos": [
     {
+      "video_id": "bIt5WuSA9Mc",
+      "title": "Dinosaur Jr. \u2013 In a Jar",
+      "description": "Label: Lo-Fi Records \u2013 none Format: Vinyl, 7\", White Label, Unofficial Release Country: US Released: 1992 Genre: Rock Style: ...",
+      "published_at": "2026-09-27T23:45:15Z",
+      "channel_title": "Robert Parker",
+      "channel_id": "UC2gTkntuU_RCZ-gaF7gb4cQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/bIt5WuSA9Mc/hqdefault.jpg"
+    },
+    {
+      "video_id": "txWYEVugyKY",
+      "title": "Dinosaur Jr.  Full Opening Set LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
+      "description": "Dinosaur Jr. Full Opening Set LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for Turnstile.",
+      "published_at": "2026-09-27T18:10:36Z",
+      "channel_title": "Concerts Hub",
+      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/txWYEVugyKY/hqdefault.jpg"
+    },
+    {
+      "video_id": "e4F6_taBw_8",
+      "title": "Dinosaur Jr.&#39;s iconic sound on &quot;There Near&quot;",
+      "description": "Today I'm sharing a clip from my album review of \"There Near\" by @dinosaurjrtv, where I discuss their iconic sound. You can ...",
+      "published_at": "2026-09-27T16:30:02Z",
+      "channel_title": "Logan Sounds Off",
+      "channel_id": "UCzpAT1eFwgYoDLcf6HLw4ZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/e4F6_taBw_8/hqdefault.jpg"
+    },
+    {
+      "video_id": "aeSYjcdRoeE",
+      "title": "Dinosaur Jr. - There Near Album Review",
+      "description": "Today I'm excited to be sharing my review of \"There Near\" by @dinosaurjrtv. Thanks to @GildedALM for sending me this vinyl.",
+      "published_at": "2026-09-27T16:00:29Z",
+      "channel_title": "Logan Sounds Off",
+      "channel_id": "UCzpAT1eFwgYoDLcf6HLw4ZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/aeSYjcdRoeE/hqdefault.jpg"
+    },
+    {
+      "video_id": "cemgyJRpfGQ",
+      "title": "Dinosaur Jr.  Fossils 12&quot;\u00a045RPM\u00a0Vinyl Record SST275 \u30c0\u30a4\u30ca\u30bd\u30fc\u30b8\u30e5\u30cb\u30a2 \u30d5\u30a9\u30c3\u30b7\u30eb\u30ba \u30ec\u30b3\u30fc\u30c9",
+      "description": "A1 Little Fury Things A2 In A Jar A3 Show Me The Way B1 Freak Scene B2 Keep The Glove B3 Just Like Heaven B4 Throw Down ...",
+      "published_at": "2026-09-27T14:57:57Z",
+      "channel_title": "Japanimedia",
+      "channel_id": "UCiI3mXXlrJs5KEoSViYULSA",
+      "thumbnail_url": "https://i.ytimg.com/vi/cemgyJRpfGQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "EsBdCDuwDCY",
+      "title": "Dinosaur Jr. &quot;Just Like Heaven&quot; The Cure Cover LIVE | Portland, ME | September 26, 2026",
+      "description": "Dinosaur Jr. \"Just Like Heaven\" The Cure Cover LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for ...",
+      "published_at": "2026-09-27T13:35:03Z",
+      "channel_title": "Concerts Hub",
+      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/EsBdCDuwDCY/hqdefault.jpg"
+    },
+    {
+      "video_id": "UhItfMcn7g4",
+      "title": "Dinosaur Jr. &quot;Start Choppin&#39;&quot; LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
+      "description": "Dinosaur Jr. \"Start Choppin'\" LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for Turnstile. Dinosaur ...",
+      "published_at": "2026-09-27T13:14:55Z",
+      "channel_title": "Concerts Hub",
+      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/UhItfMcn7g4/hqdefault.jpg"
+    },
+    {
+      "video_id": "tsLFRgOKmrY",
+      "title": "Dinosaur Jr. &quot;Feel the Pain&quot; LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
+      "description": "Dinosaur Jr. \"Feel the Pain\" LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for Turnstile. Dinosaur ...",
+      "published_at": "2026-09-27T12:48:50Z",
+      "channel_title": "Concerts Hub",
+      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/tsLFRgOKmrY/hqdefault.jpg"
+    },
+    {
       "video_id": "uqJ5jflbW6Q",
-      "title": "Lou Barlow \u201cTrue Hardcore\u201d (Sebadoh Song) LIVE |  Thompson&#39;s Point Portland, ME | September 26, 2026",
+      "title": "Lou Barlow \u201cTrue Hardcore\u201d (Sebadoh Song) LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
       "description": "Lou Barlow opens Fiddlehead's set with Sebadoh's \"True Harcore\" LIVE at Thompson's Point in Portland, Maine on September 26 ...",
       "published_at": "2026-09-27T10:30:38Z",
       "channel_title": "Concerts Hub",
@@ -104,15 +176,6 @@
       "channel_title": "Joseph Emmanuel",
       "channel_id": "UCj1eEU6J0bCTHia9f2aDyKA",
       "thumbnail_url": "https://i.ytimg.com/vi/3wOklJHjh1Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "VmqLUr5fzvw",
-      "title": "Dinosaur Jr. - Feel The Pain (bass backing track)",
-      "description": "This video features \"Feel The Pain\" by Dinosaur Jr.. My sincere appreciation to these musicians. Copyright Notice: All rights to the ...",
-      "published_at": "2026-09-25T01:59:23Z",
-      "channel_title": "Bass Minus Tracks",
-      "channel_id": "UCMlp4LJeO1IZ7WW4Xuwcbkw",
-      "thumbnail_url": "https://i.ytimg.com/vi/VmqLUr5fzvw/hqdefault.jpg"
     },
     {
       "video_id": "4kYLbwBQsMs",
@@ -574,15 +637,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FvaQhoRoZQE/hqdefault.jpg"
     },
     {
-      "video_id": "o-xikvYHaDY",
-      "title": "&quot;Blowin&#39; Up&quot; the second single off of &quot;There Near&quot; is out now!",
-      "description": "Watch the full lyric video on our page now Lyric Visualizer by: Rena Johnson.",
-      "published_at": "2026-07-29T14:05:37Z",
-      "channel_title": "dinosaurjnr",
-      "channel_id": "UCfo74Lcf9bcQJd2MMq-XBzw",
-      "thumbnail_url": "https://i.ytimg.com/vi/o-xikvYHaDY/hqdefault.jpg"
-    },
-    {
       "video_id": "zS-yOS2HEGk",
       "title": "Dinosaur Jr. - Blowin&#39; Up (Lyric Visualizer)",
       "description": "Blowin' Up\u201d by Dinosaur Jr. from 'There Near' on Jagjaguwar Lyric video by Rena Johnson Stream \u201cBlowin' Up\u201d: ...",
@@ -1024,15 +1078,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/Sx7g8U0YbDw/hqdefault.jpg"
     },
     {
-      "video_id": "RCxgdih8sjk",
-      "title": "Squier J Mascis Jazzmaster Demo",
-      "description": "Today I finally try a Squier J Mascis Jazzmaster!! If you like what you see please leave a thumbs up and subscribe!! Cheers!",
-      "published_at": "2025-08-01T13:00:51Z",
-      "channel_title": "Ben Coombs",
-      "channel_id": "UCz65xfFPxAlXwwmrYRci-AQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RCxgdih8sjk/hqdefault.jpg"
-    },
-    {
       "video_id": "htyHyit2cRE",
       "title": "My Jazzmaster Mods For Metal | Squier J Mascis",
       "description": "Can a Jazzmaster handle metal? In this video, I walk through the metal-focused mods I made to my Squier J Mascis Jazzmaster ...",
@@ -1355,6 +1400,15 @@
       "channel_title": "BLOXSY",
       "channel_id": "UC8Kh0lLLOafZdg8U5HuBzeA",
       "thumbnail_url": "https://i.ytimg.com/vi/_rhxEVEsB2o/hqdefault.jpg"
+    },
+    {
+      "video_id": "dinfkztYq-0",
+      "title": "CURSED! #squier J. Mascis #jazzmaster tremolo upgrade \ud83d\ude31",
+      "description": "",
+      "published_at": "2024-10-18T23:04:35Z",
+      "channel_title": "Totally Wired Guitars",
+      "channel_id": "UCWVYqAfQaNt9XaGXB3-e0XA",
+      "thumbnail_url": "https://i.ytimg.com/vi/dinfkztYq-0/hqdefault.jpg"
     },
     {
       "video_id": "eisfA3HH1as",
@@ -2248,6 +2302,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2HOK1IHnU7Y/hqdefault.jpg"
     },
     {
+      "video_id": "4rQcAl2zZYk",
+      "title": "Dinosaur Jr legend J Mascis shows off his new signature Big Muff. #shorts #bigmuff #effectspedals",
+      "description": "Find the new J Mascis Signature EHX Ram's Head Big Muff \u03c0 on Reverb now: https://bit.ly/3w789ss.",
+      "published_at": "2022-08-16T17:33:55Z",
+      "channel_title": "Reverb",
+      "channel_id": "UCHP-KQAJgXu4Wo2Xq4-eNow",
+      "thumbnail_url": "https://i.ytimg.com/vi/4rQcAl2zZYk/hqdefault.jpg"
+    },
+    {
       "video_id": "Nhl0t5EpNnw",
       "title": "J Mascis on His Signature EHX Ram&#39;s Head Big Muff",
       "description": "Legendary Dinosaur Jr. guitarist J Mascis has defined his sound with the help of an EHX Big Muff pedal since he started playing ...",
@@ -2635,15 +2698,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/S2LvrGn2gvk/hqdefault.jpg"
     },
     {
-      "video_id": "qereVY3GZAs",
-      "title": "J Mascis | Fender Play LIVE | Fender",
-      "description": "Tune in for a very special edition of Fender Play LIVE with J Mascis of Dinosaur Jr. and enter for a chance to win his signature ...",
-      "published_at": "2020-06-25T01:05:59Z",
-      "channel_title": "Fender",
-      "channel_id": "UCI7fys0WM62xF2jUlUdq0XQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/qereVY3GZAs/hqdefault.jpg"
-    },
-    {
       "video_id": "9kO-O6zCe2o",
       "title": "Sebadoh - interview with Lou Barlow (Much Music Break This 11/3/96)",
       "description": "Lou Barlow of Sebadoh is interviewed and live clips from their Toronto concert on BREAK THIS airdate November 3rd, 1996.",
@@ -2651,60 +2705,6 @@
       "channel_title": "Cleveland Live Music ",
       "channel_id": "UCPDwqMECWV_Yxdpn_oBxeRA",
       "thumbnail_url": "https://i.ytimg.com/vi/9kO-O6zCe2o/hqdefault.jpg"
-    },
-    {
-      "video_id": "FZ9SD9eclDY",
-      "title": "Squier J Mascis Jazzmaster Demo and Review",
-      "description": "Get Squier guitars via this affiliate link to support this channel: https://reverb.grsm.io/GOSquier The J Mascis Squier Jazmaster is ...",
-      "published_at": "2020-06-13T16:20:24Z",
-      "channel_title": "Get Offset",
-      "channel_id": "UCYi7l2LsLFi_vSr4wr6EZHw",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZ9SD9eclDY/hqdefault.jpg"
-    },
-    {
-      "video_id": "37H4LxE9v3E",
-      "title": "Kestrels - Grey and Blue (ft. J Mascis)",
-      "description": "Kestrels - Grey and Blue (feat. J Mascis) from the album Dream or Don't Dream (2020 Darla Records) #Kestrels #GreyandBlue ...",
-      "published_at": "2020-06-03T23:02:06Z",
-      "channel_title": "Radial by The Orchard",
-      "channel_id": "UChCDNXr_7WGYGcVsk6JuboQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/37H4LxE9v3E/hqdefault.jpg"
-    },
-    {
-      "video_id": "YPpg6FKCBeA",
-      "title": "Pixies and J Mascis   Gigantic 1988 (Rare)",
-      "description": "The Pixies with J Mascis - \u201cGigantic\u201d live in 1988 \u201cPixiesaurus or Dixie\u201d? :)",
-      "published_at": "2020-05-11T22:13:33Z",
-      "channel_title": "FreakSceneNet Audio",
-      "channel_id": "UC5vTL1GKo0Ek_VmnB9KHh4A",
-      "thumbnail_url": "https://i.ytimg.com/vi/YPpg6FKCBeA/hqdefault.jpg"
-    },
-    {
-      "video_id": "MWHmTMCnxdU",
-      "title": "Dinosaur Jr. - Get Me guitar cover (lead part)",
-      "description": "very fun to play cheers.",
-      "published_at": "2020-05-09T07:04:56Z",
-      "channel_title": "adrian gonz",
-      "channel_id": "UCtdI2x0y2Qii0QqI4_gKOjA",
-      "thumbnail_url": "https://i.ytimg.com/vi/MWHmTMCnxdU/hqdefault.jpg"
-    },
-    {
-      "video_id": "bf851A8AtdE",
-      "title": "Dinosaur Jr. - Black Betty (Official Audio)",
-      "description": "\"Black Betty\" by Dinosaur Jr. out now on Jagjaguwar. Buy / stream: https://dinosaurjr.ffm.to/blackbetty.",
-      "published_at": "2020-05-06T16:19:51Z",
-      "channel_title": "Jagjaguwar",
-      "channel_id": "UCe67UQodvQ57t2FWUHiI7Dw",
-      "thumbnail_url": "https://i.ytimg.com/vi/bf851A8AtdE/hqdefault.jpg"
-    },
-    {
-      "video_id": "3y4buBmVtjQ",
-      "title": "The Fantastic Squier J. Mascis Jazzmaster Neck",
-      "description": "I have the same Squier J. Mascis Jazzmaster model neck on three of my guitars. I think they're great, and this video talks about ...",
-      "published_at": "2020-05-03T22:51:19Z",
-      "channel_title": "Avi Bortnick",
-      "channel_id": "UCAxDBLKwSltXT3czp2I12fw",
-      "thumbnail_url": "https://i.ytimg.com/vi/3y4buBmVtjQ/hqdefault.jpg"
     }
   ]
 }
