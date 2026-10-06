@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-06 00:04 UTC",
-  "fetched_at_iso": "2026-10-06T00:04:47Z",
+  "fetched_at_utc": "2026-10-06 12:02 UTC",
+  "fetched_at_iso": "2026-10-06T12:02:56Z",
   "result_count": 300,
   "playlists": [
     {
@@ -15,6 +15,16 @@
       "channel_id": "UCtHFghCVd3A0AEqQvRnMBqg",
       "thumbnail_url": "https://i.ytimg.com/vi/OUrRKjY2DkI/hqdefault.jpg",
       "video_count": 7
+    },
+    {
+      "playlist_id": "PLDkwBv7b1wts",
+      "title": "Dinosaur Jr Green Mind",
+      "description": "",
+      "published_at": "2026-10-04T16:47:35Z",
+      "channel_title": "Raanan Malkin",
+      "channel_id": "UCYjj5aH5uExG2q9xuE6o8ng",
+      "thumbnail_url": "https://i.ytimg.com/vi/86JvaWOeUgw/hqdefault.jpg",
+      "video_count": 10
     },
     {
       "playlist_id": "PLfJKCG7yiHEA",
@@ -194,7 +204,7 @@
       "channel_title": "fukumimi",
       "channel_id": "UCG9_JAy31ntklZTQ5zPTN9A",
       "thumbnail_url": "https://i.ytimg.com/vi/tRjmJ7h4Sts/hqdefault.jpg",
-      "video_count": 21
+      "video_count": 17
     },
     {
       "playlist_id": "PLDa_w_ZyK-RE",
@@ -497,16 +507,6 @@
       "video_count": 38
     },
     {
-      "playlist_id": "PLO3T3BAXLQ0E",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-06-30T23:52:03Z",
-      "channel_title": "Janine H M Souza",
-      "channel_id": "UCMs74V9dVhkGc8K0RHRttkA",
-      "thumbnail_url": "https://i.ytimg.com/vi/lyE0sEHw3cc/hqdefault.jpg",
-      "video_count": 46
-    },
-    {
       "playlist_id": "PLYWYVyJU-D3I",
       "title": "Favorite Dinosaur Jr. \ud83c\udfb8 songs",
       "description": "",
@@ -634,6 +634,16 @@
       "channel_title": "Wyatt Vanderpoel",
       "channel_id": "UCTePffiDwja-xdVWffWrNKw",
       "thumbnail_url": "https://i.ytimg.com/vi/GGNkdzGPRpA/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
+      "playlist_id": "PLzJp51J4k8M08n6p9pbXIcMPfH7NFuyQ4",
+      "title": "Dinosaur Jr.  2011-06-26: Variety Playhouse, Athens, GA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-05-31T16:08:25Z",
+      "channel_title": "Kaitlyn Tackitt",
+      "channel_id": "UC4D_UGO0nRUZo8N68Y7DMQQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/bbqKewBA98o/hqdefault.jpg",
       "video_count": 50
     },
     {
@@ -1167,16 +1177,6 @@
       "video_count": 30
     },
     {
-      "playlist_id": "PLKohjwxIMDprYZFTfPoS92Mh2ZBDiGXCs",
-      "title": "Dinosaur Jr M\u00e9xico Foro Indie rocks \ud83c\udfb8\ud83e\udd41\ud83d\udca5\ud83e\udd95",
-      "description": "",
-      "published_at": "2025-11-13T01:32:51Z",
-      "channel_title": "Hey Ross",
-      "channel_id": "UClyA6_68WNWH18iDSPc9nSg",
-      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
-      "video_count": 18
-    },
-    {
       "playlist_id": "PL_F1RDUVTZX2fq6Ny9nDbxVRNuAqrh9lX",
       "title": "DINOSAUR JR.",
       "description": "",
@@ -1505,6 +1505,26 @@
       "channel_id": "UCWwKTmtYRRPbrHyo9YnWVKw",
       "thumbnail_url": "https://i.ytimg.com/vi/J0vUqvfHQeQ/hqdefault.jpg",
       "video_count": 13
+    },
+    {
+      "playlist_id": "PLDC8AvyG3QSH-ZWVcRaWlzrsYvSpFavGE",
+      "title": "J Mascis - Tied to a Star (Full Album)",
+      "description": "The full album for Tied to a Star / Music by J Mascis playlist J Mascis - Tied to a Star / J Mascis Full Album Tied to a Star tracklist (J ...",
+      "published_at": "2025-08-04T02:25:06Z",
+      "channel_title": "bellichi",
+      "channel_id": "UCPPc0envcw9CWo8tNAScitg",
+      "thumbnail_url": "https://i.ytimg.com/vi/tg-t6gc5lHw/hqdefault.jpg",
+      "video_count": 11
+    },
+    {
+      "playlist_id": "PLrF4AujsHW-OyfQan-zJQnB7L7-BQy6n2",
+      "title": "Dinosaur Jr. - Give a Glimpse of What Yer Not (Full Album)",
+      "description": "The full album for Give a Glimpse of What Yer Not / Music by Dinosaur Jr. playlist Dinosaur Jr. - Give a Glimpse of What Yer Not ...",
+      "published_at": "2025-08-03T22:59:55Z",
+      "channel_title": "ivonncita",
+      "channel_id": "UCRVPgnBgObDQXSP1extQO6Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/2znCWvYiOfI/hqdefault.jpg",
+      "video_count": 12
     },
     {
       "playlist_id": "PL929H8m6jVCDWiuBdv4MOTWxyrjnOC_Oe",
@@ -2327,16 +2347,6 @@
       "video_count": 25
     },
     {
-      "playlist_id": "PLzt5Ax0XjFxFPcB1N5uqSIOeqspRyBLLj",
-      "title": "Dinosaur Jr.",
-      "description": "",
-      "published_at": "2024-01-27T03:20:53Z",
-      "channel_title": "Nines99",
-      "channel_id": "UC1WDHr3B-s-fTQ8C7XMoqjg",
-      "thumbnail_url": "https://i.ytimg.com/vi/YzqLyZazSaI/hqdefault.jpg",
-      "video_count": 12
-    },
-    {
       "playlist_id": "PL92AKj7jBeK0nPXXVc4BgpqwrBkEvyr_9",
       "title": "Dinosaur Jr",
       "description": "",
@@ -2415,16 +2425,6 @@
       "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 58
-    },
-    {
-      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
-      "title": "Dinosaur Jr &amp; Related",
-      "description": "",
-      "published_at": "2023-10-12T10:28:55Z",
-      "channel_title": "Scott McAvoy",
-      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
-      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
-      "video_count": 8
     },
     {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
@@ -2997,14 +2997,14 @@
       "video_count": 10
     },
     {
-      "playlist_id": "PLdUIPLqJ38Fj88podt1Ei3Ehojd6RRJIJ",
-      "title": "Lou Barlow and Family holiday specials!",
+      "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
+      "title": "sebadoh - defend yourself full album",
       "description": "",
-      "published_at": "2021-07-03T19:35:34Z",
-      "channel_title": "Lou Barlow",
-      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
-      "thumbnail_url": "https://i.ytimg.com/vi/oDx6wffTsM4/hqdefault.jpg",
-      "video_count": 9
+      "published_at": "2021-06-29T19:08:14Z",
+      "channel_title": "happy go lucky",
+      "channel_id": "UCoVgbzIOWwLb982v3by0s1g",
+      "thumbnail_url": "https://i.ytimg.com/vi/-An-D5COpsw/hqdefault.jpg",
+      "video_count": 14
     }
   ]
 }
