@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-06 12:02 UTC",
-  "fetched_at_iso": "2026-10-06T12:02:56Z",
+  "fetched_at_utc": "2026-10-07 00:05 UTC",
+  "fetched_at_iso": "2026-10-07T00:05:03Z",
   "result_count": 300,
   "playlists": [
     {
@@ -54,7 +54,7 @@
       "channel_title": "Gusta Erhart",
       "channel_id": "UCbIMbLtyul5PGRz-qXs7q3w",
       "thumbnail_url": "https://i.ytimg.com/vi/Oa23-N7iR9I/hqdefault.jpg",
-      "video_count": 131
+      "video_count": 143
     },
     {
       "playlist_id": "PLci5o7bvSVQ0",
@@ -203,8 +203,8 @@
       "published_at": "2026-09-12T10:27:51Z",
       "channel_title": "fukumimi",
       "channel_id": "UCG9_JAy31ntklZTQ5zPTN9A",
-      "thumbnail_url": "https://i.ytimg.com/vi/tRjmJ7h4Sts/hqdefault.jpg",
-      "video_count": 17
+      "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
+      "video_count": 13
     },
     {
       "playlist_id": "PLDa_w_ZyK-RE",
@@ -507,6 +507,16 @@
       "video_count": 38
     },
     {
+      "playlist_id": "PLO3T3BAXLQ0E",
+      "title": "dinosaur jr",
+      "description": "",
+      "published_at": "2026-06-30T23:52:03Z",
+      "channel_title": "Janine H M Souza",
+      "channel_id": "UCMs74V9dVhkGc8K0RHRttkA",
+      "thumbnail_url": "https://i.ytimg.com/vi/lyE0sEHw3cc/hqdefault.jpg",
+      "video_count": 46
+    },
+    {
       "playlist_id": "PLYWYVyJU-D3I",
       "title": "Favorite Dinosaur Jr. \ud83c\udfb8 songs",
       "description": "",
@@ -787,16 +797,6 @@
       "video_count": 6
     },
     {
-      "playlist_id": "PLTN2fbXeWGsxFOqlsD7SCgyW53osD8oEl",
-      "title": "Dinosaur Jr inspired mix",
-      "description": "",
-      "published_at": "2026-04-25T22:55:35Z",
-      "channel_title": "Antony Sargent",
-      "channel_id": "UCJjdwUfmhDbr45G7c-MthRQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
-      "video_count": 47
-    },
-    {
       "playlist_id": "PLusBLLZkF9PqI3x-E0uV43RGCfm3BEzVQ",
       "title": "Dinosaur Jr",
       "description": "",
@@ -1005,26 +1005,6 @@
       "channel_id": "UCzsCVbT7cIrpKgkMKZFa3Ag",
       "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
       "video_count": 18
-    },
-    {
-      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-16T03:04:53Z",
-      "channel_title": "VOICE YOUR OPINION",
-      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
-      "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
-      "title": "DINOSAUR JR",
-      "description": "",
-      "published_at": "2026-02-11T19:52:45Z",
-      "channel_title": "mitsos johnson",
-      "channel_id": "UCt-MlgswTGTKA3EnkWdMrfw",
-      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": 109
     },
     {
       "playlist_id": "PLYgTQSnx-Ly5-3_0TmTFxYjQMgwhaDAgy",
@@ -1237,6 +1217,16 @@
       "video_count": 152
     },
     {
+      "playlist_id": "PLcOXU8A_swouRFN2cBouZ49L8P2YNIo8u",
+      "title": "Dinosaur Jr. - \u201cSeventytwohundredseconds\u201d (Full Album)",
+      "description": "",
+      "published_at": "2025-10-27T23:49:26Z",
+      "channel_title": "Charlie Rich",
+      "channel_id": "UCtzgmKivemgKnz91iEFcugg",
+      "thumbnail_url": "https://i.ytimg.com/vi/3IsTiUhik20/hqdefault.jpg",
+      "video_count": 55
+    },
+    {
       "playlist_id": "PLqA4mB-9pTrxrr2Mp0HJLgd4xKAKfcLZ1",
       "title": "seBADoh - Select Songs from the Middle East - 9/21/2025",
       "description": "Select songs from Sebadoh's set at the Middle East Downstairs on Sunday, September 21st, 2025.",
@@ -1375,16 +1365,6 @@
       "channel_id": "UCDtT76PsKfHsPpCf_QLCCuw",
       "thumbnail_url": "https://i.ytimg.com/vi/51WW3vUKF5Q/hqdefault.jpg",
       "video_count": 7
-    },
-    {
-      "playlist_id": "PLWFdQT5wGqrJHYeJ-CXDcU_9XrOHpymKe",
-      "title": "Sebadoh - Defend Yourself (Full Album)",
-      "description": "The full album for Defend Yourself / Music by Sebadoh playlist Sebadoh - Defend Yourself / Sebadoh Full Album Defend Yourself ...",
-      "published_at": "2025-08-09T15:58:10Z",
-      "channel_title": "CrossMarian",
-      "channel_id": "UC3OSl2NdKmWdlxprVolwKkA",
-      "thumbnail_url": "https://i.ytimg.com/vi/UBWWL0nh9kI/hqdefault.jpg",
-      "video_count": 15
     },
     {
       "playlist_id": "PLvcyvwXUt5hHqAwaYV70hnGeNfEEJ9NeO",
@@ -1707,16 +1687,6 @@
       "video_count": 18
     },
     {
-      "playlist_id": "PLvb-X69PH8x01NvEtfzuvrdUes4l2MWvr",
-      "title": "The very best of Dinosaur Jr.",
-      "description": "enjoy.",
-      "published_at": "2025-06-22T14:41:00Z",
-      "channel_title": "KLAWISZ",
-      "channel_id": "UC6Y6hN1nzildqhx6xmpBX8Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/86JvaWOeUgw/hqdefault.jpg",
-      "video_count": 66
-    },
-    {
       "playlist_id": "PLbe-_W4ETGypZOVUbMGuR3QfmVTpI9ccn",
       "title": "Dinosaur Jr  \ud83e\udd96",
       "description": "",
@@ -1995,16 +1965,6 @@
       "channel_id": "UCk7wiDSkwB2Ud9MpJlHX3ww",
       "thumbnail_url": "https://i.ytimg.com/vi/ro3MbdlByaM/hqdefault.jpg",
       "video_count": 15
-    },
-    {
-      "playlist_id": "PLPPM3l83NTrBx-r8ME6ZNSrWJhnbSUkHS",
-      "title": "Dinosaur jr.",
-      "description": "",
-      "published_at": "2024-10-27T06:36:43Z",
-      "channel_title": "marcel braga",
-      "channel_id": "UCCUXmcbAwv9zhF_pqUNqQlg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Iwa3DO5_irM/hqdefault.jpg",
-      "video_count": 13
     },
     {
       "playlist_id": "PLPTevqEbWRKOU_ohWYnFo0rnfZ7hopl9N",
@@ -2425,6 +2385,16 @@
       "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 58
+    },
+    {
+      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
+      "title": "Dinosaur Jr &amp; Related",
+      "description": "",
+      "published_at": "2023-10-12T10:28:55Z",
+      "channel_title": "Scott McAvoy",
+      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
+      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
+      "video_count": 8
     },
     {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
@@ -2997,6 +2967,16 @@
       "video_count": 10
     },
     {
+      "playlist_id": "PLdUIPLqJ38Fj88podt1Ei3Ehojd6RRJIJ",
+      "title": "Lou Barlow and Family holiday specials!",
+      "description": "",
+      "published_at": "2021-07-03T19:35:34Z",
+      "channel_title": "Lou Barlow",
+      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
+      "thumbnail_url": "https://i.ytimg.com/vi/oDx6wffTsM4/hqdefault.jpg",
+      "video_count": 9
+    },
+    {
       "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
       "title": "sebadoh - defend yourself full album",
       "description": "",
@@ -3005,6 +2985,26 @@
       "channel_id": "UCoVgbzIOWwLb982v3by0s1g",
       "thumbnail_url": "https://i.ytimg.com/vi/-An-D5COpsw/hqdefault.jpg",
       "video_count": 14
+    },
+    {
+      "playlist_id": "PLu16OJOOzsq2MLdjRzvCKEyRVvfIZ7WrI",
+      "title": "Dinosaur jr",
+      "description": "",
+      "published_at": "2021-06-19T23:29:00Z",
+      "channel_title": "tetilatus",
+      "channel_id": "UC3Wu6n2AaC0gMfObyTNgZ5g",
+      "thumbnail_url": "https://i.ytimg.com/vi/FnvbVJ7MftE/hqdefault.jpg",
+      "video_count": 8
+    },
+    {
+      "playlist_id": "PLTwBzh1VktznUhj8Wb1w3UfbjoJiXN6ve",
+      "title": "Disco express : Dinosaur Jr.",
+      "description": "Article \u00e0 retrouver sur exitmusik.fr.",
+      "published_at": "2021-05-09T08:10:53Z",
+      "channel_title": "Exit Musik",
+      "channel_id": "UC_t7wBoFuU6Vw41QOxei_FQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
+      "video_count": 20
     }
   ]
 }
