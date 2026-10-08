@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-08 00:04 UTC",
-  "fetched_at_iso": "2026-10-08T00:04:48Z",
+  "fetched_at_utc": "2026-10-08 12:03 UTC",
+  "fetched_at_iso": "2026-10-08T12:03:07Z",
   "result_count": 300,
   "playlists": [
     {
@@ -437,16 +437,6 @@
       "video_count": 11
     },
     {
-      "playlist_id": "PLW-3VhNIcYcw",
-      "title": "dinosaur j mascis",
-      "description": "",
-      "published_at": "2026-07-12T02:32:29Z",
-      "channel_title": "2dbro",
-      "channel_id": "UC9tfoDuJ_ufF051htEgD0CQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": null
-    },
-    {
       "playlist_id": "PLFtuC9oprFnw",
       "title": "Dinosaur Jr",
       "description": "",
@@ -454,7 +444,7 @@
       "channel_title": "Adrian Adrian",
       "channel_id": "UCxRFnB-dFCiiewemr4tQEIg",
       "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 44
+      "video_count": 45
     },
     {
       "playlist_id": "PLVjxwOmXlKaA",
@@ -1147,16 +1137,6 @@
       "video_count": 30
     },
     {
-      "playlist_id": "PLKohjwxIMDprYZFTfPoS92Mh2ZBDiGXCs",
-      "title": "Dinosaur Jr M\u00e9xico Foro Indie rocks \ud83c\udfb8\ud83e\udd41\ud83d\udca5\ud83e\udd95",
-      "description": "",
-      "published_at": "2025-11-13T01:32:51Z",
-      "channel_title": "Hey Ross",
-      "channel_id": "UClyA6_68WNWH18iDSPc9nSg",
-      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
-      "video_count": 18
-    },
-    {
       "playlist_id": "PL_F1RDUVTZX2fq6Ny9nDbxVRNuAqrh9lX",
       "title": "DINOSAUR JR.",
       "description": "",
@@ -1505,6 +1485,16 @@
       "channel_id": "UCRVPgnBgObDQXSP1extQO6Q",
       "thumbnail_url": "https://i.ytimg.com/vi/2znCWvYiOfI/hqdefault.jpg",
       "video_count": 12
+    },
+    {
+      "playlist_id": "PL929H8m6jVCDWiuBdv4MOTWxyrjnOC_Oe",
+      "title": "J Mascis - Several Shades of Why (Full Album)",
+      "description": "The full album for Several Shades of Why / Music by J Mascis playlist J Mascis - Several Shades of Why / J Mascis Full Album ...",
+      "published_at": "2025-08-03T00:15:19Z",
+      "channel_title": "beewicked",
+      "channel_id": "UCe0VEvNfhyWjcdmN3zO0Iug",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
+      "video_count": 11
     },
     {
       "playlist_id": "PLRjTH8yq2L52xbY_bloDt5nGswP2DOhEk",
@@ -2264,7 +2254,7 @@
       "channel_title": "Lou Barlow",
       "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
       "thumbnail_url": "https://i.ytimg.com/vi/HXcsBzjc9NU/hqdefault.jpg",
-      "video_count": 154
+      "video_count": 156
     },
     {
       "playlist_id": "PLW5upGhTSBiqcqGjKLKdTCjzIe-lS_wQk",
@@ -2995,6 +2985,16 @@
       "channel_id": "UC3Wu6n2AaC0gMfObyTNgZ5g",
       "thumbnail_url": "https://i.ytimg.com/vi/FnvbVJ7MftE/hqdefault.jpg",
       "video_count": 8
+    },
+    {
+      "playlist_id": "PLTwBzh1VktznUhj8Wb1w3UfbjoJiXN6ve",
+      "title": "Disco express : Dinosaur Jr.",
+      "description": "Article \u00e0 retrouver sur exitmusik.fr.",
+      "published_at": "2021-05-09T08:10:53Z",
+      "channel_title": "Exit Musik",
+      "channel_id": "UC_t7wBoFuU6Vw41QOxei_FQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
+      "video_count": 20
     },
     {
       "playlist_id": "PLzpHvgk6ivsETdESaT8Xh2qJ3a9Aunlz3",
