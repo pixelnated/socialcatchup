@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-08 12:03 UTC",
-  "fetched_at_iso": "2026-10-08T12:03:07Z",
+  "fetched_at_utc": "2026-10-09 00:05 UTC",
+  "fetched_at_iso": "2026-10-09T00:05:04Z",
   "result_count": 300,
   "playlists": [
     {
@@ -23,7 +23,7 @@
       "published_at": "2026-10-05T18:26:29Z",
       "channel_title": "Paul",
       "channel_id": "UCtHFghCVd3A0AEqQvRnMBqg",
-      "thumbnail_url": "https://i.ytimg.com/vi/OUrRKjY2DkI/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/2XwYVWnYMB8/hqdefault.jpg",
       "video_count": 10
     },
     {
@@ -1347,6 +1347,16 @@
       "video_count": 7
     },
     {
+      "playlist_id": "PLWFdQT5wGqrJHYeJ-CXDcU_9XrOHpymKe",
+      "title": "Sebadoh - Defend Yourself (Full Album)",
+      "description": "The full album for Defend Yourself / Music by Sebadoh playlist Sebadoh - Defend Yourself / Sebadoh Full Album Defend Yourself ...",
+      "published_at": "2025-08-09T15:58:10Z",
+      "channel_title": "CrossMarian",
+      "channel_id": "UC3OSl2NdKmWdlxprVolwKkA",
+      "thumbnail_url": "https://i.ytimg.com/vi/UBWWL0nh9kI/hqdefault.jpg",
+      "video_count": 15
+    },
+    {
       "playlist_id": "PLvcyvwXUt5hHqAwaYV70hnGeNfEEJ9NeO",
       "title": "Dinosaur Jr. - Live In The Middle East (Full Album)",
       "description": "The full album for Live In The Middle East / Music by Dinosaur Jr. playlist Dinosaur Jr. - Live In The Middle East / Dinosaur Jr. Full ...",
@@ -2253,7 +2263,7 @@
       "published_at": "2024-02-19T08:56:15Z",
       "channel_title": "Lou Barlow",
       "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
-      "thumbnail_url": "https://i.ytimg.com/vi/HXcsBzjc9NU/hqdefault.jpg",
+      "thumbnail_url": "https://i.ytimg.com/vi/18jdTfxWnv0/hqdefault.jpg",
       "video_count": 156
     },
     {
@@ -2385,16 +2395,6 @@
       "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 58
-    },
-    {
-      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
-      "title": "Dinosaur Jr &amp; Related",
-      "description": "",
-      "published_at": "2023-10-12T10:28:55Z",
-      "channel_title": "Scott McAvoy",
-      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
-      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
-      "video_count": 8
     },
     {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
@@ -2967,6 +2967,16 @@
       "video_count": 10
     },
     {
+      "playlist_id": "PLdUIPLqJ38Fj88podt1Ei3Ehojd6RRJIJ",
+      "title": "Lou Barlow and Family holiday specials!",
+      "description": "",
+      "published_at": "2021-07-03T19:35:34Z",
+      "channel_title": "Lou Barlow",
+      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
+      "thumbnail_url": "https://i.ytimg.com/vi/oDx6wffTsM4/hqdefault.jpg",
+      "video_count": 9
+    },
+    {
       "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
       "title": "sebadoh - defend yourself full album",
       "description": "",
@@ -2995,16 +3005,6 @@
       "channel_id": "UC_t7wBoFuU6Vw41QOxei_FQ",
       "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
       "video_count": 20
-    },
-    {
-      "playlist_id": "PLzpHvgk6ivsETdESaT8Xh2qJ3a9Aunlz3",
-      "title": "Dinosaur Jr. - Sweep It Into Space (FULL ALBUM)",
-      "description": "",
-      "published_at": "2021-04-25T19:16:23Z",
-      "channel_title": "IMAGIDYNE",
-      "channel_id": "UCZGtwHlQVmVOmxX7N8gu9lg",
-      "thumbnail_url": "https://i.ytimg.com/vi/QYjKi-_nMe4/hqdefault.jpg",
-      "video_count": 10
     }
   ]
 }
