@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-09 00:05 UTC",
-  "fetched_at_iso": "2026-10-09T00:05:04Z",
+  "fetched_at_utc": "2026-10-09 12:02 UTC",
+  "fetched_at_iso": "2026-10-09T12:02:53Z",
   "result_count": 300,
   "playlists": [
     {
@@ -977,16 +977,6 @@
       "video_count": 18
     },
     {
-      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-16T03:04:53Z",
-      "channel_title": "VOICE YOUR OPINION",
-      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
       "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
       "title": "DINOSAUR JR",
       "description": "",
@@ -1135,6 +1125,16 @@
       "channel_id": "UCi8PeGRZthP2c1v_fRPaPkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/RG8MMmc_HKI/hqdefault.jpg",
       "video_count": 30
+    },
+    {
+      "playlist_id": "PLKohjwxIMDprYZFTfPoS92Mh2ZBDiGXCs",
+      "title": "Dinosaur Jr M\u00e9xico Foro Indie rocks \ud83c\udfb8\ud83e\udd41\ud83d\udca5\ud83e\udd95",
+      "description": "",
+      "published_at": "2025-11-13T01:32:51Z",
+      "channel_title": "Hey Ross",
+      "channel_id": "UClyA6_68WNWH18iDSPc9nSg",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
+      "video_count": 18
     },
     {
       "playlist_id": "PL_F1RDUVTZX2fq6Ny9nDbxVRNuAqrh9lX",
@@ -1347,16 +1347,6 @@
       "video_count": 7
     },
     {
-      "playlist_id": "PLWFdQT5wGqrJHYeJ-CXDcU_9XrOHpymKe",
-      "title": "Sebadoh - Defend Yourself (Full Album)",
-      "description": "The full album for Defend Yourself / Music by Sebadoh playlist Sebadoh - Defend Yourself / Sebadoh Full Album Defend Yourself ...",
-      "published_at": "2025-08-09T15:58:10Z",
-      "channel_title": "CrossMarian",
-      "channel_id": "UC3OSl2NdKmWdlxprVolwKkA",
-      "thumbnail_url": "https://i.ytimg.com/vi/UBWWL0nh9kI/hqdefault.jpg",
-      "video_count": 15
-    },
-    {
       "playlist_id": "PLvcyvwXUt5hHqAwaYV70hnGeNfEEJ9NeO",
       "title": "Dinosaur Jr. - Live In The Middle East (Full Album)",
       "description": "The full album for Live In The Middle East / Music by Dinosaur Jr. playlist Dinosaur Jr. - Live In The Middle East / Dinosaur Jr. Full ...",
@@ -1505,26 +1495,6 @@
       "channel_id": "UCe0VEvNfhyWjcdmN3zO0Iug",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 11
-    },
-    {
-      "playlist_id": "PLRjTH8yq2L52xbY_bloDt5nGswP2DOhEk",
-      "title": "Sebadoh - Harmacy (Full Album)",
-      "description": "The full album for Harmacy / Music by Sebadoh playlist Sebadoh - Harmacy / Sebadoh Full Album Harmacy tracklist (Sebadoh): ...",
-      "published_at": "2025-08-02T21:28:28Z",
-      "channel_title": "andysach",
-      "channel_id": "UCYIv11AYVVbQ_xWRdVTXHPQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/COMCG1p7GTk/hqdefault.jpg",
-      "video_count": 21
-    },
-    {
-      "playlist_id": "PLe46fX9UYQoT-s73b6LZ7dctrhJdklz_q",
-      "title": "Dinosaur Jr. - Dinosaur (Full Album)",
-      "description": "The full album for Dinosaur / Music by Dinosaur Jr. playlist Dinosaur Jr. - Dinosaur / Dinosaur Jr. Full Album Dinosaur tracklist ...",
-      "published_at": "2025-08-02T03:17:54Z",
-      "channel_title": "aKobrakai",
-      "channel_id": "UCysUyzxmGS9gHjoW_wtaHHg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
-      "video_count": 13
     },
     {
       "playlist_id": "PLy__jGMuske-5ZmxkeLO6YTSfcruyb3xv",
@@ -2967,16 +2937,6 @@
       "video_count": 10
     },
     {
-      "playlist_id": "PLdUIPLqJ38Fj88podt1Ei3Ehojd6RRJIJ",
-      "title": "Lou Barlow and Family holiday specials!",
-      "description": "",
-      "published_at": "2021-07-03T19:35:34Z",
-      "channel_title": "Lou Barlow",
-      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
-      "thumbnail_url": "https://i.ytimg.com/vi/oDx6wffTsM4/hqdefault.jpg",
-      "video_count": 9
-    },
-    {
       "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
       "title": "sebadoh - defend yourself full album",
       "description": "",
@@ -3005,6 +2965,46 @@
       "channel_id": "UC_t7wBoFuU6Vw41QOxei_FQ",
       "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
       "video_count": 20
+    },
+    {
+      "playlist_id": "PLzpHvgk6ivsETdESaT8Xh2qJ3a9Aunlz3",
+      "title": "Dinosaur Jr. - Sweep It Into Space (FULL ALBUM)",
+      "description": "",
+      "published_at": "2021-04-25T19:16:23Z",
+      "channel_title": "IMAGIDYNE",
+      "channel_id": "UCZGtwHlQVmVOmxX7N8gu9lg",
+      "thumbnail_url": "https://i.ytimg.com/vi/QYjKi-_nMe4/hqdefault.jpg",
+      "video_count": 10
+    },
+    {
+      "playlist_id": "PLSBWvYm8t6ubeINRr1iM_LdyWIPz12Eju",
+      "title": "Dinosaur Jr. - There Near (FULL ALBUM 2026) Sweep It Into Space",
+      "description": "Dinosaur Jr. - There Near (FULL ALBUM 2026) Sweep It Into Space.",
+      "published_at": "2021-04-22T13:53:57Z",
+      "channel_title": "\u03bf \u03b5\u03c6\u03b9\u03ac\u03bb\u03c4\u03b7\u03c2 \u03c3\u03bf\u03c5",
+      "channel_id": "UC07Ky8wPJ83vF3Dv6XrDGZA",
+      "thumbnail_url": "https://i.ytimg.com/vi/2XwYVWnYMB8/hqdefault.jpg",
+      "video_count": 24
+    },
+    {
+      "playlist_id": "PLiopyQiK-cUJrBf5Xf7-Trtzd8Ea72UEQ",
+      "title": "dinosaur jr",
+      "description": "",
+      "published_at": "2021-04-05T16:55:06Z",
+      "channel_title": "Dan Coulter",
+      "channel_id": "UCimZdhYQZBwWnk6-FTdD_nw",
+      "thumbnail_url": "https://i.ytimg.com/vi/TgTJtdn6VjM/hqdefault.jpg",
+      "video_count": 8
+    },
+    {
+      "playlist_id": "PLyOk_iko4xE6GMqDmPqzyzSm_-MXf-OHI",
+      "title": "J. Mascis",
+      "description": "",
+      "published_at": "2021-04-02T17:33:30Z",
+      "channel_title": "huh",
+      "channel_id": "UCo6w9EvJBfPSwthU0fLZm_Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/qf7DF0qeRdY/hqdefault.jpg",
+      "video_count": 118
     }
   ]
 }
