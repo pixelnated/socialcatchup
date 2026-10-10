@@ -2,19 +2,19 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-10 00:04 UTC",
-  "fetched_at_iso": "2026-10-10T00:04:45Z",
+  "fetched_at_utc": "2026-10-10 12:02 UTC",
+  "fetched_at_iso": "2026-10-10T12:02:38Z",
   "result_count": 300,
   "playlists": [
     {
-      "playlist_id": "PLUQWrW_j9lK8",
-      "title": "01/ Sebadoh",
+      "playlist_id": "PLf-YJZ_1IIwE",
+      "title": "Dinosaur jr setlist 2026",
       "description": "",
-      "published_at": "2026-10-06T09:50:03Z",
-      "channel_title": "Santiago",
-      "channel_id": "UCFk6Swm1ikuq7a13vFhr0jw",
-      "thumbnail_url": "https://i.ytimg.com/vi/mvK-3u23b-4/hqdefault.jpg",
-      "video_count": 15
+      "published_at": "2026-10-09T03:48:27Z",
+      "channel_title": "MIDNIGHT RAMBLER",
+      "channel_id": "UCknUib0FIy7XbG8iHjscBBw",
+      "thumbnail_url": "https://i.ytimg.com/vi/5QTcJ6TylSk/hqdefault.jpg",
+      "video_count": 14
     },
     {
       "playlist_id": "PLFGy6_Q0zZ5Q",
@@ -285,6 +285,16 @@
       "channel_id": "UCKQOMBBVza07yQGSCRZ_qZQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 117
+    },
+    {
+      "playlist_id": "PLaCbKTNc8frQ",
+      "title": "DINOSAUR JR  there near",
+      "description": "",
+      "published_at": "2026-09-01T19:08:21Z",
+      "channel_title": "xavi domingo",
+      "channel_id": "UC5OUvbExhAnRZQRPaWqd9Bw",
+      "thumbnail_url": "https://i.ytimg.com/vi/RQHdQqJKmbI/hqdefault.jpg",
+      "video_count": 11
     },
     {
       "playlist_id": "PLE-GSlNtHGlA",
@@ -987,16 +997,6 @@
       "video_count": 18
     },
     {
-      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-16T03:04:53Z",
-      "channel_title": "VOICE YOUR OPINION",
-      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
       "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
       "title": "DINOSAUR JR",
       "description": "",
@@ -1007,6 +1007,16 @@
       "video_count": 109
     },
     {
+      "playlist_id": "PLYgTQSnx-Ly5-3_0TmTFxYjQMgwhaDAgy",
+      "title": "Dinosaur Jr/ Mascis",
+      "description": "",
+      "published_at": "2026-02-07T09:20:25Z",
+      "channel_title": "William Stafford",
+      "channel_id": "UCRWLYuFfMpfcKCxs6-9rFeg",
+      "thumbnail_url": "https://i.ytimg.com/vi/PvvkEMlqda8/hqdefault.jpg",
+      "video_count": 49
+    },
+    {
       "playlist_id": "PLDErGz4BqWYdz_vX_TLLb5erRDK1S7aNU",
       "title": "dinosaur jr",
       "description": "",
@@ -1015,6 +1025,16 @@
       "channel_id": "UCneE6t_EYIOgON1rMdtpwJQ",
       "thumbnail_url": "https://i.ytimg.com/vi/d1ISJmz0dZI/hqdefault.jpg",
       "video_count": 27
+    },
+    {
+      "playlist_id": "PLc067dhM1ts4m_KzldFw-vQGocxLXy-48",
+      "title": "Ear Bleeding Country: The Best of Dinosaur Jr.",
+      "description": "",
+      "published_at": "2026-01-09T20:11:05Z",
+      "channel_title": "a generic white man",
+      "channel_id": "UCAkY0c7jXds3LHnpDd9POgA",
+      "thumbnail_url": "https://i.ytimg.com/vi/FLknODB7Fuc/hqdefault.jpg",
+      "video_count": 38
     },
     {
       "playlist_id": "PLuy0bmScRXkHNfzfJsPrq1t2JEuTpj5ID",
@@ -1475,16 +1495,6 @@
       "channel_id": "UCRVPgnBgObDQXSP1extQO6Q",
       "thumbnail_url": "https://i.ytimg.com/vi/2znCWvYiOfI/hqdefault.jpg",
       "video_count": 12
-    },
-    {
-      "playlist_id": "PL929H8m6jVCDWiuBdv4MOTWxyrjnOC_Oe",
-      "title": "J Mascis - Several Shades of Why (Full Album)",
-      "description": "The full album for Several Shades of Why / Music by J Mascis playlist J Mascis - Several Shades of Why / J Mascis Full Album ...",
-      "published_at": "2025-08-03T00:15:19Z",
-      "channel_title": "beewicked",
-      "channel_id": "UCe0VEvNfhyWjcdmN3zO0Iug",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
-      "video_count": 11
     },
     {
       "playlist_id": "PLRjTH8yq2L52xbY_bloDt5nGswP2DOhEk",
@@ -2487,16 +2497,6 @@
       "video_count": 18
     },
     {
-      "playlist_id": "PLz6fYeROpAx7TEeas0gaPJY8W6ZJCGzTh",
-      "title": "Dinosaur Jr. - Roadrunner Boston 5.13.2023",
-      "description": "",
-      "published_at": "2023-05-17T12:31:06Z",
-      "channel_title": "FreakSceneNet",
-      "channel_id": "UC1uTU8Qf20g7zzbc9NJyp2A",
-      "thumbnail_url": "https://i.ytimg.com/vi/mfaAdDOh8kE/hqdefault.jpg",
-      "video_count": 12
-    },
-    {
       "playlist_id": "PL0AnIb2v_cdY9ZvDlq22V2TE1dD7M5B7V",
       "title": "Dinosaur Jr live",
       "description": "",
@@ -2967,16 +2967,6 @@
       "video_count": 10
     },
     {
-      "playlist_id": "PLdUIPLqJ38Fj88podt1Ei3Ehojd6RRJIJ",
-      "title": "Lou Barlow and Family holiday specials!",
-      "description": "",
-      "published_at": "2021-07-03T19:35:34Z",
-      "channel_title": "Lou Barlow",
-      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
-      "thumbnail_url": "https://i.ytimg.com/vi/oDx6wffTsM4/hqdefault.jpg",
-      "video_count": 9
-    },
-    {
       "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
       "title": "sebadoh - defend yourself full album",
       "description": "",
@@ -3005,6 +2995,16 @@
       "channel_id": "UC_t7wBoFuU6Vw41QOxei_FQ",
       "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
       "video_count": 20
+    },
+    {
+      "playlist_id": "PLzpHvgk6ivsETdESaT8Xh2qJ3a9Aunlz3",
+      "title": "Dinosaur Jr. - Sweep It Into Space (FULL ALBUM)",
+      "description": "",
+      "published_at": "2021-04-25T19:16:23Z",
+      "channel_title": "IMAGIDYNE",
+      "channel_id": "UCZGtwHlQVmVOmxX7N8gu9lg",
+      "thumbnail_url": "https://i.ytimg.com/vi/QYjKi-_nMe4/hqdefault.jpg",
+      "video_count": 10
     }
   ]
 }
