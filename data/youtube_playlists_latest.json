@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-14 00:04 UTC",
-  "fetched_at_iso": "2026-10-14T00:04:50Z",
+  "fetched_at_utc": "2026-10-14 12:02 UTC",
+  "fetched_at_iso": "2026-10-14T12:02:41Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLFD4Q7bPFHEY",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2026-10-14T02:33:46Z",
+      "channel_title": "Erick",
+      "channel_id": "UCLG_81l0L_b3l5kt_M1n9dg",
+      "thumbnail_url": "https://i.ytimg.com/vi/kme6s0-84KU/hqdefault.jpg",
+      "video_count": 19
+    },
     {
       "playlist_id": "PLLcMk2AaAeyc",
       "title": "Dinosaur Jr 2026 setlist",
@@ -94,7 +104,7 @@
       "channel_title": "Paul",
       "channel_id": "UCtHFghCVd3A0AEqQvRnMBqg",
       "thumbnail_url": "https://i.ytimg.com/vi/5QTcJ6TylSk/hqdefault.jpg",
-      "video_count": 11
+      "video_count": 14
     },
     {
       "playlist_id": "PLDkwBv7b1wts",
@@ -2995,16 +3005,6 @@
       "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
       "thumbnail_url": "https://i.ytimg.com/vi/DoO4ghIkTaQ/hqdefault.jpg",
       "video_count": 11
-    },
-    {
-      "playlist_id": "PLz6fYeROpAx53-YDti17Dhy1tj3rwm0PD",
-      "title": "Dinosaur Jr. - Bluestem Amphitheatre - Moorhead Minnesota - 08-08-2015",
-      "description": "",
-      "published_at": "2021-08-08T21:40:18Z",
-      "channel_title": "FreakSceneNet",
-      "channel_id": "UC1uTU8Qf20g7zzbc9NJyp2A",
-      "thumbnail_url": "https://i.ytimg.com/vi/QNiBb44TLmU/hqdefault.jpg",
-      "video_count": 9
     }
   ]
 }
