@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-14 12:02 UTC",
-  "fetched_at_iso": "2026-10-14T12:02:41Z",
+  "fetched_at_utc": "2026-10-15 00:04 UTC",
+  "fetched_at_iso": "2026-10-15T00:04:35Z",
   "result_count": 300,
   "playlists": [
     {
@@ -25,16 +25,6 @@
       "channel_id": "UCKsZ0vBgx-TxE86iGAWmEbA",
       "thumbnail_url": "https://i.ytimg.com/vi/kme6s0-84KU/hqdefault.jpg",
       "video_count": 17
-    },
-    {
-      "playlist_id": "PLbhT1Itwt6vA",
-      "title": "Honest playlist: J Mascis",
-      "description": "Moved from Spotify with Soundiiz \u2014 Soundiiz.com.",
-      "published_at": "2026-10-12T16:31:20Z",
-      "channel_title": "Holger Wenzel",
-      "channel_id": "UC4LCwhAs5iq-JgsTSqr3qPA",
-      "thumbnail_url": "https://i.ytimg.com/vi/bRLML36HnzU/hqdefault.jpg",
-      "video_count": 10
     },
     {
       "playlist_id": "PLSS9unsd7Z-Q",
@@ -84,7 +74,7 @@
       "channel_title": "Kurt Holland",
       "channel_id": "UCJHZcQ9Cg-BukdCdph3flpw",
       "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
-      "video_count": 25
+      "video_count": null
     },
     {
       "playlist_id": "PLf-YJZ_1IIwE",
@@ -3005,6 +2995,16 @@
       "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
       "thumbnail_url": "https://i.ytimg.com/vi/DoO4ghIkTaQ/hqdefault.jpg",
       "video_count": 11
+    },
+    {
+      "playlist_id": "PLz6fYeROpAx53-YDti17Dhy1tj3rwm0PD",
+      "title": "Dinosaur Jr. - Bluestem Amphitheatre - Moorhead Minnesota - 08-08-2015",
+      "description": "",
+      "published_at": "2021-08-08T21:40:18Z",
+      "channel_title": "FreakSceneNet",
+      "channel_id": "UC1uTU8Qf20g7zzbc9NJyp2A",
+      "thumbnail_url": "https://i.ytimg.com/vi/QNiBb44TLmU/hqdefault.jpg",
+      "video_count": 9
     }
   ]
 }
