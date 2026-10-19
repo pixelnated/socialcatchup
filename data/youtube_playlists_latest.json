@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-18 12:02 UTC",
-  "fetched_at_iso": "2026-10-18T12:02:28Z",
+  "fetched_at_utc": "2026-10-19 00:04 UTC",
+  "fetched_at_iso": "2026-10-19T00:04:48Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLAvy9UNh1nxs",
+      "title": "Dinosaur Jr. 2026 Setlist",
+      "description": "",
+      "published_at": "2026-10-18T22:48:48Z",
+      "channel_title": "Bluecity",
+      "channel_id": "UCvmX9s44IXqjn5qerXikUAw",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
+      "video_count": 26
+    },
     {
       "playlist_id": "PLXijmrkDxq7I",
       "title": "dinosaur jr confusion",
@@ -207,6 +217,16 @@
       "video_count": 21
     },
     {
+      "playlist_id": "PLZC9Jkf-QnQU",
+      "title": "Dinosaur Jr.",
+      "description": "",
+      "published_at": "2026-09-20T15:40:16Z",
+      "channel_title": "Wolv Ov Siberia",
+      "channel_id": "UCdwjaY7Rxp-4lbYs5sZxI9g",
+      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
+      "video_count": 158
+    },
+    {
       "playlist_id": "PLE-lftJTUpZA",
       "title": "DINOSAUR JR",
       "description": "",
@@ -215,16 +235,6 @@
       "channel_id": "UCBQYhMBmKregHg6Bl9QC2lA",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 116
-    },
-    {
-      "playlist_id": "PLMvORD3QMp-U",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-09-19T03:28:58Z",
-      "channel_title": "Felicia Hall",
-      "channel_id": "UCmo7gTYys1pNvnjTK6BRsvQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/dEMpedLZGok/hqdefault.jpg",
-      "video_count": 9
     },
     {
       "playlist_id": "PLBvYfgmNyyMM",
@@ -1037,16 +1047,6 @@
       "video_count": 18
     },
     {
-      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-16T03:04:53Z",
-      "channel_title": "VOICE YOUR OPINION",
-      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
       "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
       "title": "DINOSAUR JR",
       "description": "",
@@ -1074,7 +1074,7 @@
       "channel_title": "Dara Musco",
       "channel_id": "UCrfugiUWYRvbWrQr5nEXHqA",
       "thumbnail_url": "https://i.ytimg.com/vi/MhKzke7W7OQ/hqdefault.jpg",
-      "video_count": 54
+      "video_count": 53
     },
     {
       "playlist_id": "PLDErGz4BqWYdz_vX_TLLb5erRDK1S7aNU",
@@ -1234,7 +1234,7 @@
       "channel_title": "Margaret Stoel",
       "channel_id": "UCFwp5HSX6qAUAX2cQtQZ0OA",
       "thumbnail_url": "https://i.ytimg.com/vi/Byel89vH5v8/hqdefault.jpg",
-      "video_count": 56
+      "video_count": 55
     },
     {
       "playlist_id": "PLbI6U-j37Llfftg91ZQ3s0XqecSPjZIwv",
@@ -2134,7 +2134,7 @@
       "channel_title": "Koopa",
       "channel_id": "UCDw5vcRNul5AkudrBDZ3-eA",
       "thumbnail_url": "https://i.ytimg.com/vi/9WAgITmqLew/hqdefault.jpg",
-      "video_count": 41
+      "video_count": 40
     },
     {
       "playlist_id": "PLagUsq7yKA1ddWyT-MKNCs85n5hJBx3re",
@@ -2264,7 +2264,7 @@
       "channel_title": "Gavin Hennessy",
       "channel_id": "UCQOxIBI8hsCLkijc8VnBFbA",
       "thumbnail_url": "https://i.ytimg.com/vi/vsXMJdv1DTo/hqdefault.jpg",
-      "video_count": 18
+      "video_count": 17
     },
     {
       "playlist_id": "PLyAKq8m-cqf1q5AZY6HAWDYHTPgBlx2Wf",
@@ -2274,7 +2274,7 @@
       "channel_title": "tommy knott",
       "channel_id": "UCv5BW3NUZ4gS7O0vDaTB9MA",
       "thumbnail_url": "https://i.ytimg.com/vi/vsXMJdv1DTo/hqdefault.jpg",
-      "video_count": 18
+      "video_count": 17
     },
     {
       "playlist_id": "PLwbxRPNiZqDsGmwmkH82hIhTnkabJt3Y3",
@@ -2295,6 +2295,16 @@
       "channel_id": "UCsVDnKZLs8nqjy3kt_pbOpg",
       "thumbnail_url": "https://i.ytimg.com/vi/z45yWIXipy8/hqdefault.jpg",
       "video_count": 42
+    },
+    {
+      "playlist_id": "PLeWLE86PXOo0S4sumFXmxXxyJmyV1mgYw",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-03-13T18:03:26Z",
+      "channel_title": "Rodrigo",
+      "channel_id": "UCt5o3knE7z_rRYt3QqB7r-g",
+      "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
+      "video_count": 18
     },
     {
       "playlist_id": "PLdUIPLqJ38Fh-drWSRiQIqLQsqV1j97_t",
@@ -2364,7 +2374,7 @@
       "channel_title": "Rick Scott",
       "channel_id": "UCnVYR2DkmZcRHOg1icLbekQ",
       "thumbnail_url": "https://i.ytimg.com/vi/QGlYsDxCyAo/hqdefault.jpg",
-      "video_count": 9
+      "video_count": 8
     },
     {
       "playlist_id": "PLEpjZ6a3i26czSG_GeY6N3SzHNPZDr9R-",
@@ -2504,7 +2514,7 @@
       "channel_title": "Anderson Oliveira (AndersonFFreestyle)",
       "channel_id": "UC7NWh13qYNoWa9EU_dCyUtg",
       "thumbnail_url": "https://i.ytimg.com/vi/8IRxy_ebBNk/hqdefault.jpg",
-      "video_count": 23
+      "video_count": 22
     },
     {
       "playlist_id": "PL5XM9AY978-YPy7jmzFC8DxBZw5RjHjGr",
@@ -2554,7 +2564,7 @@
       "channel_title": "bigolbug",
       "channel_id": "UClS6v_BXy-vv0e0ZtGAc1uA",
       "thumbnail_url": "https://i.ytimg.com/vi/BlcoOjqV7hk/hqdefault.jpg",
-      "video_count": 13
+      "video_count": 17
     },
     {
       "playlist_id": "PLcJWCo_WRrXiThE42L1fEAv2p8UVKc7zK",
@@ -2574,7 +2584,7 @@
       "channel_title": "RIFF MONSTER",
       "channel_id": "UCfZ66w-MC4vHQCt0sDAYX7A",
       "thumbnail_url": "https://i.ytimg.com/vi/vV2kJ0rSfKU/hqdefault.jpg",
-      "video_count": 20
+      "video_count": 19
     },
     {
       "playlist_id": "PLXqglV28_wm8p8O5vK8dh662vl9riYRcg",
@@ -2604,7 +2614,7 @@
       "channel_title": "BUI",
       "channel_id": "UCJ9IRuu1qVnfqfPP5LSnSyg",
       "thumbnail_url": "https://i.ytimg.com/vi/SFniGEsV3Qs/hqdefault.jpg",
-      "video_count": 72
+      "video_count": 71
     },
     {
       "playlist_id": "PLFxbMM3a7cnWdFAJDUn2LAJ7u_1OA73zH",
@@ -2747,16 +2757,6 @@
       "video_count": 10
     },
     {
-      "playlist_id": "PLXWfv_Q_dWtxf2yeATH-FQxifN6nR9y52",
-      "title": "J Mascis",
-      "description": "",
-      "published_at": "2022-06-06T01:53:59Z",
-      "channel_title": "David Allen",
-      "channel_id": "UCJM_5FccTxbNGQhNjDJTh7A",
-      "thumbnail_url": "https://i.ytimg.com/vi/r64KWte8kwU/hqdefault.jpg",
-      "video_count": null
-    },
-    {
       "playlist_id": "PLz6fYeROpAx5rMTxmgfSCYZDNS871wCz0",
       "title": "Dinosaur Jr. - Primavera Sound 2022 Barcelona",
       "description": "",
@@ -2854,7 +2854,7 @@
       "channel_title": "emii",
       "channel_id": "UCaKiC6fBme0FJlaqz2x9BoQ",
       "thumbnail_url": "https://i.ytimg.com/vi/jeUoLheDiqw/hqdefault.jpg",
-      "video_count": 59
+      "video_count": 58
     },
     {
       "playlist_id": "PL6H4g-gc1PWzQjUOl7Pec70pesUIzVxRj",
@@ -2944,7 +2944,7 @@
       "channel_title": "The Muted Heart + Transitional Faze",
       "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
       "thumbnail_url": "https://i.ytimg.com/vi/DoO4ghIkTaQ/hqdefault.jpg",
-      "video_count": 11
+      "video_count": 10
     },
     {
       "playlist_id": "PLz6fYeROpAx53-YDti17Dhy1tj3rwm0PD",
