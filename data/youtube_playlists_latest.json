@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-19 00:04 UTC",
-  "fetched_at_iso": "2026-10-19T00:04:48Z",
+  "fetched_at_utc": "2026-10-19 12:03 UTC",
+  "fetched_at_iso": "2026-10-19T12:03:12Z",
   "result_count": 300,
   "playlists": [
     {
@@ -1047,6 +1047,16 @@
       "video_count": 18
     },
     {
+      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
+      "title": "Dinosaur jr",
+      "description": "",
+      "published_at": "2026-02-16T03:04:53Z",
+      "channel_title": "VOICE YOUR OPINION",
+      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
+      "video_count": 10
+    },
+    {
       "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
       "title": "DINOSAUR JR",
       "description": "",
@@ -1495,16 +1505,6 @@
       "channel_id": "UCm9S1VrO5ZDR_rrecMOAHMg",
       "thumbnail_url": "https://i.ytimg.com/vi/FTub663Ljz0/hqdefault.jpg",
       "video_count": 13
-    },
-    {
-      "playlist_id": "PLBEzm76YUYg5lMXPreGaFErUZztiWrY3m",
-      "title": "Sebadoh - The Sebadoh (Full Album)",
-      "description": "The full album for The Sebadoh / Music by Sebadoh playlist Sebadoh - The Sebadoh / Sebadoh Full Album The Sebadoh tracklist ...",
-      "published_at": "2025-08-04T22:07:57Z",
-      "channel_title": "vaughtjulie",
-      "channel_id": "UCh3t0bVjYlcXLbEbpov_zIA",
-      "thumbnail_url": "https://i.ytimg.com/vi/kvB7VRCYTI8/hqdefault.jpg",
-      "video_count": 17
     },
     {
       "playlist_id": "PLEWB9KEmx2XzHsBuIhX_PeQKkeylI-PJJ",
@@ -2997,13 +2997,13 @@
       "video_count": 14
     },
     {
-      "playlist_id": "PLu16OJOOzsq2MLdjRzvCKEyRVvfIZ7WrI",
-      "title": "Dinosaur jr",
+      "playlist_id": "PLiopyQiK-cUJrBf5Xf7-Trtzd8Ea72UEQ",
+      "title": "dinosaur jr",
       "description": "",
-      "published_at": "2021-06-19T23:29:00Z",
-      "channel_title": "tetilatus",
-      "channel_id": "UC3Wu6n2AaC0gMfObyTNgZ5g",
-      "thumbnail_url": "https://i.ytimg.com/vi/FnvbVJ7MftE/hqdefault.jpg",
+      "published_at": "2021-04-05T16:55:06Z",
+      "channel_title": "Dan Coulter",
+      "channel_id": "UCimZdhYQZBwWnk6-FTdD_nw",
+      "thumbnail_url": "https://i.ytimg.com/vi/TgTJtdn6VjM/hqdefault.jpg",
       "video_count": 8
     }
   ]
