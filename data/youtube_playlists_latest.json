@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-20 00:04 UTC",
-  "fetched_at_iso": "2026-10-20T00:04:33Z",
+  "fetched_at_utc": "2026-10-20 12:02 UTC",
+  "fetched_at_iso": "2026-10-20T12:02:37Z",
   "result_count": 300,
   "playlists": [
     {
@@ -34,7 +34,7 @@
       "channel_title": "Erick",
       "channel_id": "UCLG_81l0L_b3l5kt_M1n9dg",
       "thumbnail_url": "https://i.ytimg.com/vi/kme6s0-84KU/hqdefault.jpg",
-      "video_count": 19
+      "video_count": 22
     },
     {
       "playlist_id": "PLLcMk2AaAeyc",
@@ -94,7 +94,7 @@
       "channel_title": "Necro69",
       "channel_id": "UCZ2EStm9LYEeWbcKkDfFh8Q",
       "thumbnail_url": "https://i.ytimg.com/vi/8kDyUBeLU-4/hqdefault.jpg",
-      "video_count": 6
+      "video_count": 7
     },
     {
       "playlist_id": "PLSS9unsd7Z-Q",
@@ -697,6 +697,16 @@
       "video_count": 50
     },
     {
+      "playlist_id": "PL-UfIOU7hzBxMNb3iL4uteXM__yNOfm3b",
+      "title": "Dinosaur Jr.  2011-06-26: Variety Playhouse, Athens, GA, USA | FULL ALBUM",
+      "description": "",
+      "published_at": "2026-05-31T15:17:15Z",
+      "channel_title": "Herman Gault",
+      "channel_id": "UCRa5uM2sQtVDd6vOYWqTiAQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/XL218-kU8LQ/hqdefault.jpg",
+      "video_count": 50
+    },
+    {
       "playlist_id": "PL6AKXmliPZe01fBnhmD6IQiA6WYwAZU_u",
       "title": "Dinosaur Jr. - 2011-06-26: Variety Playhouse, Athens, GA, USA (Full Album)",
       "description": "",
@@ -1257,16 +1267,6 @@
       "video_count": 38
     },
     {
-      "playlist_id": "PLOLfoYCf1X9qo5GwptMM07QG_Z15R77Ov",
-      "title": "Dinosaur jr videos",
-      "description": "",
-      "published_at": "2025-11-02T12:17:39Z",
-      "channel_title": "cleft turnip",
-      "channel_id": "UChTI6EB6HCLyx5dcgxDczoA",
-      "thumbnail_url": "https://i.ytimg.com/vi/v5yxVuNDLmo/hqdefault.jpg",
-      "video_count": 21
-    },
-    {
       "playlist_id": "PLspB-HcEyxUBfbpO-SygGiN5v0L59xPqs",
       "title": "Dinosaur Jr.",
       "description": "Albums.",
@@ -1505,16 +1505,6 @@
       "channel_id": "UCm9S1VrO5ZDR_rrecMOAHMg",
       "thumbnail_url": "https://i.ytimg.com/vi/FTub663Ljz0/hqdefault.jpg",
       "video_count": 13
-    },
-    {
-      "playlist_id": "PLBEzm76YUYg5lMXPreGaFErUZztiWrY3m",
-      "title": "Sebadoh - The Sebadoh (Full Album)",
-      "description": "The full album for The Sebadoh / Music by Sebadoh playlist Sebadoh - The Sebadoh / Sebadoh Full Album The Sebadoh tracklist ...",
-      "published_at": "2025-08-04T22:07:57Z",
-      "channel_title": "vaughtjulie",
-      "channel_id": "UCh3t0bVjYlcXLbEbpov_zIA",
-      "thumbnail_url": "https://i.ytimg.com/vi/kvB7VRCYTI8/hqdefault.jpg",
-      "video_count": 17
     },
     {
       "playlist_id": "PLEWB9KEmx2XzHsBuIhX_PeQKkeylI-PJJ",
@@ -2457,6 +2447,16 @@
       "video_count": 58
     },
     {
+      "playlist_id": "PLNPGM2D7aODeA1iojU7-eM0CcHpHJfgGv",
+      "title": "Sebadoh - Bubble &amp; Scrape (Full Album)",
+      "description": "",
+      "published_at": "2023-09-30T05:54:55Z",
+      "channel_title": "Vaeltaja",
+      "channel_id": "UCHveGPtyK87S7jj2vvg65_w",
+      "thumbnail_url": "https://i.ytimg.com/vi/427cKssMigM/hqdefault.jpg",
+      "video_count": 17
+    },
+    {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
       "title": "J.Mascis/Dinosaur Jr.",
       "description": "",
@@ -2565,16 +2565,6 @@
       "channel_id": "UC1uTU8Qf20g7zzbc9NJyp2A",
       "thumbnail_url": "https://i.ytimg.com/vi/mfaAdDOh8kE/hqdefault.jpg",
       "video_count": 12
-    },
-    {
-      "playlist_id": "PL0AnIb2v_cdY9ZvDlq22V2TE1dD7M5B7V",
-      "title": "Dinosaur Jr live",
-      "description": "",
-      "published_at": "2023-05-07T21:41:24Z",
-      "channel_title": "bigolbug",
-      "channel_id": "UClS6v_BXy-vv0e0ZtGAc1uA",
-      "thumbnail_url": "https://i.ytimg.com/vi/BlcoOjqV7hk/hqdefault.jpg",
-      "video_count": 17
     },
     {
       "playlist_id": "PLcJWCo_WRrXiThE42L1fEAv2p8UVKc7zK",
@@ -2695,6 +2685,16 @@
       "channel_id": "UCGqecGbvwCdNg8UZmcwwujw",
       "thumbnail_url": "https://i.ytimg.com/vi/fXzcDm1878A/hqdefault.jpg",
       "video_count": 7
+    },
+    {
+      "playlist_id": "PLr80IPQ7f5lMdzI7mrz9em5gUKU6g55d6",
+      "title": "J mascis and the fog + j mascis",
+      "description": "",
+      "published_at": "2022-10-26T11:06:32Z",
+      "channel_title": "Daniel Morales",
+      "channel_id": "UCFmzpw508BW9i3LLYF8zXsg",
+      "thumbnail_url": "https://i.ytimg.com/vi/wOyquBokaSM/hqdefault.jpg",
+      "video_count": 40
     },
     {
       "playlist_id": "PLSIAm3L2zObPRv71XwKCxQLY5GiyglsYS",
@@ -2847,6 +2847,16 @@
       "video_count": 11
     },
     {
+      "playlist_id": "PLBc_y1GiStropGbVUGn8JmSzEd29RQ_96",
+      "title": "J. Mascis",
+      "description": "",
+      "published_at": "2022-03-02T07:19:12Z",
+      "channel_title": "Nahna Domfeh",
+      "channel_id": "UC4I9RPICpBp5bhUoaJWw6iw",
+      "thumbnail_url": "https://i.ytimg.com/vi/3N9yhRlNaUw/hqdefault.jpg",
+      "video_count": 12
+    },
+    {
       "playlist_id": "PLvCjibRNAFjniIAVlMY2O25uQMFBU3j_d",
       "title": "Dinosaur Jr",
       "description": "Dinosaur Jr.",
@@ -2917,6 +2927,16 @@
       "video_count": 12
     },
     {
+      "playlist_id": "PLDZmtI4GBWqyEAjQQzJIYB_Z7pQkm47FX",
+      "title": "Dinosaur Jr. - You\u2019re Living All Over Me (1987)",
+      "description": "",
+      "published_at": "2021-09-23T19:58:07Z",
+      "channel_title": "georgeharrison70",
+      "channel_id": "UCmT8kuqvhFbN4ccN0Wr5j0g",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
+      "video_count": 9
+    },
+    {
       "playlist_id": "PLNFEuWs1lFjC5TsRZCF3pb85EdaY84Llf",
       "title": "Dinosaur jr bitch",
       "description": "",
@@ -2985,26 +3005,6 @@
       "channel_id": "UCZwjn8NfOuY-QLtGTsg1htQ",
       "thumbnail_url": "https://i.ytimg.com/vi/I5Y3-kgUwwM/hqdefault.jpg",
       "video_count": 6
-    },
-    {
-      "playlist_id": "PLoT1uKJu-6a8MmWdMh-5liBBkevabclLA",
-      "title": "J Mascis",
-      "description": "",
-      "published_at": "2021-07-18T05:29:27Z",
-      "channel_title": "Do\u00f1a Florinda",
-      "channel_id": "UCT__JnVUrXJI84wo8np3WNQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/2xJU7JfTAC4/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
-      "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
-      "title": "sebadoh - defend yourself full album",
-      "description": "",
-      "published_at": "2021-06-29T19:08:14Z",
-      "channel_title": "happy go lucky",
-      "channel_id": "UCoVgbzIOWwLb982v3by0s1g",
-      "thumbnail_url": "https://i.ytimg.com/vi/-An-D5COpsw/hqdefault.jpg",
-      "video_count": 14
     }
   ]
 }
