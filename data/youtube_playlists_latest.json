@@ -2,10 +2,20 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-20 12:02 UTC",
-  "fetched_at_iso": "2026-10-20T12:02:37Z",
+  "fetched_at_utc": "2026-10-21 00:04 UTC",
+  "fetched_at_iso": "2026-10-21T00:04:44Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLL2FNyO6no48",
+      "title": "Dinosaur jr @The Bellwether 10/16/26",
+      "description": "",
+      "published_at": "2026-10-19T21:14:27Z",
+      "channel_title": "Mihalis.",
+      "channel_id": "UC6YCcbqVDrAV_9Y6XDYkF4A",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
+      "video_count": 17
+    },
     {
       "playlist_id": "PLAvy9UNh1nxs",
       "title": "Dinosaur Jr. 2026 Setlist",
@@ -64,7 +74,7 @@
       "channel_title": "Jive Turkey (Jive Turkey)",
       "channel_id": "UC2SFGtVuODOa_319eeTqWZQ",
       "thumbnail_url": "https://i.ytimg.com/vi/kme6s0-84KU/hqdefault.jpg",
-      "video_count": 17
+      "video_count": null
     },
     {
       "playlist_id": "PLdYZiUgE7siY",
@@ -514,7 +524,7 @@
       "channel_title": "Adrian Adrian",
       "channel_id": "UCxRFnB-dFCiiewemr4tQEIg",
       "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 45
+      "video_count": 46
     },
     {
       "playlist_id": "PLVjxwOmXlKaA",
@@ -1507,6 +1517,16 @@
       "video_count": 13
     },
     {
+      "playlist_id": "PLBEzm76YUYg5lMXPreGaFErUZztiWrY3m",
+      "title": "Sebadoh - The Sebadoh (Full Album)",
+      "description": "The full album for The Sebadoh / Music by Sebadoh playlist Sebadoh - The Sebadoh / Sebadoh Full Album The Sebadoh tracklist ...",
+      "published_at": "2025-08-04T22:07:57Z",
+      "channel_title": "vaughtjulie",
+      "channel_id": "UCh3t0bVjYlcXLbEbpov_zIA",
+      "thumbnail_url": "https://i.ytimg.com/vi/kvB7VRCYTI8/hqdefault.jpg",
+      "video_count": 17
+    },
+    {
       "playlist_id": "PLEWB9KEmx2XzHsBuIhX_PeQKkeylI-PJJ",
       "title": "Mix - Dinosaur Jr.",
       "description": "Music by Dinosaur Jr. / Dinosaur Jr. tracklist: Just Like Heaven Freak Scene The Lung Little Fury Things In a Jar Crumble Almost ...",
@@ -1987,16 +2007,6 @@
       "video_count": 150
     },
     {
-      "playlist_id": "PLKO-wc_gNHERYoNhtKm2vKkQZjUthjNDs",
-      "title": "dinosaur jr/jmascis tracks",
-      "description": "",
-      "published_at": "2024-12-08T21:09:50Z",
-      "channel_title": "rsh-a LAFLEUU",
-      "channel_id": "UCGAoVhV8HUXGIzmPzPEPK3g",
-      "thumbnail_url": "https://i.ytimg.com/vi/ybExfDHg1i0/hqdefault.jpg",
-      "video_count": 11
-    },
-    {
       "playlist_id": "PLulPgNwpTphRuNLZVj8qbT5uClL-EcU8m",
       "title": "1987.12.14 - Dinosaur Jr. - You&#39;re Living All Over Me",
       "description": "G\u00eaneros: Rock Alternativo, Indie Rock, Noise Rock, Grunge. Dinosaur Jr. \u00e9 uma banda de rock americana formada em Amherst, ...",
@@ -2124,6 +2134,16 @@
       "channel_title": "Bryan's Songs",
       "channel_id": "UCJFxhYfsJRNoWCUydrTdLnA",
       "thumbnail_url": "https://i.ytimg.com/vi/MwmkErJ35O4/hqdefault.jpg",
+      "video_count": 14
+    },
+    {
+      "playlist_id": "PLVOGnIbP7ODTl6kk5n4xoYeSBqVq9rtaI",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-07-10T20:36:40Z",
+      "channel_title": "Jeff Bush",
+      "channel_id": "UCdCQxJLW7NEHzNiHH5aDBCQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
       "video_count": 14
     },
     {
@@ -2485,16 +2505,6 @@
       "channel_id": "UCkKBKCxusFwFz7w-1a8EW2A",
       "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
       "video_count": 47
-    },
-    {
-      "playlist_id": "PLmmib4WRu4-15rtlErMHv1340TKV4h_bf",
-      "title": "Dinosaur Jr. Karaoke",
-      "description": "Karaoke playlist for Dinosaur Jr..",
-      "published_at": "2023-07-22T14:30:53Z",
-      "channel_title": "Karaoke Nerds",
-      "channel_id": "UCBfV298JqKc8o9CM0aANz5A",
-      "thumbnail_url": "https://i.ytimg.com/vi/ApCACO1b3oY/hqdefault.jpg",
-      "video_count": 55
     },
     {
       "playlist_id": "PLU0C2mXX_kBSLuhklEZmFI8iosAPRcmg2",
@@ -2925,16 +2935,6 @@
       "channel_id": "UCvYmUGAWgZGobN8TbJ2aZag",
       "thumbnail_url": "https://i.ytimg.com/vi/QjK8TPjlylw/hqdefault.jpg",
       "video_count": 12
-    },
-    {
-      "playlist_id": "PLDZmtI4GBWqyEAjQQzJIYB_Z7pQkm47FX",
-      "title": "Dinosaur Jr. - You\u2019re Living All Over Me (1987)",
-      "description": "",
-      "published_at": "2021-09-23T19:58:07Z",
-      "channel_title": "georgeharrison70",
-      "channel_id": "UCmT8kuqvhFbN4ccN0Wr5j0g",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 9
     },
     {
       "playlist_id": "PLNFEuWs1lFjC5TsRZCF3pb85EdaY84Llf",
