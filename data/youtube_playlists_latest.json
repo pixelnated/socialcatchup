@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-22 00:04 UTC",
-  "fetched_at_iso": "2026-10-22T00:04:00Z",
+  "fetched_at_utc": "2026-10-22 12:02 UTC",
+  "fetched_at_iso": "2026-10-22T12:02:30Z",
   "result_count": 300,
   "playlists": [
     {
@@ -17,6 +17,16 @@
       "video_count": 12
     },
     {
+      "playlist_id": "PLYKPqgJBZ1Fc",
+      "title": "Dinosaur Jr/Stef Chura Concert @Ace of Spades Sacramento CA 102026",
+      "description": "",
+      "published_at": "2026-10-21T14:48:04Z",
+      "channel_title": "Jive Turkey (Jive Turkey)",
+      "channel_id": "UC2SFGtVuODOa_319eeTqWZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/den9L25wtBk/hqdefault.jpg",
+      "video_count": 9
+    },
+    {
       "playlist_id": "PLG6vVqIjulLg",
       "title": "j. mascis",
       "description": "",
@@ -25,6 +35,16 @@
       "channel_id": "UC4_vB9cQfdasPt-Q9zdE_QQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 10
+    },
+    {
+      "playlist_id": "PLQIK39RWuRQ8",
+      "title": "dinosaur jr 2026 final playlist",
+      "description": "",
+      "published_at": "2026-10-20T21:52:32Z",
+      "channel_title": "Jive Turkey (Jive Turkey)",
+      "channel_id": "UC2SFGtVuODOa_319eeTqWZQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Es8elGpszxI/hqdefault.jpg",
+      "video_count": 17
     },
     {
       "playlist_id": "PLL2FNyO6no48",
@@ -114,7 +134,7 @@
       "channel_title": "Necro69",
       "channel_id": "UCZ2EStm9LYEeWbcKkDfFh8Q",
       "thumbnail_url": "https://i.ytimg.com/vi/8kDyUBeLU-4/hqdefault.jpg",
-      "video_count": 8
+      "video_count": 9
     },
     {
       "playlist_id": "PLSS9unsd7Z-Q",
@@ -987,26 +1007,6 @@
       "video_count": 54
     },
     {
-      "playlist_id": "PL-l-7H7HyyMs6bm6TcpM8G0Y-B-EjUHYP",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-03-13T06:54:43Z",
-      "channel_title": "JB",
-      "channel_id": "UCoYCrIs7MXhK_LtVYSur_2A",
-      "thumbnail_url": "https://i.ytimg.com/vi/4QkX3wea8eY/hqdefault.jpg",
-      "video_count": 257
-    },
-    {
-      "playlist_id": "PL_QF8Xymdapy7YNo9b_W8I1OD1XpW661n",
-      "title": "Dinosaur Jr. - Pieces (Single)",
-      "description": "",
-      "published_at": "2026-03-10T00:35:39Z",
-      "channel_title": "Lawana Iurato",
-      "channel_id": "UC1fGfUNKSWjYJZOKpa5jApQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/T7ys-jH5kvc/hqdefault.jpg",
-      "video_count": 54
-    },
-    {
       "playlist_id": "PL3DrYXmomx7utD5TX1oqeRfIupxS57oKL",
       "title": "Dinosaur Jr. - Ear Bleeding Country: The Best of Dinosaur Jr. (Full Album)",
       "description": "",
@@ -1075,16 +1075,6 @@
       "channel_id": "UCzsCVbT7cIrpKgkMKZFa3Ag",
       "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
       "video_count": 18
-    },
-    {
-      "playlist_id": "PLA_YPyssJ7LgG7I695yHdEIdObo0x0Ezc",
-      "title": "Dinosaur jr",
-      "description": "",
-      "published_at": "2026-02-16T03:04:53Z",
-      "channel_title": "VOICE YOUR OPINION",
-      "channel_id": "UCDdfTTt9RQHFhGYQArCjbBw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
     },
     {
       "playlist_id": "PLoH02_S_YeBmWpp_aj6TsfRStWkHq_4EO",
@@ -1997,6 +1987,26 @@
       "video_count": 150
     },
     {
+      "playlist_id": "PLKO-wc_gNHERYoNhtKm2vKkQZjUthjNDs",
+      "title": "dinosaur jr/jmascis tracks",
+      "description": "",
+      "published_at": "2024-12-08T21:09:50Z",
+      "channel_title": "rsh-a LAFLEUU",
+      "channel_id": "UCGAoVhV8HUXGIzmPzPEPK3g",
+      "thumbnail_url": "https://i.ytimg.com/vi/ybExfDHg1i0/hqdefault.jpg",
+      "video_count": 11
+    },
+    {
+      "playlist_id": "PLulPgNwpTphRuNLZVj8qbT5uClL-EcU8m",
+      "title": "1987.12.14 - Dinosaur Jr. - You&#39;re Living All Over Me",
+      "description": "G\u00eaneros: Rock Alternativo, Indie Rock, Noise Rock, Grunge. Dinosaur Jr. \u00e9 uma banda de rock americana formada em Amherst, ...",
+      "published_at": "2024-11-29T00:22:23Z",
+      "channel_title": "Kaylan Reis",
+      "channel_id": "UCRBf2Nza9J5LC8zMAqkBEyA",
+      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
+      "video_count": 10
+    },
+    {
       "playlist_id": "PLfrs5Ck5Ayi_RWEHufUpqQrhrffMORC15",
       "title": "J Mascis at Racket, New York, NY, USA - ((LIVE 2024)) - ((LIVE)) 11/22/2024",
       "description": "J Mascis at Racket, New York, NY, USA 11/22/2024 Watch Live Game On ...",
@@ -2294,7 +2304,7 @@
       "channel_title": "Lou Barlow",
       "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
       "thumbnail_url": "https://i.ytimg.com/vi/18jdTfxWnv0/hqdefault.jpg",
-      "video_count": 155
+      "video_count": 156
     },
     {
       "playlist_id": "PLW5upGhTSBiqcqGjKLKdTCjzIe-lS_wQk",
@@ -2995,16 +3005,6 @@
       "channel_id": "UC3Wu6n2AaC0gMfObyTNgZ5g",
       "thumbnail_url": "https://i.ytimg.com/vi/FnvbVJ7MftE/hqdefault.jpg",
       "video_count": 8
-    },
-    {
-      "playlist_id": "PLzpHvgk6ivsETdESaT8Xh2qJ3a9Aunlz3",
-      "title": "Dinosaur Jr. - Sweep It Into Space (FULL ALBUM)",
-      "description": "",
-      "published_at": "2021-04-25T19:16:23Z",
-      "channel_title": "IMAGIDYNE",
-      "channel_id": "UCZGtwHlQVmVOmxX7N8gu9lg",
-      "thumbnail_url": "https://i.ytimg.com/vi/QYjKi-_nMe4/hqdefault.jpg",
-      "video_count": 10
     }
   ]
 }
