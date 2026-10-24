@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-24 00:04 UTC",
-  "fetched_at_iso": "2026-10-24T00:04:05Z",
+  "fetched_at_utc": "2026-10-24 12:02 UTC",
+  "fetched_at_iso": "2026-10-24T12:02:11Z",
   "result_count": 300,
   "playlists": [
     {
@@ -14,7 +14,7 @@
       "channel_title": "Justin Metiguee",
       "channel_id": "UCR_IROXV1gIYZ7cjelrjd2Q",
       "thumbnail_url": "https://i.ytimg.com/vi/RQHdQqJKmbI/hqdefault.jpg",
-      "video_count": 29
+      "video_count": 37
     },
     {
       "playlist_id": "PLYKPqgJBZ1Fc",
@@ -44,7 +44,7 @@
       "channel_title": "L B",
       "channel_id": "UCMnSyyC9hbGL6uSOuCxE2Fg",
       "thumbnail_url": "https://i.ytimg.com/vi/AUVDUBC57jU/hqdefault.jpg",
-      "video_count": 11
+      "video_count": 12
     },
     {
       "playlist_id": "PLQIK39RWuRQ8",
@@ -195,6 +195,16 @@
       "channel_id": "UCknUib0FIy7XbG8iHjscBBw",
       "thumbnail_url": "https://i.ytimg.com/vi/5QTcJ6TylSk/hqdefault.jpg",
       "video_count": 22
+    },
+    {
+      "playlist_id": "PLE9BRpQHHLPY",
+      "title": "DINOSAUR JR",
+      "description": "",
+      "published_at": "2026-10-08T06:21:38Z",
+      "channel_title": "Daniel G\u00f3mez D\u00edaz",
+      "channel_id": "UCkDDKo3aOzqvtWGa7goFRJA",
+      "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
+      "video_count": 10
     },
     {
       "playlist_id": "PLFGy6_Q0zZ5Q",
@@ -2137,16 +2147,6 @@
       "video_count": 14
     },
     {
-      "playlist_id": "PLitKtRQYOI1i2ZYl3x9KeQTrsbP3VyZRM",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2024-07-04T23:05:28Z",
-      "channel_title": "Koopa",
-      "channel_id": "UCDw5vcRNul5AkudrBDZ3-eA",
-      "thumbnail_url": "https://i.ytimg.com/vi/9WAgITmqLew/hqdefault.jpg",
-      "video_count": 40
-    },
-    {
       "playlist_id": "PLagUsq7yKA1ddWyT-MKNCs85n5hJBx3re",
       "title": "Dinosaur Jr",
       "description": "",
@@ -2447,14 +2447,14 @@
       "video_count": 58
     },
     {
-      "playlist_id": "PLNPGM2D7aODeA1iojU7-eM0CcHpHJfgGv",
-      "title": "Sebadoh - Bubble &amp; Scrape (Full Album)",
+      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
+      "title": "Dinosaur Jr &amp; Related",
       "description": "",
-      "published_at": "2023-09-30T05:54:55Z",
-      "channel_title": "Vaeltaja",
-      "channel_id": "UCHveGPtyK87S7jj2vvg65_w",
-      "thumbnail_url": "https://i.ytimg.com/vi/427cKssMigM/hqdefault.jpg",
-      "video_count": 17
+      "published_at": "2023-10-12T10:28:55Z",
+      "channel_title": "Scott McAvoy",
+      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
+      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
+      "video_count": 8
     },
     {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
