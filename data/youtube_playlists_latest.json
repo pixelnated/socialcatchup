@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-23 12:02 UTC",
-  "fetched_at_iso": "2026-10-23T12:02:47Z",
+  "fetched_at_utc": "2026-10-24 00:04 UTC",
+  "fetched_at_iso": "2026-10-24T00:04:05Z",
   "result_count": 300,
   "playlists": [
     {
@@ -24,7 +24,7 @@
       "channel_title": "Jive Turkey (Jive Turkey)",
       "channel_id": "UC2SFGtVuODOa_319eeTqWZQ",
       "thumbnail_url": "https://i.ytimg.com/vi/den9L25wtBk/hqdefault.jpg",
-      "video_count": 9
+      "video_count": 11
     },
     {
       "playlist_id": "PLG6vVqIjulLg",
@@ -2137,6 +2137,16 @@
       "video_count": 14
     },
     {
+      "playlist_id": "PLitKtRQYOI1i2ZYl3x9KeQTrsbP3VyZRM",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-07-04T23:05:28Z",
+      "channel_title": "Koopa",
+      "channel_id": "UCDw5vcRNul5AkudrBDZ3-eA",
+      "thumbnail_url": "https://i.ytimg.com/vi/9WAgITmqLew/hqdefault.jpg",
+      "video_count": 40
+    },
+    {
       "playlist_id": "PLagUsq7yKA1ddWyT-MKNCs85n5hJBx3re",
       "title": "Dinosaur Jr",
       "description": "",
@@ -2435,16 +2445,6 @@
       "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 58
-    },
-    {
-      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
-      "title": "Dinosaur Jr &amp; Related",
-      "description": "",
-      "published_at": "2023-10-12T10:28:55Z",
-      "channel_title": "Scott McAvoy",
-      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
-      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
-      "video_count": 8
     },
     {
       "playlist_id": "PLNPGM2D7aODeA1iojU7-eM0CcHpHJfgGv",
