@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-25 00:05 UTC",
-  "fetched_at_iso": "2026-10-25T00:05:08Z",
+  "fetched_at_utc": "2026-10-25 12:02 UTC",
+  "fetched_at_iso": "2026-10-25T12:02:30Z",
   "result_count": 300,
   "playlists": [
     {
@@ -1997,16 +1997,6 @@
       "video_count": 13
     },
     {
-      "playlist_id": "PLQ_pRrkd1b4rvrAdx52eCQeUE9MR0G4Rx",
-      "title": "Sebadoh - The Freed Man (Homestead Version) (Tape Rip)",
-      "description": "",
-      "published_at": "2024-12-26T18:56:11Z",
-      "channel_title": "freyascorner",
-      "channel_id": "UCB-M1r089JniaizVpr5wlUg",
-      "thumbnail_url": "https://i.ytimg.com/vi/7fuptni8MJY/hqdefault.jpg",
-      "video_count": 32
-    },
-    {
       "playlist_id": "PL9KEmx5LhvtgjZGeBgmj6cd7KCSHDN6qo",
       "title": "dinosaur jr                                                      comp\u00f5:||:comp\u00ec",
       "description": "DINOSAUR JR COMP\u00d5:||:COMP\u00cc.",
@@ -2457,6 +2447,16 @@
       "video_count": 58
     },
     {
+      "playlist_id": "PLoQV5Pwiopadcbto9wEuLYMn6Sk-jlVXi",
+      "title": "Dinosaur Jr &amp; Related",
+      "description": "",
+      "published_at": "2023-10-12T10:28:55Z",
+      "channel_title": "Scott McAvoy",
+      "channel_id": "UCFJyEQea5Se3DYULUpu1fSw",
+      "thumbnail_url": "https://i.ytimg.com/vi/ubSZKWXyu04/hqdefault.jpg",
+      "video_count": 8
+    },
+    {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
       "title": "J.Mascis/Dinosaur Jr.",
       "description": "",
@@ -2495,16 +2495,6 @@
       "channel_id": "UCBfV298JqKc8o9CM0aANz5A",
       "thumbnail_url": "https://i.ytimg.com/vi/ApCACO1b3oY/hqdefault.jpg",
       "video_count": 55
-    },
-    {
-      "playlist_id": "PLU0C2mXX_kBSLuhklEZmFI8iosAPRcmg2",
-      "title": "Dinosaur Jr. - Dinosaur (1985)",
-      "description": "",
-      "published_at": "2023-07-11T07:07:10Z",
-      "channel_title": "Mozart D. L.",
-      "channel_id": "UCMzsiF0r0F1OPShCHmn_pCg",
-      "thumbnail_url": "https://i.ytimg.com/vi/drVJzWIhtWs/hqdefault.jpg",
-      "video_count": 11
     },
     {
       "playlist_id": "PLLiYDEzO13UGf4AwomIp0yXPnfQ_i4Jfp",
@@ -3005,6 +2995,16 @@
       "channel_id": "UC3Wu6n2AaC0gMfObyTNgZ5g",
       "thumbnail_url": "https://i.ytimg.com/vi/FnvbVJ7MftE/hqdefault.jpg",
       "video_count": 8
+    },
+    {
+      "playlist_id": "PLzpHvgk6ivsETdESaT8Xh2qJ3a9Aunlz3",
+      "title": "Dinosaur Jr. - Sweep It Into Space (FULL ALBUM)",
+      "description": "",
+      "published_at": "2021-04-25T19:16:23Z",
+      "channel_title": "IMAGIDYNE",
+      "channel_id": "UCZGtwHlQVmVOmxX7N8gu9lg",
+      "thumbnail_url": "https://i.ytimg.com/vi/QYjKi-_nMe4/hqdefault.jpg",
+      "video_count": 10
     }
   ]
 }
