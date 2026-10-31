@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-10-31 00:03 UTC",
-  "fetched_at_iso": "2026-10-31T00:03:24Z",
+  "fetched_at_utc": "2026-10-31 12:01 UTC",
+  "fetched_at_iso": "2026-10-31T12:01:46Z",
   "result_count": 300,
   "playlists": [
     {
@@ -114,7 +114,7 @@
       "channel_title": "ari vestite",
       "channel_id": "UCyIyAtTQ_5-v_ql4L-YeHtQ",
       "thumbnail_url": "https://i.ytimg.com/vi/RyprXcVUK-c/hqdefault.jpg",
-      "video_count": 26
+      "video_count": 24
     },
     {
       "playlist_id": "PLL2FNyO6no48",
@@ -317,16 +317,6 @@
       "video_count": 94
     },
     {
-      "playlist_id": "PLMh3LxY3rIXA",
-      "title": "Dinosaur Jr.",
-      "description": "",
-      "published_at": "2026-09-30T19:13:28Z",
-      "channel_title": "Gusta Erhart",
-      "channel_id": "UCbIMbLtyul5PGRz-qXs7q3w",
-      "thumbnail_url": "https://i.ytimg.com/vi/Oa23-N7iR9I/hqdefault.jpg",
-      "video_count": 143
-    },
-    {
       "playlist_id": "PLci5o7bvSVQ0",
       "title": "Dinosaur Jr",
       "description": "",
@@ -505,6 +495,16 @@
       "channel_id": "UCaNjR6aulyXKAXEHojKuJXA",
       "thumbnail_url": "https://i.ytimg.com/vi/cHENmlS2ASA/hqdefault.jpg",
       "video_count": 33
+    },
+    {
+      "playlist_id": "PLExFStrRL-60",
+      "title": "dinosaur jr 120 minutes",
+      "description": "",
+      "published_at": "2026-08-18T08:17:06Z",
+      "channel_title": "DillonColtMusic",
+      "channel_id": "UC9t4y4I9IOsfVH0LNrjCDgg",
+      "thumbnail_url": "https://i.ytimg.com/vi/FGDtxuvfWKA/hqdefault.jpg",
+      "video_count": 6
     },
     {
       "playlist_id": "PLAgM6GQtNjEw",
@@ -2007,6 +2007,16 @@
       "video_count": 27
     },
     {
+      "playlist_id": "PLCg7Bwpqz2zLigjOx8roYzuLgvVHweBTG",
+      "title": "Lou Barlow (Dinosaur Jr tracks)",
+      "description": "",
+      "published_at": "2025-01-23T21:34:21Z",
+      "channel_title": "Otto Regulation",
+      "channel_id": "UC_lJV8OyViCUEQyR7UOLnXg",
+      "thumbnail_url": "https://i.ytimg.com/vi/SMnRptVDPGk/hqdefault.jpg",
+      "video_count": 15
+    },
+    {
       "playlist_id": "PLetTZQ55dOMhX_wPuYijNT1uejVNvRTCu",
       "title": "Dinosaur Jr. - Farm - In The Studio (Pitchfork) and more",
       "description": "Credits go to Pitchfork, 95bFM, KEXP, Reverb, vbs, Premier Guitar, Pickathon, NPR Music Contents: Dinosaur Jr. - Farm - In The ...",
@@ -2497,6 +2507,16 @@
       "video_count": 55
     },
     {
+      "playlist_id": "PLnE6zQinjtyYefPPMVfVQnoYGtnatHTKu",
+      "title": "j mascis",
+      "description": "",
+      "published_at": "2023-10-26T19:54:30Z",
+      "channel_title": "Domenick M",
+      "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
+      "video_count": 58
+    },
+    {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
       "title": "J.Mascis/Dinosaur Jr.",
       "description": "",
@@ -2597,16 +2617,6 @@
       "video_count": 8
     },
     {
-      "playlist_id": "PL97hDb6r7--klAOKxUzOL6WxJWrScqPSd",
-      "title": "Dinosaur Jr.",
-      "description": "",
-      "published_at": "2023-04-29T14:05:20Z",
-      "channel_title": "RIFF MONSTER",
-      "channel_id": "UCfZ66w-MC4vHQCt0sDAYX7A",
-      "thumbnail_url": "https://i.ytimg.com/vi/vV2kJ0rSfKU/hqdefault.jpg",
-      "video_count": 19
-    },
-    {
       "playlist_id": "PLXqglV28_wm8p8O5vK8dh662vl9riYRcg",
       "title": "BMB-RTM Bands SONGS Dinosaur Jr.",
       "description": "",
@@ -2675,16 +2685,6 @@
       "channel_id": "UCU9irpYxHSPMf2B6eY5a6dA",
       "thumbnail_url": "https://i.ytimg.com/vi/Z_-JapMQUPQ/hqdefault.jpg",
       "video_count": 10
-    },
-    {
-      "playlist_id": "PLOJS0PDGJsl3mm2N5B8Sdfz7AIU7fcMdS",
-      "title": "Dinosaur Jr.",
-      "description": "",
-      "published_at": "2023-01-05T06:58:34Z",
-      "channel_title": "Harmony Rockets",
-      "channel_id": "UCjQ-p3rOHM3FK1hhjk1saCg",
-      "thumbnail_url": "https://i.ytimg.com/vi/4WAFdBU88bg/hqdefault.jpg",
-      "video_count": 18
     },
     {
       "playlist_id": "PLNZ0cTaAfacGENis3VnGQ81r2VG3V-VSq",
@@ -2947,16 +2947,6 @@
       "video_count": 14
     },
     {
-      "playlist_id": "PLL4fvSRkB_kfjA-UD21JqnBN8r8EgCaqs",
-      "title": "J Mascis - John Peel Sessions",
-      "description": "",
-      "published_at": "2021-08-20T12:33:36Z",
-      "channel_title": "The Muted Heart + Transitional Faze",
-      "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/U8IK78TNRDE/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
       "playlist_id": "PLL4fvSRkB_kcI0JuwfBHDiDPrKhkW_G4j",
       "title": "J Mascis + The Fog - Free So Free",
       "description": "",
@@ -2995,6 +2985,16 @@
       "channel_id": "UCZwjn8NfOuY-QLtGTsg1htQ",
       "thumbnail_url": "https://i.ytimg.com/vi/I5Y3-kgUwwM/hqdefault.jpg",
       "video_count": 6
+    },
+    {
+      "playlist_id": "PLoT1uKJu-6a8MmWdMh-5liBBkevabclLA",
+      "title": "J Mascis",
+      "description": "",
+      "published_at": "2021-07-18T05:29:27Z",
+      "channel_title": "Do\u00f1a Florinda",
+      "channel_id": "UCT__JnVUrXJI84wo8np3WNQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/2xJU7JfTAC4/hqdefault.jpg",
+      "video_count": 10
     },
     {
       "playlist_id": "PLaOFO_OQGbV7oHdn3d4MrV2uPsndrBf4M",
