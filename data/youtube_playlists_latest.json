@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-01 00:04 UTC",
-  "fetched_at_iso": "2026-11-01T00:04:00Z",
+  "fetched_at_utc": "2026-11-01 12:01 UTC",
+  "fetched_at_iso": "2026-11-01T12:01:36Z",
   "result_count": 300,
   "playlists": [
     {
@@ -2937,6 +2937,16 @@
       "video_count": 14
     },
     {
+      "playlist_id": "PLL4fvSRkB_kfjA-UD21JqnBN8r8EgCaqs",
+      "title": "J Mascis - John Peel Sessions",
+      "description": "",
+      "published_at": "2021-08-20T12:33:36Z",
+      "channel_title": "The Muted Heart + Transitional Faze",
+      "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/U8IK78TNRDE/hqdefault.jpg",
+      "video_count": 10
+    },
+    {
       "playlist_id": "PLL4fvSRkB_kcI0JuwfBHDiDPrKhkW_G4j",
       "title": "J Mascis + The Fog - Free So Free",
       "description": "",
@@ -2945,16 +2955,6 @@
       "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
       "thumbnail_url": "https://i.ytimg.com/vi/DoO4ghIkTaQ/hqdefault.jpg",
       "video_count": 10
-    },
-    {
-      "playlist_id": "PLz6fYeROpAx53-YDti17Dhy1tj3rwm0PD",
-      "title": "Dinosaur Jr. - Bluestem Amphitheatre - Moorhead Minnesota - 08-08-2015",
-      "description": "",
-      "published_at": "2021-08-08T21:40:18Z",
-      "channel_title": "FreakSceneNet",
-      "channel_id": "UC1uTU8Qf20g7zzbc9NJyp2A",
-      "thumbnail_url": "https://i.ytimg.com/vi/QNiBb44TLmU/hqdefault.jpg",
-      "video_count": 9
     },
     {
       "playlist_id": "PLdIXEqRSAJ2MJnHsQJHcWXCLzo8qFLG1x",
