@@ -2,10 +2,28 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-02 00:03 UTC",
-  "fetched_at_iso": "2026-11-02T00:03:44Z",
+  "fetched_at_utc": "2026-11-02 12:02 UTC",
+  "fetched_at_iso": "2026-11-02T12:02:07Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "1eWBJ-Al7bk",
+      "title": "DEAD AIR RUIN PEDAL WITH J MASCIS",
+      "description": "https://deadairstudios.bigcartel.com/product/ruin-octave-fuzz.",
+      "published_at": "2026-11-02T11:31:09Z",
+      "channel_title": "Dead Air",
+      "channel_id": "UC0RzJhLRWBIQnO3Eu_Uah4g",
+      "thumbnail_url": "https://i.ytimg.com/vi/1eWBJ-Al7bk/hqdefault.jpg"
+    },
+    {
+      "video_id": "kdCZvw6Xv7Q",
+      "title": "little fury things - dinosaur jr backing track (no guitar) ",
+      "description": "i know that the first and last parts you can hear guitar, but if you play guitar over it you shouldn't be able to hear it.",
+      "published_at": "2026-11-02T04:19:04Z",
+      "channel_title": "martin ",
+      "channel_id": "UCN5ISls_RodMyKT1TG-J0uw",
+      "thumbnail_url": "https://i.ytimg.com/vi/kdCZvw6Xv7Q/hqdefault.jpg"
+    },
     {
       "video_id": "uEuwddXkvlE",
       "title": "Lou B&#39;s Acoustic Sentridoh - &quot;Brown Confessin&quot; (1993)",
@@ -241,15 +259,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/YOQVUdnMlBM/hqdefault.jpg"
     },
     {
-      "video_id": "tGeXZKP8LUQ",
-      "title": "J Mascis - same day / one of my fav song #cover @JMascisOfficial",
-      "description": "",
-      "published_at": "2026-10-30T09:41:13Z",
-      "channel_title": "Vincever",
-      "channel_id": "UC78z1VO6rpjUL_VgTmyrUJw",
-      "thumbnail_url": "https://i.ytimg.com/vi/tGeXZKP8LUQ/hqdefault.jpg"
-    },
-    {
       "video_id": "33c3H0KxL5Y",
       "title": "Dinosaur Jr - The Ogden Theatre, Denver, CO 10-29-2026 Live Concert Full Show",
       "description": "Dinosaur Jr - The Ogden Theatre, Denver, CO 10-29-26.",
@@ -257,24 +266,6 @@
       "channel_title": "mikeslivemusic",
       "channel_id": "UCAOfSatGO_64GydLPhPuoMw",
       "thumbnail_url": "https://i.ytimg.com/vi/33c3H0KxL5Y/hqdefault.jpg"
-    },
-    {
-      "video_id": "ifL8LzuGJzY",
-      "title": "COVER of Soul and Fire by Sebadoh (Day 29)",
-      "description": "",
-      "published_at": "2026-10-30T05:08:51Z",
-      "channel_title": "Juventino Gutierrez",
-      "channel_id": "UCRmc-3yqPpioEqFCBK0-sag",
-      "thumbnail_url": "https://i.ytimg.com/vi/ifL8LzuGJzY/hqdefault.jpg"
-    },
-    {
-      "video_id": "yJkWgYJBUkc",
-      "title": "lead roundback feel the pain dinosaur jr",
-      "description": "This channel is evidence of my practice to 10000 hours. This is NOT proof of mastery or skill. All rights to the music played are ...",
-      "published_at": "2026-10-30T02:52:45Z",
-      "channel_title": "Soundhole Sidewinder",
-      "channel_id": "UCPDojb6wcEO-sSKNzOVFYrw",
-      "thumbnail_url": "https://i.ytimg.com/vi/yJkWgYJBUkc/hqdefault.jpg"
     },
     {
       "video_id": "g5P7SerV7WU",
@@ -311,15 +302,6 @@
       "channel_title": "Bandsplain",
       "channel_id": "UCEGeTpawpHk0LGE2-Q3eZtQ",
       "thumbnail_url": "https://i.ytimg.com/vi/5-lrN5iYS_w/hqdefault.jpg"
-    },
-    {
-      "video_id": "f7nOB4VqAJQ",
-      "title": "Dinosaur Jr. &quot;Feel the Pain&quot; live at the Neptune Theatre, Seattle, WA 10.24.26",
-      "description": "Dinosaur Jr. ripping through \"Feel The Pain\" at the Neptune Theatre in Seattle, Washington on Saturday, October 24, 2026.",
-      "published_at": "2026-10-28T17:50:14Z",
-      "channel_title": "The Royal Basement",
-      "channel_id": "UC9Jc_VyG2Xyv1JEC5ZiiuFg",
-      "thumbnail_url": "https://i.ytimg.com/vi/f7nOB4VqAJQ/hqdefault.jpg"
     },
     {
       "video_id": "bzC0Xic9Oxs",
@@ -428,6 +410,15 @@
       "channel_title": "John Loughney",
       "channel_id": "UCV76r8yBNYY97KiZfH4zazA",
       "thumbnail_url": "https://i.ytimg.com/vi/iH99INLFB9E/hqdefault.jpg"
+    },
+    {
+      "video_id": "4yBZHxyHb0o",
+      "title": "Dinosaur Jr.- Blue Note, Columbia Mo 3/27/89 Transfer from 1st or 2nd gen soundboard tape J mascis",
+      "description": "Today should be Mick Martin Memorial day, but I am bumping that to tomorrow since Dinosaur Jr. is playing Ace of Spades tonight ...",
+      "published_at": "2026-10-20T18:46:09Z",
+      "channel_title": "3.Cameras.and.a.Microphone",
+      "channel_id": "UC8tAnV9M2FKiJF2pDbXU0hw",
+      "thumbnail_url": "https://i.ytimg.com/vi/4yBZHxyHb0o/hqdefault.jpg"
     },
     {
       "video_id": "gBG08ECcXRk",
@@ -1285,15 +1276,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/m6ip3SFVOkw/hqdefault.jpg"
     },
     {
-      "video_id": "XPB8sBwVH_8",
-      "title": "Out There Dinosaur Jr Guitar Lesson &amp; Tutorial [WITH SOLO!]",
-      "description": "How to play Out There by Dinosaur Jr on Guitar I'll show you how to play the song the way Dinosaur Jr & J Mascis played it.",
-      "published_at": "2025-08-15T13:01:07Z",
-      "channel_title": "Scott OBrien Guitar",
-      "channel_id": "UCyMJuYEl9eMrrcX3VyyZ_eg",
-      "thumbnail_url": "https://i.ytimg.com/vi/XPB8sBwVH_8/hqdefault.jpg"
-    },
-    {
       "video_id": "qyTSP99r8qI",
       "title": "J MASCIS JAZZMASTER - The best Squier?  #jazzmaster #squier #shorts #thebest",
       "description": "This has been my favorite guitar since I bought in in 2018. It might even be the best Squier I've ever played!",
@@ -1436,6 +1418,15 @@
       "channel_title": "Sloppy Joe's Shred Shack",
       "channel_id": "UCSEuCo1RA0devKobweaXF_g",
       "thumbnail_url": "https://i.ytimg.com/vi/4_qa3nDHTvg/hqdefault.jpg"
+    },
+    {
+      "video_id": "AumxE2kIVo0",
+      "title": "A YN reacts to Dinosaur Jr. for the first time! - You&#39;re Living All Over Me (full album",
+      "description": "JOIN MY DISCORD - https://discord.gg/Nmw373j5Sn FOLLOW MY INSTAGRAM PLEASEEEEE my instagram ...",
+      "published_at": "2025-04-19T15:00:23Z",
+      "channel_title": "SpillasBurner",
+      "channel_id": "UCWLaeG2BuoNNOUJj2lAV2LA",
+      "thumbnail_url": "https://i.ytimg.com/vi/AumxE2kIVo0/hqdefault.jpg"
     },
     {
       "video_id": "f-dCWpovgKo",
@@ -1771,6 +1762,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/U96xP5pmlho/hqdefault.jpg"
     },
     {
+      "video_id": "hHd7smChIh8",
+      "title": "Lou Barlow (Dinosaur Jr / Sebadoh) on Songwriting, Lo-Fi Recording &amp; Indie Culture | Full Interview",
+      "description": "Lou Barlow interview August 2nd 2024 - Peeling The Onion Ep. 7 Hello good people and welcome to Episode #7 of Peeling The ...",
+      "published_at": "2024-08-04T01:00:18Z",
+      "channel_title": "Peeling The Onion",
+      "channel_id": "UCaBIwvJnjFKBNZIxg7rYLNw",
+      "thumbnail_url": "https://i.ytimg.com/vi/hHd7smChIh8/hqdefault.jpg"
+    },
+    {
       "video_id": "AWpaUkco99E",
       "title": "Freakscene: The Story of Dinosaur Jr (Bonus Interviews)",
       "description": "Bonus interviews from the 2021 documentary \"Freakscene: The Story of Dinosaur Jr.\"",
@@ -1922,6 +1922,15 @@
       "channel_title": "Cherry Red Records",
       "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
       "thumbnail_url": "https://i.ytimg.com/vi/umhwdzh83Bc/hqdefault.jpg"
+    },
+    {
+      "video_id": "XLreWxax5eA",
+      "title": "Catch J touring Europe right now. Two shows sold out in Amsterdam and Berlin. #jmascis #subpop",
+      "description": "",
+      "published_at": "2024-04-03T19:04:57Z",
+      "channel_title": "J Mascis",
+      "channel_id": "UCNHL4feEEfVFpUaSYpLHlkw",
+      "thumbnail_url": "https://i.ytimg.com/vi/XLreWxax5eA/hqdefault.jpg"
     },
     {
       "video_id": "WNFnBqXo8wA",
@@ -2248,6 +2257,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/GYq-zolM4c4/hqdefault.jpg"
     },
     {
+      "video_id": "G82xrIeKgkY",
+      "title": "Dinosaur Jr. Chords | Alt-Rock Guitar Tone",
+      "description": "subscribe to discover new guitar gear in alt rock/ indie guitar style! links to featured gear & music below. our latest songs ...",
+      "published_at": "2023-03-14T20:05:44Z",
+      "channel_title": "pedal partners",
+      "channel_id": "UCW0h0L-rYQhba78oWJHHXGg",
+      "thumbnail_url": "https://i.ytimg.com/vi/G82xrIeKgkY/hqdefault.jpg"
+    },
+    {
       "video_id": "ygSMKi7kju0",
       "title": "J MASCIS TELLING THE TRUTH  - #dinosaurjr #jmascis #jazzmaster #bigmuff",
       "description": "MEUS ALBUMS SOLO: https://open.spotify.com/artist/3OsB4BWtDfOW5h2cHSZxWL/discography/album - M. FILES SPOTIFY ...",
@@ -2554,15 +2572,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HtdTKrXrRlQ/hqdefault.jpg"
     },
     {
-      "video_id": "SX6YO58H4v0",
-      "title": "Dinosaur Jr \u2013 Bug: Live At The 9:30 Club, Washington, DC, June 2011 (Full Album)",
-      "description": "FAIR USE~ Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \u201cfair use\u201d for purposes such ...",
-      "published_at": "2021-08-19T13:13:03Z",
-      "channel_title": "Fabrizio Cappellato",
-      "channel_id": "UCGEssDlURF_J5nzyXsjJVsA",
-      "thumbnail_url": "https://i.ytimg.com/vi/SX6YO58H4v0/hqdefault.jpg"
-    },
-    {
       "video_id": "k-vfNuwgA1s",
       "title": "Exploring the J Mascis Telecaster | Artist Signature Series | Fender",
       "description": "Watch as Brian Carter and Robert Davis dig into the exciting features from the J Mascis Telecaster. Learn more here: ...",
@@ -2597,15 +2606,6 @@
       "channel_title": "NPR Music",
       "channel_id": "UC4eYXhJI4-7wSWc8UNRwD4A",
       "thumbnail_url": "https://i.ytimg.com/vi/MxbGf_JyvVs/hqdefault.jpg"
-    },
-    {
-      "video_id": "nvqcFaWtH5I",
-      "title": "1 MINUTE DEMO: Squier J. Mascis Jazzmaster!",
-      "description": "https://max.guitars/nl/squier-j-mascis-jazzmaster-rw-vwt-art-10515 Squier honors the godfather of alt-rock J Mascis with a brand ...",
-      "published_at": "2021-08-01T20:59:10Z",
-      "channel_title": "Max Guitar Store",
-      "channel_id": "UCZXiwInRaXJFHqUCmTb4Zlg",
-      "thumbnail_url": "https://i.ytimg.com/vi/nvqcFaWtH5I/hqdefault.jpg"
     },
     {
       "video_id": "BDeoLxCgE1s",
