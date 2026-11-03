@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-03 00:02 UTC",
-  "fetched_at_iso": "2026-11-03T00:02:51Z",
+  "fetched_at_utc": "2026-11-03 12:01 UTC",
+  "fetched_at_iso": "2026-11-03T12:01:44Z",
   "result_count": 300,
   "playlists": [
     {
@@ -2487,6 +2487,16 @@
       "video_count": 55
     },
     {
+      "playlist_id": "PLnE6zQinjtyYefPPMVfVQnoYGtnatHTKu",
+      "title": "j mascis",
+      "description": "",
+      "published_at": "2023-10-26T19:54:30Z",
+      "channel_title": "Domenick M",
+      "channel_id": "UCJC4cKUsq2TAFHgH0ju7GkQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
+      "video_count": 58
+    },
+    {
       "playlist_id": "PLiqnSewxj9zSxT7jwj3990wyJHg9hFFw1",
       "title": "J.Mascis/Dinosaur Jr.",
       "description": "",
@@ -2925,16 +2935,6 @@
       "channel_id": "UCSvUnn3X-iTWbxwp2uixQjw",
       "thumbnail_url": "https://i.ytimg.com/vi/j_DzOZTS_jA/hqdefault.jpg",
       "video_count": 14
-    },
-    {
-      "playlist_id": "PLL4fvSRkB_kfjA-UD21JqnBN8r8EgCaqs",
-      "title": "J Mascis - John Peel Sessions",
-      "description": "",
-      "published_at": "2021-08-20T12:33:36Z",
-      "channel_title": "The Muted Heart + Transitional Faze",
-      "channel_id": "UCxYoE2su4BsjUm_ztTsfr4Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/U8IK78TNRDE/hqdefault.jpg",
-      "video_count": 10
     },
     {
       "playlist_id": "PLL4fvSRkB_kcI0JuwfBHDiDPrKhkW_G4j",
