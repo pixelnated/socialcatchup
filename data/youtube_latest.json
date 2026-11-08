@@ -2,10 +2,37 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-08 00:03 UTC",
-  "fetched_at_iso": "2026-11-08T00:03:46Z",
+  "fetched_at_utc": "2026-11-08 12:01 UTC",
+  "fetched_at_iso": "2026-11-08T12:01:37Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "lqe6twDSo8c",
+      "title": "Dinosaur Jr - Start Choppin (Tipitina&#39;s 11-7-26)",
+      "description": "",
+      "published_at": "2026-11-08T09:12:01Z",
+      "channel_title": "redredmeat",
+      "channel_id": "UCFCRxGSUtyx4O_S0aDTWF-A",
+      "thumbnail_url": "https://i.ytimg.com/vi/lqe6twDSo8c/hqdefault.jpg"
+    },
+    {
+      "video_id": "EEvMNuypRZs",
+      "title": "Dinosaur Jr - Just Like Heaven (Tipitina&#39;s11-7-26)",
+      "description": "",
+      "published_at": "2026-11-08T09:03:17Z",
+      "channel_title": "redredmeat",
+      "channel_id": "UCFCRxGSUtyx4O_S0aDTWF-A",
+      "thumbnail_url": "https://i.ytimg.com/vi/EEvMNuypRZs/hqdefault.jpg"
+    },
+    {
+      "video_id": "yLGRhhUHFmU",
+      "title": "Dinosaur Jr - Feel the Pain 11-7-26 New Orleans LA",
+      "description": "I do not own any rights to the song, etc.",
+      "published_at": "2026-11-08T06:29:48Z",
+      "channel_title": "Holly G.",
+      "channel_id": "UCqdyBJ6ubrXGKFJk1210Scg",
+      "thumbnail_url": "https://i.ytimg.com/vi/yLGRhhUHFmU/hqdefault.jpg"
+    },
     {
       "video_id": "b9BtIjcDHjw",
       "title": "Dinosaur Jr. LIVE at Paper Tiger - San Antonio, Tx 11/6/26",
@@ -41,6 +68,15 @@
       "channel_title": "Payton Rennels",
       "channel_id": "UC0FRlgsesB3upEbtxbnIxpA",
       "thumbnail_url": "https://i.ytimg.com/vi/pFumbVnclvc/hqdefault.jpg"
+    },
+    {
+      "video_id": "mqp4Mqc4ObY",
+      "title": "PICK ME UP | DAY 2805",
+      "description": "Welcome to Guitar Hero With Jack where I will be playing through every Guitar Hero song starting with the original Guitar Hero ...",
+      "published_at": "2026-11-07T01:00:24Z",
+      "channel_title": "Guitar Hero With Jack",
+      "channel_id": "UCcJP5Ljkq17wnw2pq4u2-Hg",
+      "thumbnail_url": "https://i.ytimg.com/vi/mqp4Mqc4ObY/hqdefault.jpg"
     },
     {
       "video_id": "eZ4Ozqf-ro4",
@@ -124,15 +160,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/yxOmN3jE5UE/hqdefault.jpg"
     },
     {
-      "video_id": "V5XGAGJ7VGE",
-      "title": "COVER of Pond Song by Dinosaur Jr (Day 35)",
-      "description": "",
-      "published_at": "2026-11-05T07:17:38Z",
-      "channel_title": "Juventino Gutierrez",
-      "channel_id": "UCRmc-3yqPpioEqFCBK0-sag",
-      "thumbnail_url": "https://i.ytimg.com/vi/V5XGAGJ7VGE/hqdefault.jpg"
-    },
-    {
       "video_id": "bRRxlp91L4o",
       "title": "Dinosaur \u0915\u0947 \u0905\u0902\u0921\u0947 \u0938\u0947 \u0928\u093f\u0915\u0932\u093e \u092c\u091a\u094d\u091a\u093e, \u0939\u093e\u0925\u0940 \u0915\u094b \u092c\u094b\u0932\u093e \u092e\u092e\u094d\u092e\u0940! \ud83e\udd96\ud83d\udc18\ud83d\ude02 Hindi Cartoon #shorts #funnycartoon",
       "description": "\u0936\u0947\u0930 \u0915\u0947 \u0905\u0902\u0921\u0947 \u0938\u0947 \u0928\u093f\u0915\u0932\u093e \u0921\u093e\u092f\u0928\u093e\u0938\u094b\u0930 \u0914\u0930 \u0939\u093e\u0925\u0940 \u092c\u0928 \u0917\u092f\u093e \u092e\u092e\u094d\u092e\u0940 | Dinosaur cartoon | \u0939\u093f\u0902\u0926\u0940 ...",
@@ -149,42 +176,6 @@
       "channel_title": "Scott Madrid",
       "channel_id": "UC8tH5_MlCfvyyGAH-Y98gtA",
       "thumbnail_url": "https://i.ytimg.com/vi/sSuyO7gWOik/hqdefault.jpg"
-    },
-    {
-      "video_id": "Czl2uPk1-wY",
-      "title": "Start Chopp\u2019n- Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-11-05T05:31:44Z",
-      "channel_title": "Scott Madrid",
-      "channel_id": "UC8tH5_MlCfvyyGAH-Y98gtA",
-      "thumbnail_url": "https://i.ytimg.com/vi/Czl2uPk1-wY/hqdefault.jpg"
-    },
-    {
-      "video_id": "Z1fg3LLLEpg",
-      "title": "Out There - Dinosaur Jr.",
-      "description": "music #rock #90s #musician #guitar #electricguitar #guitarist #guitarcover #dinosaurjr #jmascis #whereyoubeen #cover.",
-      "published_at": "2026-11-05T03:47:26Z",
-      "channel_title": "JGMusic",
-      "channel_id": "UC2XBuI9RszK7n48DO47uG4Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/Z1fg3LLLEpg/hqdefault.jpg"
-    },
-    {
-      "video_id": "jCAPswERlGI",
-      "title": "watch the corners by dinosaur Jr",
-      "description": "just practicing a little dinosaur Junior.",
-      "published_at": "2026-11-05T02:45:49Z",
-      "channel_title": "pastamoose",
-      "channel_id": "UCtPN4HOHQMyXJWitX8YgpmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/jCAPswERlGI/hqdefault.jpg"
-    },
-    {
-      "video_id": "yc2oEE3cx5U",
-      "title": "The Wagon / Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-11-05T01:10:24Z",
-      "channel_title": "\u4f1a\u5fc3\u5802\u30fb\u5100\u9593\u60a0\u8a9e",
-      "channel_id": "UCZm3mgPsYfapNkr0p92fdyQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/yc2oEE3cx5U/hqdefault.jpg"
     },
     {
       "video_id": "JNu0S87me5c",
@@ -221,15 +212,6 @@
       "channel_title": "Worried Tunes 2",
       "channel_id": "UCFUBqC_mvuY54SoSI6AQpyg",
       "thumbnail_url": "https://i.ytimg.com/vi/idUVw9AJsUA/hqdefault.jpg"
-    },
-    {
-      "video_id": "rPnVUQtq6fs",
-      "title": "Lily Seabird picks Dinosaur Jr.&#39;s Bug for Cantilever",
-      "description": "Ahead of her Woods Stage slot at End of the Road Festival, the wonderful Lily Seabird stopped by the Cantilever tent to ...",
-      "published_at": "2026-11-03T16:09:12Z",
-      "channel_title": "Cantilever",
-      "channel_id": "UCU2RifyDPQPGjp_SHtl-UKQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/rPnVUQtq6fs/hqdefault.jpg"
     },
     {
       "video_id": "BYfdcEdG3xU",
@@ -295,15 +277,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HxJRU3lDTQ0/hqdefault.jpg"
     },
     {
-      "video_id": "jiQS_X4tLMg",
-      "title": "J Mascis Grazes By Your Window",
-      "description": "I interviewd J Mascis!!! We talked about the new Dinosaur Jr album, Gilmore Girls (we love), contemporary live music audio (we ...",
-      "published_at": "2026-10-30T19:31:57Z",
-      "channel_title": "Bandsplain",
-      "channel_id": "UCEGeTpawpHk0LGE2-Q3eZtQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/jiQS_X4tLMg/hqdefault.jpg"
-    },
-    {
       "video_id": "r0tjSflMc9M",
       "title": "TAFS Unplugged: J Mascis @JMascisOfficial",
       "description": "See Adam on tour https://theadamfriedland.show/pages/tour -- Patreon: https://www.patreon.com/cw/TheAdamFriedlandShow ...",
@@ -347,6 +320,15 @@
       "channel_title": "The Royal Basement",
       "channel_id": "UC9Jc_VyG2Xyv1JEC5ZiiuFg",
       "thumbnail_url": "https://i.ytimg.com/vi/f7nOB4VqAJQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "dCBJEpjA__w",
+      "title": "Dinosaur Jr. - Take a Run at the Sun (Official Video)",
+      "description": "from the 1996's soundtrack to Allison Anders' film \"Grace of My Heart\" (highest quality version on YouTube)",
+      "published_at": "2026-10-28T14:49:35Z",
+      "channel_title": "Tiago Laranjo",
+      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
+      "thumbnail_url": "https://i.ytimg.com/vi/dCBJEpjA__w/hqdefault.jpg"
     },
     {
       "video_id": "bzC0Xic9Oxs",
@@ -457,6 +439,78 @@
       "thumbnail_url": "https://i.ytimg.com/vi/iH99INLFB9E/hqdefault.jpg"
     },
     {
+      "video_id": "4yBZHxyHb0o",
+      "title": "Dinosaur Jr.- Blue Note, Columbia Mo 3/27/89 Transfer from 1st or 2nd gen soundboard tape J mascis",
+      "description": "Today should be Mick Martin Memorial day, but I am bumping that to tomorrow since Dinosaur Jr. is playing Ace of Spades tonight ...",
+      "published_at": "2026-10-20T18:46:09Z",
+      "channel_title": "Sacramento Music Archive",
+      "channel_id": "UC8tAnV9M2FKiJF2pDbXU0hw",
+      "thumbnail_url": "https://i.ytimg.com/vi/4yBZHxyHb0o/hqdefault.jpg"
+    },
+    {
+      "video_id": "gBG08ECcXRk",
+      "title": "Dinosaur Jr. - This Is All I Came To Do (bass backing track)",
+      "description": "This video features \"This Is All I Came To Do\" by Dinosaur Jr.. My sincere appreciation to these musicians. Copyright Notice: All ...",
+      "published_at": "2026-10-20T17:35:17Z",
+      "channel_title": "Bass Minus Tracks",
+      "channel_id": "UCMlp4LJeO1IZ7WW4Xuwcbkw",
+      "thumbnail_url": "https://i.ytimg.com/vi/gBG08ECcXRk/hqdefault.jpg"
+    },
+    {
+      "video_id": "1dmsemkNzCk",
+      "title": "Dinosaur Jr Castro Theater 2026 - Start Choppin",
+      "description": "",
+      "published_at": "2026-10-19T11:11:14Z",
+      "channel_title": "x3ntropy",
+      "channel_id": "UC8-03LB-X0fnd0BS21f_tnQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/1dmsemkNzCk/hqdefault.jpg"
+    },
+    {
+      "video_id": "FUhpwJeQyPY",
+      "title": "Dinosaur Jr. at The Castro Theatre, San Francisco, CA 10/18/2026",
+      "description": "",
+      "published_at": "2026-10-19T07:19:27Z",
+      "channel_title": "BayAreaPunkShows",
+      "channel_id": "UCJBvEFt7amhGcqHXIbMwk0Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/FUhpwJeQyPY/hqdefault.jpg"
+    },
+    {
+      "video_id": "ADy6XqDLjJw",
+      "title": "Dinosaur Jr Castro Theater 2026 - Just Like Heaven",
+      "description": "October 18th, 2026.",
+      "published_at": "2026-10-19T06:41:08Z",
+      "channel_title": "x3ntropy",
+      "channel_id": "UC8-03LB-X0fnd0BS21f_tnQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/ADy6XqDLjJw/hqdefault.jpg"
+    },
+    {
+      "video_id": "k-FV4_BGN7Q",
+      "title": "Buy or Pass? Squier J Mascis Jazzmaster guitar! #jmascis #jazzmaster #guitar #fenderguitars #fyp",
+      "description": "",
+      "published_at": "2026-10-18T14:07:21Z",
+      "channel_title": "Buy Or Pass Guitars",
+      "channel_id": "UC6CNS8eRtVsk1P8RortaJXg",
+      "thumbnail_url": "https://i.ytimg.com/vi/k-FV4_BGN7Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "Q1ihv-O-NP8",
+      "title": "1958 Gretsch 6120 | Guitar of the Day - J Mascis",
+      "description": "Special guest J Mascis for today's new episode of #GuitarOfTheDay with this beautiful 1958 Gretsch 6120, and it's available here ...",
+      "published_at": "2026-10-17T22:47:48Z",
+      "channel_title": "Normans Rare Guitars",
+      "channel_id": "UCf3r1JdYf6scuGaI0YRkyNg",
+      "thumbnail_url": "https://i.ytimg.com/vi/Q1ihv-O-NP8/hqdefault.jpg"
+    },
+    {
+      "video_id": "GDH8-rwkPJ4",
+      "title": "Dinosaur Jr. - Everything at Once 10/16/2026 at the Bellwether Los Angeles",
+      "description": "Dinosaur Jr. - Everything at Once 10/16/2026 at the Bellwether Los Angeles.",
+      "published_at": "2026-10-17T17:59:37Z",
+      "channel_title": "Douglas Lumsden",
+      "channel_id": "UCVuN3kVcjA_4iv10OrN76wg",
+      "thumbnail_url": "https://i.ytimg.com/vi/GDH8-rwkPJ4/hqdefault.jpg"
+    },
+    {
       "video_id": "usw5lpThMeY",
       "title": "Dinosaur Jr -Fall Tour- Live (10/16/26)",
       "description": "",
@@ -464,6 +518,24 @@
       "channel_title": "H Dellamorte",
       "channel_id": "UCukNDmBV273eL3rm5yV_Vxg",
       "thumbnail_url": "https://i.ytimg.com/vi/usw5lpThMeY/hqdefault.jpg"
+    },
+    {
+      "video_id": "8e5qvJM9fls",
+      "title": "Dinosaur Jr. &quot;Just Like Heaven&quot; [The Cure cover] (10/15/26) House of Blues Anaheim ",
+      "description": "",
+      "published_at": "2026-10-16T20:58:53Z",
+      "channel_title": "Benjamin Lee",
+      "channel_id": "UCorOIqTZv3vgeSRWivZNzvg",
+      "thumbnail_url": "https://i.ytimg.com/vi/8e5qvJM9fls/hqdefault.jpg"
+    },
+    {
+      "video_id": "HvyDuyQHoms",
+      "title": "Dinosaur Jr. &quot;Start Choppin&quot; (10/15/26) House of Blues Anaheim ",
+      "description": "",
+      "published_at": "2026-10-16T20:52:30Z",
+      "channel_title": "Benjamin Lee",
+      "channel_id": "UCorOIqTZv3vgeSRWivZNzvg",
+      "thumbnail_url": "https://i.ytimg.com/vi/HvyDuyQHoms/hqdefault.jpg"
     },
     {
       "video_id": "E8HsMHohb6Q",
@@ -502,6 +574,24 @@
       "thumbnail_url": "https://i.ytimg.com/vi/7d7fT-cCivs/hqdefault.jpg"
     },
     {
+      "video_id": "Cy-wNQRmJOE",
+      "title": "Dinosaur Jr. &quot;Been There All the Time&quot; (10/13/26) Zebulon ",
+      "description": "",
+      "published_at": "2026-10-14T19:47:03Z",
+      "channel_title": "Benjamin Lee",
+      "channel_id": "UCorOIqTZv3vgeSRWivZNzvg",
+      "thumbnail_url": "https://i.ytimg.com/vi/Cy-wNQRmJOE/hqdefault.jpg"
+    },
+    {
+      "video_id": "cL1Spv2VhjI",
+      "title": "&quot;In a Jar&quot; @dinosaurjrtv . Dinosaur Jr.  October 13, 2026. Los Angeles ",
+      "description": "\"In a Jar\" \u200e\u2068@dinosaurjrtv\u2069 . Dinosaur Jr. October 13, 2026. Los Angeles.",
+      "published_at": "2026-10-14T18:34:19Z",
+      "channel_title": "MartinRW00",
+      "channel_id": "UC34TOdiSdOBsxFnIsgw8kMw",
+      "thumbnail_url": "https://i.ytimg.com/vi/cL1Spv2VhjI/hqdefault.jpg"
+    },
+    {
       "video_id": "fYgcTpRdm4k",
       "title": "sorry for no actual vid just audio #guitar #fender #jmascis #dinosaurjr",
       "description": "",
@@ -509,24 +599,6 @@
       "channel_title": "a_freak-scene_teen",
       "channel_id": "UC3JEq_L_TJqdDgVNIWXBD1g",
       "thumbnail_url": "https://i.ytimg.com/vi/fYgcTpRdm4k/hqdefault.jpg"
-    },
-    {
-      "video_id": "yo5KN_X8lzA",
-      "title": "Dinosaur Jr. y \u201cGoin Down\u201d: m\u00fasica y skate en Brooklyn",
-      "description": "Goin Down\u201d pertenece a Give a Glimpse of What Yer Not, el \u00e1lbum de Dinosaur Jr. publicado en 2016. Su videoclip re\u00fane a la ...",
-      "published_at": "2026-10-13T22:00:06Z",
-      "channel_title": "EB Skate & Sound",
-      "channel_id": "UCsXxO3AGMigWHRE10o4srgA",
-      "thumbnail_url": "https://i.ytimg.com/vi/yo5KN_X8lzA/hqdefault.jpg"
-    },
-    {
-      "video_id": "ADSiq4H26wg",
-      "title": "Song: Never Let You Go #dinosaurjr #thelibertines #thereplacements #huskerdu #musicdiscovery #fyp",
-      "description": "",
-      "published_at": "2026-10-13T04:06:38Z",
-      "channel_title": "Nite Music",
-      "channel_id": "UCiuhLmh0BtA06E4hxjOayLg",
-      "thumbnail_url": "https://i.ytimg.com/vi/ADSiq4H26wg/hqdefault.jpg"
     },
     {
       "video_id": "s2ra0v8Lsr0",
@@ -547,6 +619,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/E1iN5ECnliw/hqdefault.jpg"
     },
     {
+      "video_id": "CrkOcNRv_zY",
+      "title": "Dinosaur Jr. 20261011",
+      "description": "",
+      "published_at": "2026-10-13T01:26:17Z",
+      "channel_title": "leisure engineer",
+      "channel_id": "UCpr3ZvAZuvZwiMnXLh3kblg",
+      "thumbnail_url": "https://i.ytimg.com/vi/CrkOcNRv_zY/hqdefault.jpg"
+    },
+    {
       "video_id": "BJo3tTxB1Tk",
       "title": "Dinosaur Jr. 20261011",
       "description": "",
@@ -556,22 +637,13 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BJo3tTxB1Tk/hqdefault.jpg"
     },
     {
-      "video_id": "5GHFsHTwFJo",
-      "title": "The One Secret Trick To Dinosaur Jr.&#39;s Drumming!",
-      "description": "The One Secret Trick To Dinosaur Jr.'s Drumming....Lice #dinosaurjr #murph #sonicyouth #nirvana.",
-      "published_at": "2026-10-12T22:50:20Z",
-      "channel_title": "108.9 The Hawk",
-      "channel_id": "UCyt5gH6e_ZhF6j7-lfHKx6w",
-      "thumbnail_url": "https://i.ytimg.com/vi/5GHFsHTwFJo/hqdefault.jpg"
-    },
-    {
-      "video_id": "ekk32_G_KWA",
-      "title": "J Mascis Doing What He Does Best - Dinosaur Jr. Live at the Belly Up Tavern, Solana Beach, CA",
-      "description": "The Dino boys rippin' it during the song \"Gargoyle.\"",
-      "published_at": "2026-10-12T18:00:14Z",
-      "channel_title": "Sommatix",
-      "channel_id": "UCy-CjQsxtgPjPVHih5lfBew",
-      "thumbnail_url": "https://i.ytimg.com/vi/ekk32_G_KWA/hqdefault.jpg"
+      "video_id": "_zpfJPLV2RY",
+      "title": "Dinosaur Jr. Slim&#39;s, San Francisco CA 5-26-1997",
+      "description": "Dinosaur Jr. (J Mascis, George Berz, Mike Johnson) Slim's, San Francisco California May 26th, 1997 ...",
+      "published_at": "2026-10-12T14:50:41Z",
+      "channel_title": "Frankenberry",
+      "channel_id": "UCHyWfW6Rm6xBOBHevxzCgRQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/_zpfJPLV2RY/hqdefault.jpg"
     },
     {
       "video_id": "jmuGjBf2FkY",
@@ -583,24 +655,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/jmuGjBf2FkY/hqdefault.jpg"
     },
     {
-      "video_id": "8h-agay4EQQ",
-      "title": "Big dinosaur Chase and chasing show big dinosaur shorts video #dinosaurjr",
-      "description": "",
-      "published_at": "2026-10-12T12:03:07Z",
-      "channel_title": "Mr remix vfx shorts ",
-      "channel_id": "UCT46Olf84re_9X2L5Xerxmg",
-      "thumbnail_url": "https://i.ytimg.com/vi/8h-agay4EQQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "7TiuHyOoRzY",
-      "title": "#dinosaurjr #loubarlow #murph #jmascis \u201cBlowin\u2019 Up\u201d on Oct. 11 in Tempe, Arizona",
-      "description": "",
-      "published_at": "2026-10-11T18:48:07Z",
-      "channel_title": "Some old dude",
-      "channel_id": "UCaRDZqrXVaBa0D0ug6ctq3w",
-      "thumbnail_url": "https://i.ytimg.com/vi/7TiuHyOoRzY/hqdefault.jpg"
-    },
-    {
       "video_id": "8kDyUBeLU-4",
       "title": "Dinosaur Jr. (full set) - Live - Tempe, AZ 10/10/26",
       "description": "Sorry for the audio. If I knew it briefly stopped every time I switched which lens was being used I would have just kept it all the ...",
@@ -608,15 +662,6 @@
       "channel_title": "Tom",
       "channel_id": "UClKavbx9lApZ1H_2MZyfgvg",
       "thumbnail_url": "https://i.ytimg.com/vi/8kDyUBeLU-4/hqdefault.jpg"
-    },
-    {
-      "video_id": "RkWVlkjyXXg",
-      "title": "Good until it wasn&#39;t \ud83d\ude0c #skateboarding #skate #funny #dinosaurjr #fail",
-      "description": "",
-      "published_at": "2026-10-10T21:46:23Z",
-      "channel_title": "Superfluous ",
-      "channel_id": "UCFcx_M8f9yaQbwYJJRXjuqw",
-      "thumbnail_url": "https://i.ytimg.com/vi/RkWVlkjyXXg/hqdefault.jpg"
     },
     {
       "video_id": "QRzGB2aQM_g",
@@ -628,15 +673,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QRzGB2aQM_g/hqdefault.jpg"
     },
     {
-      "video_id": "Xn6tvG7K0Z0",
-      "title": "Leaves are fallin. #curbskating #skateboarding #oldmanskatesesh #dinosaurjr",
-      "description": "",
-      "published_at": "2026-10-10T12:59:49Z",
-      "channel_title": "Chris Rice",
-      "channel_id": "UCz4gzZPV1NIDRp3LjZaUQHg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Xn6tvG7K0Z0/hqdefault.jpg"
-    },
-    {
       "video_id": "33-pVYgNtuM",
       "title": "Dinosaur Jr Live at Brooklyn Bowl Vegas on 10/9/26 (Full Set)",
       "description": "0:55 The Lung 6:52 In A Jar 11:15 Several Got Away 15:36 Take Me With You 20:07 Blowin' Up 23:30 No Friends 28:03 ...",
@@ -644,60 +680,6 @@
       "channel_title": "Vegas Born Jamie",
       "channel_id": "UCo9zGHpQkKsDfXsMbYfO19w",
       "thumbnail_url": "https://i.ytimg.com/vi/33-pVYgNtuM/hqdefault.jpg"
-    },
-    {
-      "video_id": "m-zIlovOabU",
-      "title": "Custom Gray &amp; Turquoise 8-Hole Telecaster Pickguard \ud83c\udfb8 #guitarparts #shorts #reverb #dinosaurjr",
-      "description": "Video Description for Reverb Listing. Thanks for looking. If you are reading this you are awesome.",
-      "published_at": "2026-10-06T20:45:22Z",
-      "channel_title": "CapnCrepitis ",
-      "channel_id": "UCUG9St0QZiZoFii-Uzo-lHA",
-      "thumbnail_url": "https://i.ytimg.com/vi/m-zIlovOabU/hqdefault.jpg"
-    },
-    {
-      "video_id": "59L6zziBsW8",
-      "title": "Sebadoh III: The Album Lou Barlow Made to Spite Dinosaur Jr",
-      "description": "In 1991, after J Mascis kicked Lou Barlow from Dinosaur Jr, Barlow responded with Sebadoh III\u2014a lo-fi confessional masterpiece.",
-      "published_at": "2026-10-05T20:00:38Z",
-      "channel_title": "Fridge Buzz",
-      "channel_id": "UCskJX56Ihe-QUcqhrZHOp8Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/59L6zziBsW8/hqdefault.jpg"
-    },
-    {
-      "video_id": "-juLu0lIccI",
-      "title": "\u09a1\u09be\u0987\u09a8\u09cb\u09b8\u09b0\u09c7\u09b0 \u09ac\u09be\u099a\u09cd\u099a\u09be\u0995\u09c7 \u0995\u09cb\u09b2\u09c7 \u09a8\u09bf\u09a4\u09c7\u0987 \u09ac\u09a6\u09b2\u09c7 \u0997\u09c7\u09b2 \u09b8\u09ac! \ud83e\udd96\u2764\ufe0f | Baby Dinosaur Saved #dinosaurjr",
-      "description": "abdullahayan05 \u09a1\u09be\u0987\u09a8\u09cb\u09b8\u09b0\u09c7\u09b0 \u09ac\u09be\u099a\u09cd\u099a\u09be\u0995\u09c7 \u0995\u09cb\u09b2\u09c7 \u09a8\u09bf\u09a4\u09c7\u0987 \u09ac\u09a6\u09b2\u09c7 \u0997\u09c7\u09b2 \u09b8\u09ac! \u2764\ufe0f | Baby Dinosaur Saved ...",
-      "published_at": "2026-10-04T11:47:16Z",
-      "channel_title": "Abdullahayan05",
-      "channel_id": "UCCCletAc8szdtLB9qlCZtag",
-      "thumbnail_url": "https://i.ytimg.com/vi/-juLu0lIccI/hqdefault.jpg"
-    },
-    {
-      "video_id": "6z7x7YU4WFk",
-      "title": "Dinosaur Jr. - In The Studio: Goin&#39; Blind (Kiss cover)",
-      "description": "footage from the recording that appeared on the Kiss My Ass: Classic Kiss Regrooved compilation featuring J Mascis and ...",
-      "published_at": "2026-10-02T14:38:38Z",
-      "channel_title": "Tiago Laranjo",
-      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
-      "thumbnail_url": "https://i.ytimg.com/vi/6z7x7YU4WFk/hqdefault.jpg"
-    },
-    {
-      "video_id": "S1JAuQrVwww",
-      "title": "Squier J Mascis Signature Jazzmaster Electric Guitar, Laurel FB, Vintage White",
-      "description": "",
-      "published_at": "2026-10-02T10:55:23Z",
-      "channel_title": "Jamcrew Music Studio",
-      "channel_id": "UCPI4CNYRha9pec9IhPHskxQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/S1JAuQrVwww/hqdefault.jpg"
-    },
-    {
-      "video_id": "RB-gZTwuEqQ",
-      "title": "POSTCARD 01: Dinosaur Jr.",
-      "description": "POSTCARD 01: Dinosaur Jr. Everything happened in the East Village. THE ONE. FOR NEW YORK. Premieres 10.14.26. Only on ...",
-      "published_at": "2026-09-29T16:00:04Z",
-      "channel_title": "Fender",
-      "channel_id": "UCI7fys0WM62xF2jUlUdq0XQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RB-gZTwuEqQ/hqdefault.jpg"
     },
     {
       "video_id": "HXcsBzjc9NU",
@@ -709,15 +691,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/HXcsBzjc9NU/hqdefault.jpg"
     },
     {
-      "video_id": "xtLW2ltNWmA",
-      "title": "Heelflip #skate #skateboarding #skatepark #skater #dinosaurjr #heelflip",
-      "description": "",
-      "published_at": "2026-09-28T07:49:01Z",
-      "channel_title": "\ud835\udd2f\ud835\udd26\ud835\udd20\ud835\udd2c\ud835\udd29\ud835\udd36\ud835\udd20\ud835\udd1e\ud835\udd2b\ud835\udd31\ud835\udd25\ud835\udd2f\ud835\udd2c\ud835\udd2d\ud835\udd22",
-      "channel_id": "UCyc0hh5SFjCPUqidN5gpPbg",
-      "thumbnail_url": "https://i.ytimg.com/vi/xtLW2ltNWmA/hqdefault.jpg"
-    },
-    {
       "video_id": "txWYEVugyKY",
       "title": "Dinosaur Jr. Full Opening Set LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
       "description": "Dinosaur Jr. Full Opening Set LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for Turnstile.",
@@ -725,60 +698,6 @@
       "channel_title": "Concerts Hub",
       "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
       "thumbnail_url": "https://i.ytimg.com/vi/txWYEVugyKY/hqdefault.jpg"
-    },
-    {
-      "video_id": "UhItfMcn7g4",
-      "title": "Dinosaur Jr. &quot;Start Choppin&#39;&quot; LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
-      "description": "Dinosaur Jr. \"Start Choppin'\" LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for Turnstile. Dinosaur ...",
-      "published_at": "2026-09-27T13:14:55Z",
-      "channel_title": "Concerts Hub",
-      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/UhItfMcn7g4/hqdefault.jpg"
-    },
-    {
-      "video_id": "tsLFRgOKmrY",
-      "title": "Dinosaur Jr. &quot;Feel the Pain&quot; LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
-      "description": "Dinosaur Jr. \"Feel the Pain\" LIVE at Thompson's Point in Portland, Maine on September 26, 2026 opening for Turnstile. Dinosaur ...",
-      "published_at": "2026-09-27T12:48:50Z",
-      "channel_title": "Concerts Hub",
-      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/tsLFRgOKmrY/hqdefault.jpg"
-    },
-    {
-      "video_id": "uqJ5jflbW6Q",
-      "title": "Lou Barlow \u201cTrue Hardcore\u201d (Sebadoh Song) LIVE | Thompson&#39;s Point Portland, ME | September 26, 2026",
-      "description": "Lou Barlow opens Fiddlehead's set with Sebadoh's \"True Harcore\" LIVE at Thompson's Point in Portland, Maine on September 26 ...",
-      "published_at": "2026-09-27T10:30:38Z",
-      "channel_title": "Concerts Hub",
-      "channel_id": "UCyvM2pui-AIrtogIEv4qNmQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/uqJ5jflbW6Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "EB55Mayfb1Q",
-      "title": "Carpet company x Dinosaur Jr collab this weekend #shorts #viral #fashion #video #streetwear #skate",
-      "description": "",
-      "published_at": "2026-09-25T23:35:19Z",
-      "channel_title": "REALSOLE",
-      "channel_id": "UCZrtoC5ziTzjZWkL1jsOxiQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/EB55Mayfb1Q/hqdefault.jpg"
-    },
-    {
-      "video_id": "9ERZXSVT604",
-      "title": "Scott&#39;s HS Punk Band Became Dinosaur Jr (VonPod Clip)",
-      "description": "frenchyandthepunk @GuitarmyofOne #frenchyandthepunk #deepwound #dinosaurjr #hardcorepunk #jmascis #sebadoh #punk ...",
-      "published_at": "2026-09-25T18:19:58Z",
-      "channel_title": "Vonesper Studios",
-      "channel_id": "UCXtliSVk-gO7Qrnsqs-ykTw",
-      "thumbnail_url": "https://i.ytimg.com/vi/9ERZXSVT604/hqdefault.jpg"
-    },
-    {
-      "video_id": "Hw3JIVKzZVs",
-      "title": "Sebadoh - Beauty of the Ride (Alternate Version) [Official Audio]",
-      "description": "\"Beauty of the Ride (Alternate Version)\" by Sebadoh from 'Harmacy (30th Anniversary Expanded Edition)' out November 20, 2026 ...",
-      "published_at": "2026-09-24T13:00:37Z",
-      "channel_title": "Sub Pop",
-      "channel_id": "UCsgEkEWaXKQwrhlLHFbcQFw",
-      "thumbnail_url": "https://i.ytimg.com/vi/Hw3JIVKzZVs/hqdefault.jpg"
     },
     {
       "video_id": "2kwXxtQKbpc",
@@ -790,121 +709,193 @@
       "thumbnail_url": "https://i.ytimg.com/vi/2kwXxtQKbpc/hqdefault.jpg"
     },
     {
-      "video_id": "0iDMBexNtPY",
-      "title": "Dinosaur Jr. - &quot;Just Like Heaven&quot; live in Germany (1997) #dinosaurjr #jmascis #90salternative",
-      "description": "Dinosaur Jr. plays \"Just Like Heaven\" live in Germany in 1997. The band's cover of the famous song by The Cure fast became a ...",
-      "published_at": "2026-09-21T23:20:04Z",
-      "channel_title": "Channel 80",
-      "channel_id": "UC57ov99ruLVkQTskhRqK9Ow",
-      "thumbnail_url": "https://i.ytimg.com/vi/0iDMBexNtPY/hqdefault.jpg"
-    },
-    {
-      "video_id": "X-AjvfUYnRQ",
-      "title": "Favourite albums released on 18 September #thebeachboys #thestranglers #dinosaurjr #chriscornell",
-      "description": "Good Vibrations by The Beach Boys She's Slipping Away by The Stranglers Watch The Corners by Dinosaur Jr. Gun-Shy by ...",
-      "published_at": "2026-09-18T19:04:01Z",
-      "channel_title": "the marble sun",
-      "channel_id": "UCgzbEy5F0JmEfo65JaenoeQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/X-AjvfUYnRQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "oA-2FT3vIS0",
-      "title": "Dinosaur Jr. - Live at Reeperbahn Festival 2009",
-      "description": "Hamburg, Germany Reeperbahn Festival 24/09/09 The line-up: J Mascis - vocals, guitar Lou Barlow - bass guitar Murph - drums ...",
-      "published_at": "2026-09-17T14:32:01Z",
+      "video_id": "P82JCA4QGqE",
+      "title": "Dinosaur Jr. - Broke the Bubble (bonus track)",
+      "description": "Bonus track on the Japanese release of There Near (2026). Also known as \"Turning Sour\" on the 7\".",
+      "published_at": "2026-09-07T15:46:30Z",
       "channel_title": "Tiago Laranjo",
       "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
-      "thumbnail_url": "https://i.ytimg.com/vi/oA-2FT3vIS0/hqdefault.jpg"
+      "thumbnail_url": "https://i.ytimg.com/vi/P82JCA4QGqE/hqdefault.jpg"
     },
     {
-      "video_id": "Sl2_cZfUlY0",
-      "title": "Dino Jr and Neil Young",
-      "description": "Separated at birth? #dinosaurjr #neilyoung #music @JMascisOfficial.",
-      "published_at": "2026-09-14T14:38:54Z",
-      "channel_title": "Jack Rabbit Music",
-      "channel_id": "UCNvNmqEXEf8JctMULyRpl_A",
-      "thumbnail_url": "https://i.ytimg.com/vi/Sl2_cZfUlY0/hqdefault.jpg"
+      "video_id": "fRExrkZS2Og",
+      "title": "Dinosaur Jr. - Stay Warm (bonus track)",
+      "description": "Bonus track on the Japanese release of There Near (2026). Also on a bonus 7\" on the Secretly Store vinyl release.",
+      "published_at": "2026-09-07T15:42:49Z",
+      "channel_title": "Tiago Laranjo",
+      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
+      "thumbnail_url": "https://i.ytimg.com/vi/fRExrkZS2Og/hqdefault.jpg"
     },
     {
-      "video_id": "9bsBpb8pEKI",
-      "title": "Dinosaur Jr - Feel the Pain (1994) | People Remember The Golf First",
-      "description": "Dinosaur Jr - Feel the Pain (1994) Numbness described from inside it, where even the complaint sounds tired. Go listen to them.",
-      "published_at": "2026-09-14T02:00:37Z",
-      "channel_title": "The Next Radio",
-      "channel_id": "UC1rri5ML24tedIMN8IyDWhg",
-      "thumbnail_url": "https://i.ytimg.com/vi/9bsBpb8pEKI/hqdefault.jpg"
+      "video_id": "YkW99tNj3gA",
+      "title": "Dinosaur Jr. - There Near (Full Album) 2026",
+      "description": "Finally! The sixth studio album Dinosaur Jr. have recorded in the 20 years since their triumphal rebirth. There have been several ...",
+      "published_at": "2026-09-07T09:16:22Z",
+      "channel_title": "krock",
+      "channel_id": "UCqjfo8DKAQUAutYdi_1fesA",
+      "thumbnail_url": "https://i.ytimg.com/vi/YkW99tNj3gA/hqdefault.jpg"
     },
     {
-      "video_id": "i86nXqnx2pE",
-      "title": "Despu\u00e9s de 40 a\u00f1os, Dinosaur Jr. sigue rompiendo. \u2018There Near\u2019 es la prueba de ello. \ud83d\udd25",
-      "description": "therenear #dinosaurjr #indierock #altrock.",
-      "published_at": "2026-09-14T00:49:17Z",
-      "channel_title": "Music\u00f3logos",
-      "channel_id": "UCPVDDr7SpWPEGfD8da-uSTQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/i86nXqnx2pE/hqdefault.jpg"
+      "video_id": "1sfqZVBCEX8",
+      "title": "Lou Barlow&#39;s 60th birthday variety show bash at the Shea Theater Turners Falls MA , August 7, 2026",
+      "description": "NOT PART ONE, it's the whole show!! .. featuring Frank Black, Adam Green, Jeffrey Lewis, members of Dinosaur Jr, Guided By ...",
+      "published_at": "2026-09-05T14:33:54Z",
+      "channel_title": "Lou Barlow",
+      "channel_id": "UCONQk7KuRpH8E3Z7rWH4Hpw",
+      "thumbnail_url": "https://i.ytimg.com/vi/1sfqZVBCEX8/hqdefault.jpg"
     },
     {
-      "video_id": "L31P_0BkMt8",
-      "title": "\ud835\udc13\ud835\udc21\ud835\udc1e \ud835\udc26\ud835\udc28\ud835\udc2c\ud835\udc1a\ud835\udc2c\ud835\udc1a\ud835\udc2b\ud835\udc2e\ud835\udc2c \ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc2d (\ud835\udc26\ud835\udc1a\ud835\udc1d\ud835\udc1e \ud835\udc1a \ud835\udc27\ud835\udc1e\ud835\udc30 \ud835\udc2d\ud835\udc2b\ud835\udc1e\ud835\udc27\ud835\udc1d?) #dinosaur #fypp #trend #dinosaurjr #dinopark",
+      "video_id": "kCMWPKm5Aqk",
+      "title": "How to play Everything At Once by Dinosaur Jr. #guitar #tutorial #dinosaurjr",
+      "description": "My website: www.JohnTeachesGuitar.com Patreon: https://www.patreon.com/cw/johnmcnicholas What's your favorite Dinosaur ...",
+      "published_at": "2026-09-03T23:00:11Z",
+      "channel_title": "John McNicholas Guitar",
+      "channel_id": "UC3U9kOr4NWl939S1H91oNcQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/kCMWPKm5Aqk/hqdefault.jpg"
+    },
+    {
+      "video_id": "DJceWJbaRL4",
+      "title": "Dinosaur Jr. - Freak Scene (Bass Cover With Tabs)",
+      "description": "Support the channel at: \u27a1Patreon: https://www.patreon.com/NicolleDias \u27a1Ko-fi: https://ko-fi.com/nbordeaux.",
+      "published_at": "2026-09-02T09:41:14Z",
+      "channel_title": "nicolle.mp3",
+      "channel_id": "UCEqd1m56drOQRYkgZK-puzg",
+      "thumbnail_url": "https://i.ytimg.com/vi/DJceWJbaRL4/hqdefault.jpg"
+    },
+    {
+      "video_id": "o44WqW4CpQU",
+      "title": "Dinosaur Jr. Green Mind turns 35! \ud83e\udd96",
+      "description": "Released in 1991 as the alternative rock scene exploded worldwide, Green Mind took Dinosaur Jr.'s unmistakable sound to a ...",
+      "published_at": "2026-09-01T18:00:12Z",
+      "channel_title": "Cherry Red Records",
+      "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
+      "thumbnail_url": "https://i.ytimg.com/vi/o44WqW4CpQU/hqdefault.jpg"
+    },
+    {
+      "video_id": "rmLzVu2u_wE",
+      "title": "Dinosaur Jr. -&quot;Freak Scene&quot; - live Tompkins Square Park NYC 8/28/26",
+      "description": "video by Paul Papadeas #jmascis #dinosaurjr #nyc #livemusic.",
+      "published_at": "2026-08-30T18:08:07Z",
+      "channel_title": "Sojourn Radio",
+      "channel_id": "UC9nEbbgyB0rIfScsOF3O9RQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/rmLzVu2u_wE/hqdefault.jpg"
+    },
+    {
+      "video_id": "jPnc64svifo",
+      "title": "Dinosaur Jr. - In A Jar at Tompkins Square Park on August 28, 2026",
       "description": "",
-      "published_at": "2026-09-13T17:04:41Z",
-      "channel_title": "Muktho's diary! \ud83e\ude77",
-      "channel_id": "UCPlLyWK4mj2h5CRYI1kN1zA",
-      "thumbnail_url": "https://i.ytimg.com/vi/L31P_0BkMt8/hqdefault.jpg"
+      "published_at": "2026-08-29T04:36:34Z",
+      "channel_title": "Dean Keim",
+      "channel_id": "UCgPsPjWdbV3-yVGiuhrQjEw",
+      "thumbnail_url": "https://i.ytimg.com/vi/jPnc64svifo/hqdefault.jpg"
     },
     {
-      "video_id": "ZAV4K079kjY",
-      "title": "M\u00fasicas pra correr #21 \ud83c\udfa7\ud83c\udfc3\ud83c\udffc Dinosaur Jr - The Wagon",
-      "description": "Saiu \u00e1lbum novo do Dinosaur Jr, mas como n\u00e3o tem letra ainda no Spotify, coloco outra op\u00e7\u00e3o de um cl\u00e1ssico deles. T\u00e1 a\u00ed uma ...",
-      "published_at": "2026-09-13T13:55:53Z",
-      "channel_title": "Gui Schneider",
-      "channel_id": "UC7cTYl7aAc1nPTttZFTbGHg",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZAV4K079kjY/hqdefault.jpg"
+      "video_id": "qaT-7LNbqgU",
+      "title": "J Mascis reacts to Dinosaur Jr. music videos",
+      "description": "JETZT DEN KANAL ABONNIEREN: http://bit.ly/DiffusAbo For more than 40 years, @dinosaurjrtv has been about more than just ...",
+      "published_at": "2026-08-28T14:00:06Z",
+      "channel_title": "DIFFUS",
+      "channel_id": "UC4o-mujs4McofztN_9hArjw",
+      "thumbnail_url": "https://i.ytimg.com/vi/qaT-7LNbqgU/hqdefault.jpg"
     },
     {
-      "video_id": "wkglHINsRDA",
-      "title": "Dinosaur Jr - Freak Scene | 1988 Top 100 \ud83c\udfb6\u2728\ud83d\udcfc | 80s nostalgia \ud83e\udea9 #slackerrock",
-      "description": "1988 Top 100 \u2728     | 57. Dinosaur Jr - Freak Scene #indierock #80s #noisepop #jmascis #musicshorts #punkrock #80smusic.",
-      "published_at": "2026-09-12T22:26:50Z",
-      "channel_title": "Nikita Monroe",
-      "channel_id": "UC8Irf5DZx4JJPron5rdI8Lw",
-      "thumbnail_url": "https://i.ytimg.com/vi/wkglHINsRDA/hqdefault.jpg"
+      "video_id": "e60GjnFW9dY",
+      "title": "DINOSAUR JR - Live 2026 at Capitol Theatre in Davenport IA",
+      "description": "Alternative rock legends DINOSAUR JR drowned the Capitol Theatre in deafening waves of scorching guitars and thunderous ...",
+      "published_at": "2026-08-06T19:00:04Z",
+      "channel_title": "Create Destroy Enjoy",
+      "channel_id": "UCNuvcqQ5MOaxjXiCThNP2GA",
+      "thumbnail_url": "https://i.ytimg.com/vi/e60GjnFW9dY/hqdefault.jpg"
     },
     {
-      "video_id": "gc07T0gOm9I",
-      "title": "\ud83e\udd96 Dinosaurs Are Back! \ud83d\ude31 | The Most Amazing Dinosaur Adventure | USA Trending #dinosaurjr",
-      "description": "Step into the prehistoric world of dinosaurs! Watch this amazing cinematic dinosaur adventure filled with giant dinosaurs, ...",
-      "published_at": "2026-09-10T00:01:23Z",
-      "channel_title": "Nigam video Fact",
-      "channel_id": "UC5YGxcrYCN99n_xWrLWj2jw",
-      "thumbnail_url": "https://i.ytimg.com/vi/gc07T0gOm9I/hqdefault.jpg"
+      "video_id": "8DjiBdwLmTM",
+      "title": "Dinosaur Jr&#39;s Brief BRUSH With Fame",
+      "description": "The story behind Dinosaur's Brief Brush with fame in the mid 90's with without a sound. Podcast on Apple Podcasts ...",
+      "published_at": "2026-08-01T14:00:23Z",
+      "channel_title": "Rock N' Roll True Stories",
+      "channel_id": "UCeYuZB53ge-tdHWUDF87xQw",
+      "thumbnail_url": "https://i.ytimg.com/vi/8DjiBdwLmTM/hqdefault.jpg"
     },
     {
-      "video_id": "2WH2H3MUikY",
-      "title": "Riffs Eternos: Dinosaur Jr. - Feel The Pain (1994) #grunge #alternativerock #90s #90srock #riffs",
-      "description": "J Mascis compuso el riff de \"Feel the Pain\" en plena carretera, probablemente durante la gira que Dinosaur Jr. hizo como ...",
-      "published_at": "2026-09-09T00:00:09Z",
-      "channel_title": "NaTA",
-      "channel_id": "UCkFIMFqVXZPmUnV7-mt2-4g",
-      "thumbnail_url": "https://i.ytimg.com/vi/2WH2H3MUikY/hqdefault.jpg"
+      "video_id": "7N3B5XeP4mw",
+      "title": "Was This The MOMENT Dinosaur Jr. Sold Out?",
+      "description": "The story behind Dinosaur Jr's breakthrough record 1994's Without a Sound which featured Feel The Pain Dinosaur Jr. Japan ...",
+      "published_at": "2026-07-30T14:00:05Z",
+      "channel_title": "Rock N' Roll True Stories",
+      "channel_id": "UCeYuZB53ge-tdHWUDF87xQw",
+      "thumbnail_url": "https://i.ytimg.com/vi/7N3B5XeP4mw/hqdefault.jpg"
     },
     {
-      "video_id": "4UL_KbdzvSQ",
-      "title": "Spring Tour 2027 By Dinosaur Jr. Is On!\ud83c\udfb6",
-      "description": "After releasing the new \"There Near\" album, US indie noise rockers Dinosaur Jr. have extended their North American run into ...",
-      "published_at": "2026-09-08T19:00:35Z",
-      "channel_title": "Concerts50",
-      "channel_id": "UC4586E5rDsRbe-hJoJJMeVg",
-      "thumbnail_url": "https://i.ytimg.com/vi/4UL_KbdzvSQ/hqdefault.jpg"
+      "video_id": "oZsDen8moug",
+      "title": "Dinosaur Jr.\u2019s Start Choppin&#39;\u2026 one of the most iconic rock riffs ever?",
+      "description": "Dinosaur Jr.'s Start Choppin'\u2026 one of the most iconic rock riffs ever? That opening lead line sums up J Mascis - fuzzy, melodic, ...",
+      "published_at": "2026-07-29T18:00:20Z",
+      "channel_title": "Cherry Red Records",
+      "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
+      "thumbnail_url": "https://i.ytimg.com/vi/oZsDen8moug/hqdefault.jpg"
     },
     {
-      "video_id": "reF5U6KaRMY",
-      "title": "@dinosaurjrtv @JMascisOfficial \u201cCrumble\u201d #dinosaurjr #drumcover #halftime",
+      "video_id": "FvaQhoRoZQE",
+      "title": "DINOSAUR JR.   live.   7/24/26.  Lansing- GREWAL HALL",
+      "description": "DINOSAUR Jr. live. in. Lansing, 7/24/26 Grewal Hall.",
+      "published_at": "2026-07-29T16:44:11Z",
+      "channel_title": "TheWendyHour",
+      "channel_id": "UCU5DAhHmDvNxkpBhGRzw58Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/FvaQhoRoZQE/hqdefault.jpg"
+    },
+    {
+      "video_id": "zS-yOS2HEGk",
+      "title": "Dinosaur Jr. - Blowin&#39; Up (Lyric Visualizer)",
+      "description": "Blowin' Up\u201d by Dinosaur Jr. from 'There Near' on Jagjaguwar Lyric video by Rena Johnson Stream \u201cBlowin' Up\u201d: ...",
+      "published_at": "2026-07-29T14:00:25Z",
+      "channel_title": "dinosaurjnr",
+      "channel_id": "UCfo74Lcf9bcQJd2MMq-XBzw",
+      "thumbnail_url": "https://i.ytimg.com/vi/zS-yOS2HEGk/hqdefault.jpg"
+    },
+    {
+      "video_id": "EhfJLbVpOv8",
+      "title": "Dinosaur Jr 7/26/26 Kemba Live Columbus Ohio",
+      "description": "dinosaurjr #kembalive #bandofhorses.",
+      "published_at": "2026-07-28T12:20:40Z",
+      "channel_title": "Tasteforfree",
+      "channel_id": "UCcJ84JUUWsOUZgx65SHsLBg",
+      "thumbnail_url": "https://i.ytimg.com/vi/EhfJLbVpOv8/hqdefault.jpg"
+    },
+    {
+      "video_id": "UjkD7WfIafs",
+      "title": "J Mascis on making Where You Been...",
+      "description": "J Mascis on making Where You Been... After the largely solo-recorded Green Mind, J brought in drummer Murph and new bassist ...",
+      "published_at": "2026-07-20T18:00:13Z",
+      "channel_title": "Cherry Red Records",
+      "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
+      "thumbnail_url": "https://i.ytimg.com/vi/UjkD7WfIafs/hqdefault.jpg"
+    },
+    {
+      "video_id": "LQhU107jifo",
+      "title": "Dinosaur Jr. &quot;Out There&quot;... soundtracking a Quiksilver ad",
+      "description": "Dinosaur Jr. \"Out There\"... soundtracking a Quiksilver ad. The track's from Where You Been, our Album of the Month - the classic ...",
+      "published_at": "2026-07-14T18:00:05Z",
+      "channel_title": "Cherry Red Records",
+      "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
+      "thumbnail_url": "https://i.ytimg.com/vi/LQhU107jifo/hqdefault.jpg"
+    },
+    {
+      "video_id": "oOiP_4Ri3Yg",
+      "title": "Dinosaur Jr\u2019s Where You Been \ud83d\udcbf\ud83d\udd25",
+      "description": "dinosaurjrtv's Where You Been This month's Album of the Month is the 1993 record that helped shape the sound of ...",
+      "published_at": "2026-07-02T16:00:27Z",
+      "channel_title": "Cherry Red Records",
+      "channel_id": "UCxR7i_S5yMuTKkzEwRXdb9A",
+      "thumbnail_url": "https://i.ytimg.com/vi/oOiP_4Ri3Yg/hqdefault.jpg"
+    },
+    {
+      "video_id": "uQ-pED04mO0",
+      "title": "Dinosaur Jr - Several Got Away (guitar cover)",
       "description": "",
-      "published_at": "2026-09-07T21:22:10Z",
-      "channel_title": "Name",
-      "channel_id": "UCgW_xA5elZV3HRdKm1Mbtiw",
-      "thumbnail_url": "https://i.ytimg.com/vi/reF5U6KaRMY/hqdefault.jpg"
+      "published_at": "2026-07-01T23:40:08Z",
+      "channel_title": "AltRockGtr",
+      "channel_id": "UCnOOcWtCF9OQhebBNcM5Low",
+      "thumbnail_url": "https://i.ytimg.com/vi/uQ-pED04mO0/hqdefault.jpg"
     },
     {
       "video_id": "vkYn0raGEbI",
@@ -1474,6 +1465,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-C_4AK134Vk/hqdefault.jpg"
     },
     {
+      "video_id": "BMwKPzN7tCQ",
+      "title": "Lou Barlow - Soul and Fire - Live Acoustic Portland Maine 8/10/21 #sebadoh #loubarlow #sebadoh",
+      "description": "",
+      "published_at": "2024-12-25T04:40:40Z",
+      "channel_title": "David Red Wolf",
+      "channel_id": "UCy3ZncP_TNITXXLfjCqVk9Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/BMwKPzN7tCQ/hqdefault.jpg"
+    },
+    {
       "video_id": "roYYcKVt0gI",
       "title": "Dinosaur Jr. - Seventytwohundredseconds (Full Album)",
       "description": "Full vinyl rip of the awesome Cherry Red Records release. Go buy the record and support them! :) Tracklist: 00:00 Severed Lips ...",
@@ -1589,6 +1589,15 @@
       "channel_title": "Roman Guitarist",
       "channel_id": "UCTMbS9kLKzgjRQoPuW1MaFQ",
       "thumbnail_url": "https://i.ytimg.com/vi/CkAHCMtQzIk/hqdefault.jpg"
+    },
+    {
+      "video_id": "F62iFlHtj5s",
+      "title": "I Don&#39;t Think",
+      "description": "Provided to YouTube by Cherry Red Records I Don't Think \u00b7 Dinosaur Jr. Hand It Over \u2117 1997 Warner Music UK Ltd Vocals: ...",
+      "published_at": "2024-08-29T16:00:16Z",
+      "channel_title": "Dinosaur Jr - Topic",
+      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
+      "thumbnail_url": "https://i.ytimg.com/vi/F62iFlHtj5s/hqdefault.jpg"
     },
     {
       "video_id": "Erk_Ss-iAn0",
@@ -1717,6 +1726,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/CozfIQhou0E/hqdefault.jpg"
     },
     {
+      "video_id": "6RsS92VaPzA",
+      "title": "Dinosaur Jr - Out There (Album Version) - Music Video",
+      "description": "The single/filmclip edit is butchered! Here's the full track :)",
+      "published_at": "2024-07-03T08:42:15Z",
+      "channel_title": "OL",
+      "channel_id": "UCmDd3VWDRU0RIkrKedqcXXQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/6RsS92VaPzA/hqdefault.jpg"
+    },
+    {
       "video_id": "vE6xcnAIK_4",
       "title": "The Long Haired Businessmen are forced to let go of Jay (Mascis)",
       "description": "",
@@ -1787,15 +1805,6 @@
       "channel_title": "The Alchemist - Topic",
       "channel_id": "UCk1i5sYwUIEAvaq2R77Tb3Q",
       "thumbnail_url": "https://i.ytimg.com/vi/uv-5X0VRMOE/hqdefault.jpg"
-    },
-    {
-      "video_id": "fovASvrYiww",
-      "title": "J&#39;s Goddaughter Fiona Joins J&#39;s Phoebe Bridgers Cover on KEXP",
-      "description": "Full KEXP performance here: https://youtu.be/Dhh04KHbhuE?si=BB6DMGo0IAkaEkFD #jmascis #subpop #kexp.",
-      "published_at": "2024-04-10T21:43:25Z",
-      "channel_title": "J Mascis",
-      "channel_id": "UCNHL4feEEfVFpUaSYpLHlkw",
-      "thumbnail_url": "https://i.ytimg.com/vi/fovASvrYiww/hqdefault.jpg"
     },
     {
       "video_id": "rUtGNIQsqH8",
@@ -2050,15 +2059,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TCw_ZN4boJ0/hqdefault.jpg"
     },
     {
-      "video_id": "qoFDBO2oays",
-      "title": "J Mascis chats with Tom Scharpling &amp; Kurt Vile",
-      "description": "In this classic clip, Tom and KURT VILE interview J MASCIS! (Originally Broadcast on January 13th, 2021) FULL VIDEO ...",
-      "published_at": "2023-07-17T07:00:19Z",
-      "channel_title": "The Best Show with Tom Scharpling",
-      "channel_id": "UC66YNeiKrfnNeHy7wyMkpOw",
-      "thumbnail_url": "https://i.ytimg.com/vi/qoFDBO2oays/hqdefault.jpg"
-    },
-    {
       "video_id": "7SBH_tU-3eg",
       "title": "The Wagon - Dinosaur Jr (Guitar Cover #267)",
       "description": "Get the Tab: https://mymusic5.com/SparkyGuitar/375873 Tab-on-Screen video for Patreon supporters: ...",
@@ -2237,15 +2237,6 @@
       "channel_title": "Premier Guitar",
       "channel_id": "UC5J-hZ4wNf7OlkzIn49LHoQ",
       "thumbnail_url": "https://i.ytimg.com/vi/BtHqU67NGLY/hqdefault.jpg"
-    },
-    {
-      "video_id": "wUtVu3iKAZU",
-      "title": "Out There - Dinosaur Jr (Guitar Cover #233)",
-      "description": "Get the Tab: https://mymusic5.com/SparkyGuitar/375840 Tab-on-Screen video for Patreon supporters: ...",
-      "published_at": "2022-12-30T16:02:57Z",
-      "channel_title": "Sparky Guitar",
-      "channel_id": "UCR8OM6seRnlh6bvZinGyyjA",
-      "thumbnail_url": "https://i.ytimg.com/vi/wUtVu3iKAZU/hqdefault.jpg"
     },
     {
       "video_id": "3po7YhCRwG0",
@@ -2536,15 +2527,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/c-f70kICCEM/hqdefault.jpg"
     },
     {
-      "video_id": "7vUG32BB6uY",
-      "title": "Dinosaur Jr. - Little Fury Things guitar cover (clean)",
-      "description": "stay till the end for the carnage say what's up at gonzaloadrianmusica@gmail.com pitch in for one of those lil phone tripods at ...",
-      "published_at": "2021-05-05T01:14:15Z",
-      "channel_title": "adrian gonz",
-      "channel_id": "UCtdI2x0y2Qii0QqI4_gKOjA",
-      "thumbnail_url": "https://i.ytimg.com/vi/7vUG32BB6uY/hqdefault.jpg"
-    },
-    {
       "video_id": "zu1sigxqRmE",
       "title": "Re-Creation: J Mascis | American Acoustasonic Jazzmaster | Fender",
       "description": "In the third episode of Re-Creation, J Mascis \u2014 lead singer, guitarist and songwriter for Dinosaur Jr. \u2014 sends his American ...",
@@ -2698,6 +2680,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/FZ9SD9eclDY/hqdefault.jpg"
     },
     {
+      "video_id": "MWHmTMCnxdU",
+      "title": "Dinosaur Jr. - Get Me guitar cover (lead part)",
+      "description": "very fun to play cheers.",
+      "published_at": "2020-05-09T07:04:56Z",
+      "channel_title": "adrian gonz",
+      "channel_id": "UCtdI2x0y2Qii0QqI4_gKOjA",
+      "thumbnail_url": "https://i.ytimg.com/vi/MWHmTMCnxdU/hqdefault.jpg"
+    },
+    {
       "video_id": "3y4buBmVtjQ",
       "title": "The Fantastic Squier J. Mascis Jazzmaster Neck",
       "description": "I have the same Squier J. Mascis Jazzmaster model neck on three of my guitars. I think they're great, and this video talks about ...",
@@ -2705,6 +2696,15 @@
       "channel_title": "Avi Bortnick",
       "channel_id": "UCAxDBLKwSltXT3czp2I12fw",
       "thumbnail_url": "https://i.ytimg.com/vi/3y4buBmVtjQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "OjQ3wiF66vk",
+      "title": "Dinosaur Jr.- Watch A Concert A Day #WithMe #StayHome #Discover #Rock #Live #Music",
+      "description": "WATCH WEDNESDAY at 1PM (PT): Don't miss Dinosaur Jr.'s mesozoic wall of sound in their 2017 Mt. Hood Stage performance ...",
+      "published_at": "2020-04-29T21:29:49Z",
+      "channel_title": "Pickathon",
+      "channel_id": "UCT8Fp9DVEu-jYSRJzZo5qUw",
+      "thumbnail_url": "https://i.ytimg.com/vi/OjQ3wiF66vk/hqdefault.jpg"
     }
   ]
 }
