@@ -2,10 +2,30 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-07 12:01 UTC",
-  "fetched_at_iso": "2026-11-07T12:01:52Z",
+  "fetched_at_utc": "2026-11-08 00:03 UTC",
+  "fetched_at_iso": "2026-11-08T00:03:46Z",
   "result_count": 300,
   "playlists": [
+    {
+      "playlist_id": "PLfE_FdVpef58",
+      "title": "there near dinosaur .jr",
+      "description": "",
+      "published_at": "2026-11-06T11:37:38Z",
+      "channel_title": "jochenlange030",
+      "channel_id": "UCubhCWFbuzEHLHzxnhRTqPg",
+      "thumbnail_url": "https://i.ytimg.com/vi/gEm7cqkV7eU/hqdefault.jpg",
+      "video_count": 11
+    },
+    {
+      "playlist_id": "PLfdzhJn3Szh8",
+      "title": "dinosaur jr there near tour setlist",
+      "description": "",
+      "published_at": "2026-11-06T11:31:54Z",
+      "channel_title": "trippygid",
+      "channel_id": "UCe6nZkRyydfJXVfeZRFWuhw",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
+      "video_count": 29
+    },
     {
       "playlist_id": "PLRxbOxe4cCxY",
       "title": "1993 - Dinosaur Jr. - Where You Been",
@@ -487,16 +507,6 @@
       "video_count": 14
     },
     {
-      "playlist_id": "PLEDMrUmU6jGc",
-      "title": "Dinosaur Jr. (1987) You&#39;re Living All Over Me",
-      "description": "",
-      "published_at": "2026-08-22T02:51:11Z",
-      "channel_title": "KLON Radio",
-      "channel_id": "UCoVbIxezQ01awI7qXCc_VHQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
       "playlist_id": "PLAgM6GQtNjEw",
       "title": "dinosaurjr",
       "description": "",
@@ -504,7 +514,7 @@
       "channel_title": "Crazy wyvern",
       "channel_id": "UCMweOZZybYzIneWw5WERUgA",
       "thumbnail_url": "https://i.ytimg.com/vi/z45yWIXipy8/hqdefault.jpg",
-      "video_count": 42
+      "video_count": null
     },
     {
       "playlist_id": "PLFE4khBBrcfc",
@@ -735,16 +745,6 @@
       "channel_id": "UCxMrqg2rHJme4LQX3gEnQBA",
       "thumbnail_url": "https://i.ytimg.com/vi/h2vCJW3CwYI/hqdefault.jpg",
       "video_count": 50
-    },
-    {
-      "playlist_id": "PLw6hLIED2TjqNCsVjsWP259t01KOAmsnB",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-06-02T18:06:47Z",
-      "channel_title": "Mauro D'Alo'",
-      "channel_id": "UCgZ5JT8BdgVs_r4uZ_vLY4g",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
-      "video_count": 39
     },
     {
       "playlist_id": "PLMoug7AEkM-QmYmSRGYiZcEKGCERevxDH",
@@ -1117,16 +1117,6 @@
       "video_count": 47
     },
     {
-      "playlist_id": "PLCJ1qNYcvO7sYzm4ySwHMKxvoHeDrwcKF",
-      "title": "Dinosaur Jr. - \u201cPierce the Morning Rain\u201d (Single)",
-      "description": "",
-      "published_at": "2026-01-30T04:33:52Z",
-      "channel_title": "Dara Musco",
-      "channel_id": "UCrfugiUWYRvbWrQr5nEXHqA",
-      "thumbnail_url": "https://i.ytimg.com/vi/MhKzke7W7OQ/hqdefault.jpg",
-      "video_count": 53
-    },
-    {
       "playlist_id": "PLiWiUvLUBXdpnYJ7W5m13O3TEWtcWf4pS",
       "title": "Dinosaur Jr.  Emptiness at The Sinclair | FULL ALBUM",
       "description": "",
@@ -1437,16 +1427,6 @@
       "video_count": 7
     },
     {
-      "playlist_id": "PLWFdQT5wGqrJHYeJ-CXDcU_9XrOHpymKe",
-      "title": "Sebadoh - Defend Yourself (Full Album)",
-      "description": "The full album for Defend Yourself / Music by Sebadoh playlist Sebadoh - Defend Yourself / Sebadoh Full Album Defend Yourself ...",
-      "published_at": "2025-08-09T15:58:10Z",
-      "channel_title": "CrossMarian",
-      "channel_id": "UC3OSl2NdKmWdlxprVolwKkA",
-      "thumbnail_url": "https://i.ytimg.com/vi/UBWWL0nh9kI/hqdefault.jpg",
-      "video_count": 15
-    },
-    {
       "playlist_id": "PL7tCPNRlAF2Ysi9UlNapSDGVH5ulYiAEV",
       "title": "Dinosaur Jr. - I Bet On Sky (Full Album)",
       "description": "The full album for I Bet On Sky / Music by Dinosaur Jr. playlist Dinosaur Jr. - I Bet On Sky / Dinosaur Jr. Full Album I Bet On Sky ...",
@@ -1735,16 +1715,6 @@
       "channel_id": "UCn2eKHRxnKD-6ZME7SoKxyQ",
       "thumbnail_url": "https://i.ytimg.com/vi/FpsGcnLEZbk/hqdefault.jpg",
       "video_count": 10
-    },
-    {
-      "playlist_id": "PLWglaGIYe9b7o6Niz-VDcVMdyQo8_u7n-",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2025-06-27T06:13:42Z",
-      "channel_title": "Michael McKinney",
-      "channel_id": "UCUWz87ZKdaHlx87vB4OFguA",
-      "thumbnail_url": "https://i.ytimg.com/vi/X6-50glOqmY/hqdefault.jpg",
-      "video_count": 48
     },
     {
       "playlist_id": "PLf64Ynv2Hl9HxtEGN5v-bDOSMw6NSy8P9",
@@ -2085,6 +2055,16 @@
       "channel_id": "UCdCQxJLW7NEHzNiHH5aDBCQ",
       "thumbnail_url": "https://i.ytimg.com/vi/JXkN3nJyWEA/hqdefault.jpg",
       "video_count": 14
+    },
+    {
+      "playlist_id": "PLitKtRQYOI1i2ZYl3x9KeQTrsbP3VyZRM",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-07-04T23:05:28Z",
+      "channel_title": "Koopa",
+      "channel_id": "UCDw5vcRNul5AkudrBDZ3-eA",
+      "thumbnail_url": "https://i.ytimg.com/vi/9WAgITmqLew/hqdefault.jpg",
+      "video_count": 40
     },
     {
       "playlist_id": "PLZypoF04ZcKd0hAiTfOglz9qF271fazOx",
@@ -3005,6 +2985,26 @@
       "channel_id": "UC1uTU8Qf20g7zzbc9NJyp2A",
       "thumbnail_url": "https://i.ytimg.com/vi/37H4LxE9v3E/hqdefault.jpg",
       "video_count": 145
+    },
+    {
+      "playlist_id": "PLqDGvd-6tzUs1EM3_X8FAcysoypcIyN4r",
+      "title": "Dinosaur Jr. - I Bet On The Sky - Full Album",
+      "description": "",
+      "published_at": "2021-01-21T04:26:23Z",
+      "channel_title": "Gerald Morris",
+      "channel_id": "UCEVxXOEgf2ZS0WwK9V_Vvhg",
+      "thumbnail_url": "https://i.ytimg.com/vi/nB8PKWGeXpA/hqdefault.jpg",
+      "video_count": 13
+    },
+    {
+      "playlist_id": "PLFV4Gr8OvH_N39p-DjaxsdZsMgEwsxkzV",
+      "title": "Dinosaur Jr Best Imaginary Mixtape",
+      "description": "https://www.dinosaurjr.com.",
+      "published_at": "2021-01-13T01:53:23Z",
+      "channel_title": "Andrew Bullock",
+      "channel_id": "UCXayJVTj22Z6po2SVwsJn4Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/gHnPaGFzhTY/hqdefault.jpg",
+      "video_count": 19
     }
   ]
 }
