@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-11 00:03 UTC",
-  "fetched_at_iso": "2026-11-11T00:03:49Z",
+  "fetched_at_utc": "2026-11-11 12:01 UTC",
+  "fetched_at_iso": "2026-11-11T12:01:56Z",
   "result_count": 300,
   "playlists": [
     {
@@ -14,7 +14,7 @@
       "channel_title": "Tony Tone",
       "channel_id": "UCjqzWDQUwPlAJu8aGdTWELg",
       "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
-      "video_count": 33
+      "video_count": 37
     },
     {
       "playlist_id": "PLMPxbwHGxW_I",
@@ -114,7 +114,7 @@
       "channel_title": "Da_big_spicy",
       "channel_id": "UC-RhETFyCQKCqU_4bAT03cw",
       "thumbnail_url": "https://i.ytimg.com/vi/e1ABbQcjyz8/hqdefault.jpg",
-      "video_count": 28
+      "video_count": 30
     },
     {
       "playlist_id": "PLcmNs-WjVBeA",
@@ -247,6 +247,16 @@
       "video_count": 15
     },
     {
+      "playlist_id": "PLW991hfZ2O9I",
+      "title": "Dinosaur jr \ud83c\udf12\ud83e\udd18",
+      "description": "",
+      "published_at": "2026-10-15T05:53:15Z",
+      "channel_title": "Wish to see 90",
+      "channel_id": "UCSK3PEMVSnFblqyp9wFBKww",
+      "thumbnail_url": "https://i.ytimg.com/vi/bJIeK0P9VLo/hqdefault.jpg",
+      "video_count": 9
+    },
+    {
       "playlist_id": "PLFD4Q7bPFHEY",
       "title": "Dinosaur Jr",
       "description": "",
@@ -305,16 +315,6 @@
       "channel_id": "UCkDDKo3aOzqvtWGa7goFRJA",
       "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
       "video_count": 11
-    },
-    {
-      "playlist_id": "PLA8kJk1K1OII",
-      "title": "Dinosaur jr.",
-      "description": "",
-      "published_at": "2026-10-01T15:00:10Z",
-      "channel_title": "Dude",
-      "channel_id": "UCtIW8SO4oxoHvM8zKD6dl8A",
-      "thumbnail_url": "https://i.ytimg.com/vi/_PFd6Ag2tDs/hqdefault.jpg",
-      "video_count": 94
     },
     {
       "playlist_id": "PLci5o7bvSVQ0",
@@ -1747,6 +1747,16 @@
       "video_count": 12
     },
     {
+      "playlist_id": "PLCfC1uvSd6khhXnT7-lVnCzMtMsu5C-Or",
+      "title": "Dinosaur Jr. - Ear Bleeding Country: The Best of Dinosaur Jr.",
+      "description": "Compilation album released in 2001 as part of the Warner Archives series.",
+      "published_at": "2025-05-20T03:23:19Z",
+      "channel_title": "DaGMan",
+      "channel_id": "UCTfhdVOyVdoHQ_HuncZ-DDQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/FLknODB7Fuc/hqdefault.jpg",
+      "video_count": 19
+    },
+    {
       "playlist_id": "PL10qu4wIw2vp85ytShn9XYAoWc6bWosEN",
       "title": "j. mascis picks (NTS 10 curated by mbv)",
       "description": "https://www.nts.live/shows/nts-10-my-bloody-valentine/episodes/j-mascis-19th-april-2021.",
@@ -2035,6 +2045,16 @@
       "channel_id": "UCJFxhYfsJRNoWCUydrTdLnA",
       "thumbnail_url": "https://i.ytimg.com/vi/MwmkErJ35O4/hqdefault.jpg",
       "video_count": 14
+    },
+    {
+      "playlist_id": "PL2cBCCOPU34H6ZHaHZxmb0uulqfylswb0",
+      "title": "EAR-BLEEDING COUNTRY: THE BEST OF DINOSAUR JR. (2001)",
+      "description": "",
+      "published_at": "2024-07-16T23:17:37Z",
+      "channel_title": "blonkeddle harvey",
+      "channel_id": "UCK8fcEXMQxYtwS0sQEpocmA",
+      "thumbnail_url": "https://i.ytimg.com/vi/FLknODB7Fuc/hqdefault.jpg",
+      "video_count": 19
     },
     {
       "playlist_id": "PLVOGnIbP7ODTl6kk5n4xoYeSBqVq9rtaI",
@@ -2687,16 +2707,6 @@
       "video_count": 20
     },
     {
-      "playlist_id": "PLVlA7k9mkZmsEQ9NMdR90euW3glm3CckZ",
-      "title": "J Mascis",
-      "description": "",
-      "published_at": "2022-03-28T17:50:19Z",
-      "channel_title": "Mirna Valhalla",
-      "channel_id": "UCRoAXJho-d9iawQpw4-1zoA",
-      "thumbnail_url": "https://i.ytimg.com/vi/zMleorxm0h8/hqdefault.jpg",
-      "video_count": 25
-    },
-    {
       "playlist_id": "PLLJomVjCOvkijq5OCMgePfvi_OhPo7tbz",
       "title": "Dinosaur Jr",
       "description": "",
@@ -2995,16 +3005,6 @@
       "channel_id": "UCEVxXOEgf2ZS0WwK9V_Vvhg",
       "thumbnail_url": "https://i.ytimg.com/vi/nB8PKWGeXpA/hqdefault.jpg",
       "video_count": 13
-    },
-    {
-      "playlist_id": "PLFV4Gr8OvH_N39p-DjaxsdZsMgEwsxkzV",
-      "title": "Dinosaur Jr Best Imaginary Mixtape",
-      "description": "https://www.dinosaurjr.com.",
-      "published_at": "2021-01-13T01:53:23Z",
-      "channel_title": "Andrew Bullock",
-      "channel_id": "UCXayJVTj22Z6po2SVwsJn4Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/gHnPaGFzhTY/hqdefault.jpg",
-      "video_count": 19
     }
   ]
 }
