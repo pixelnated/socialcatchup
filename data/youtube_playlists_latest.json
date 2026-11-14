@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-14 00:03 UTC",
-  "fetched_at_iso": "2026-11-14T00:03:35Z",
+  "fetched_at_utc": "2026-11-14 12:01 UTC",
+  "fetched_at_iso": "2026-11-14T12:01:44Z",
   "result_count": 300,
   "playlists": [
     {
@@ -2007,6 +2007,26 @@
       "video_count": 135
     },
     {
+      "playlist_id": "PLmElE5AEv9UL8249CDAeghLb9KXhXTKkU",
+      "title": "Dinosaur Jr",
+      "description": "",
+      "published_at": "2024-08-21T11:57:29Z",
+      "channel_title": "Bryan's Songs",
+      "channel_id": "UCJFxhYfsJRNoWCUydrTdLnA",
+      "thumbnail_url": "https://i.ytimg.com/vi/MwmkErJ35O4/hqdefault.jpg",
+      "video_count": 14
+    },
+    {
+      "playlist_id": "PL2cBCCOPU34H6ZHaHZxmb0uulqfylswb0",
+      "title": "EAR-BLEEDING COUNTRY: THE BEST OF DINOSAUR JR. (2001)",
+      "description": "",
+      "published_at": "2024-07-16T23:17:37Z",
+      "channel_title": "blonkeddle harvey",
+      "channel_id": "UCK8fcEXMQxYtwS0sQEpocmA",
+      "thumbnail_url": "https://i.ytimg.com/vi/FLknODB7Fuc/hqdefault.jpg",
+      "video_count": 19
+    },
+    {
       "playlist_id": "PLVOGnIbP7ODTl6kk5n4xoYeSBqVq9rtaI",
       "title": "Dinosaur Jr",
       "description": "",
@@ -2984,26 +3004,6 @@
       "channel_title": "Stay Sharp Picks",
       "channel_id": "UCj5r1JDl633RrAvv0Zn6www",
       "thumbnail_url": "https://i.ytimg.com/vi/CWlV2Mwp_Tk/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
-      "playlist_id": "PLzjee4oo3d9sQqHLjXn5Ku31uiXG24ce1",
-      "title": "J Mascis and Dinosaur Jr",
-      "description": "",
-      "published_at": "2020-12-09T12:23:54Z",
-      "channel_title": "ProMark-5A-Oak",
-      "channel_id": "UCqFAqJQIaKaqCwIFTsUve7w",
-      "thumbnail_url": "https://i.ytimg.com/vi/QsvuWId7QGA/hqdefault.jpg",
-      "video_count": 139
-    },
-    {
-      "playlist_id": "PL6Zn8Jqxdpm0uSg9m8CWYuYxeAwoNcCEw",
-      "title": "J Mascis",
-      "description": "",
-      "published_at": "2020-10-24T11:26:20Z",
-      "channel_title": "Brian H",
-      "channel_id": "UCy2kEwR8m5XJOGfyD3TONug",
-      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
       "video_count": 10
     }
   ]
