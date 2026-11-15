@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-14 12:01 UTC",
-  "fetched_at_iso": "2026-11-14T12:01:44Z",
+  "fetched_at_utc": "2026-11-15 00:03 UTC",
+  "fetched_at_iso": "2026-11-15T00:03:46Z",
   "result_count": 300,
   "playlists": [
     {
@@ -25,6 +25,16 @@
       "channel_id": "UCusksjvnsMbKBB3PCqLnlyQ",
       "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
       "video_count": 14
+    },
+    {
+      "playlist_id": "PLQXafb3fph1U",
+      "title": "DINOSAUR JR",
+      "description": "",
+      "published_at": "2026-11-07T03:49:54Z",
+      "channel_title": "Juan Carlos Benavente",
+      "channel_id": "UCp_Yg4eFh7jJpJAx-qnjMaQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/JlG21J4JDp0/hqdefault.jpg",
+      "video_count": 7
     },
     {
       "playlist_id": "PLfE_FdVpef58",
@@ -114,7 +124,7 @@
       "channel_title": "Da_big_spicy",
       "channel_id": "UC-RhETFyCQKCqU_4bAT03cw",
       "thumbnail_url": "https://i.ytimg.com/vi/e1ABbQcjyz8/hqdefault.jpg",
-      "video_count": 32
+      "video_count": 33
     },
     {
       "playlist_id": "PLcmNs-WjVBeA",
@@ -294,7 +304,7 @@
       "channel_title": "Daniel G\u00f3mez D\u00edaz",
       "channel_id": "UCkDDKo3aOzqvtWGa7goFRJA",
       "thumbnail_url": "https://i.ytimg.com/vi/ItkZHJwmeN4/hqdefault.jpg",
-      "video_count": 11
+      "video_count": 7
     },
     {
       "playlist_id": "PLA8kJk1K1OII",
@@ -475,16 +485,6 @@
       "channel_id": "UCoVbIxezQ01awI7qXCc_VHQ",
       "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
       "video_count": 10
-    },
-    {
-      "playlist_id": "PLFE4khBBrcfc",
-      "title": "DINOSAUR JR",
-      "description": "",
-      "published_at": "2026-08-12T23:15:39Z",
-      "channel_title": "Edgardo Pinzon",
-      "channel_id": "UCOme5w-IoC10x_kT1Eulw5w",
-      "thumbnail_url": "https://i.ytimg.com/vi/NFAWpYU0cO8/hqdefault.jpg",
-      "video_count": 8
     },
     {
       "playlist_id": "PLT1stodlYwCY",
@@ -1377,6 +1377,16 @@
       "video_count": 15
     },
     {
+      "playlist_id": "PLvcyvwXUt5hHqAwaYV70hnGeNfEEJ9NeO",
+      "title": "Dinosaur Jr. - Live In The Middle East (Full Album)",
+      "description": "The full album for Live In The Middle East / Music by Dinosaur Jr. playlist Dinosaur Jr. - Live In The Middle East / Dinosaur Jr. Full ...",
+      "published_at": "2025-08-08T22:44:37Z",
+      "channel_title": "MetallicaAngel",
+      "channel_id": "UCDy2gkR0N1sj2PznMhRy-Dg",
+      "thumbnail_url": "https://i.ytimg.com/vi/8QRFdHfJC0c/hqdefault.jpg",
+      "video_count": 20
+    },
+    {
       "playlist_id": "PL7tCPNRlAF2Ysi9UlNapSDGVH5ulYiAEV",
       "title": "Dinosaur Jr. - I Bet On Sky (Full Album)",
       "description": "The full album for I Bet On Sky / Music by Dinosaur Jr. playlist Dinosaur Jr. - I Bet On Sky / Dinosaur Jr. Full Album I Bet On Sky ...",
@@ -1585,16 +1595,6 @@
       "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
       "thumbnail_url": "https://i.ytimg.com/vi/K6qPocCekJE/hqdefault.jpg",
       "video_count": 31
-    },
-    {
-      "playlist_id": "PLG-idShYpDGhzG8AX_t5RrtSrBQRYcj-5",
-      "title": "#3 - Mind Playing Tricks with J Mascis",
-      "description": "J Mascis has joined Double J for April and is digging deep into his record collection to bring you an unmissable two hours of killer ...",
-      "published_at": "2025-07-26T11:59:33Z",
-      "channel_title": "Tiago Laranjo",
-      "channel_id": "UC_93eEhH7FZRoXviOe63ASw",
-      "thumbnail_url": "https://i.ytimg.com/vi/n7SXX4ZXXFE/hqdefault.jpg",
-      "video_count": 25
     },
     {
       "playlist_id": "PLG-idShYpDGhBa5l7OzF6-lPz0XTORQNk",
