@@ -2,10 +2,19 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-17 00:03 UTC",
-  "fetched_at_iso": "2026-11-17T00:03:23Z",
+  "fetched_at_utc": "2026-11-17 12:01 UTC",
+  "fetched_at_iso": "2026-11-17T12:01:41Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "nHhjaveRXFA",
+      "title": "Whatever\u2019s Cool With Me - Dinosaur Jr. cover",
+      "description": "Title track from Dinosaur Jr.'s 1991 EP, \u201cWhatever's Cool With Me\u201d. J Mascis was and still is a huge influence on me. #dinosaurjr ...",
+      "published_at": "2026-11-17T00:18:31Z",
+      "channel_title": "Eric's Guitar Corner",
+      "channel_id": "UCvICqo2PWFgDG6QARMIsIOA",
+      "thumbnail_url": "https://i.ytimg.com/vi/nHhjaveRXFA/hqdefault.jpg"
+    },
     {
       "video_id": "B93yCwOwqsI",
       "title": "My J Mascis Big Muff needed a purple LED!",
@@ -79,15 +88,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/NT5SsyhuGJE/hqdefault.jpg"
     },
     {
-      "video_id": "a9vqtwUS9nU",
-      "title": "Dinosaur Jr. - The Lung (1) (piano backing track)",
-      "description": "This video features \"The Lung (1)\" by Dinosaur Jr.. My sincere appreciation to these musicians. Copyright Notice: All rights to the ...",
-      "published_at": "2026-11-14T03:16:56Z",
-      "channel_title": "Piano Echo Minus Tracks",
-      "channel_id": "UCu_xLt8nIaOuN_iVunnd00A",
-      "thumbnail_url": "https://i.ytimg.com/vi/a9vqtwUS9nU/hqdefault.jpg"
-    },
-    {
       "video_id": "5i9J_7fm82I",
       "title": "Funny Butterfly Chase \ud83e\udd8b | Arsh Dino, Rexy &amp; Dino Girl | Cute Dinosaur Shorts #dinosaurjr #dinostory",
       "description": "",
@@ -133,15 +133,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/-Urhi873Dm8/hqdefault.jpg"
     },
     {
-      "video_id": "Yt1OtECGwaQ",
-      "title": "October Brookies\ud83d\udde3\ufe0f #fishing #troutfishing  #shorts Song: Start Choppin\u2019 - Dinosaur Jr.",
-      "description": "fishing #shorts last day of trout season mid October central Wisconsin. 15 in. Female swiped it #troutfishing.",
-      "published_at": "2026-11-13T00:27:44Z",
-      "channel_title": "SpringBrookFishingWI",
-      "channel_id": "UCib5ODKesrFqaUziz7VQmHg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Yt1OtECGwaQ/hqdefault.jpg"
-    },
-    {
       "video_id": "5mJnBCeWUvE",
       "title": "#albums #vinyl #records #smerz #theradiodept #nickdrake ##dinosaurjr #catpower",
       "description": "",
@@ -149,15 +140,6 @@
       "channel_title": "Jackson Keeler",
       "channel_id": "UCNYvTxRaUmzwNOVPLhBR5Vw",
       "thumbnail_url": "https://i.ytimg.com/vi/5mJnBCeWUvE/hqdefault.jpg"
-    },
-    {
-      "video_id": "J_Vtamsi5S0",
-      "title": "They Told Him the Band Broke Up... He Was the Only One Who Left.",
-      "description": "Th story behind the early beginnings of the band that was an offshoot of Dinosaur Jr. Sebadoh. Podcast on Apple Podcasts ...",
-      "published_at": "2026-11-12T14:07:11Z",
-      "channel_title": "Rock N' Roll True Stories",
-      "channel_id": "UCeYuZB53ge-tdHWUDF87xQw",
-      "thumbnail_url": "https://i.ytimg.com/vi/J_Vtamsi5S0/hqdefault.jpg"
     },
     {
       "video_id": "SoxICbGkTM8",
@@ -1222,15 +1204,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/SR51AgHgHXk/hqdefault.jpg"
     },
     {
-      "video_id": "Kwt55or0UeY",
-      "title": "Dinosaur Jr. - The Lung (Guitars Only &amp; Guitar Backing Track)",
-      "description": "Copyright Disclaimer* - This video features materials protected by the fair use guidelines of Section 107 of the Copyright Act. All ...",
-      "published_at": "2025-05-23T20:06:45Z",
-      "channel_title": "isoBack Tracks",
-      "channel_id": "UCmd0U9aLHfy142IUuemFgPg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Kwt55or0UeY/hqdefault.jpg"
-    },
-    {
       "video_id": "yAXLOG7gWqs",
       "title": "A YN reacts to Bug by Dinosaur Jr. for the first time! - (full album)",
       "description": "JOIN MY DISCORD - https://discord.gg/Nmw373j5Sn FOLLOW MY INSTAGRAM PLEASEEEEE my instagram ...",
@@ -1373,15 +1346,6 @@
       "channel_title": "GuitarLessons365Song",
       "channel_id": "UCYqDqs59rgZ3_7hJugnbXog",
       "thumbnail_url": "https://i.ytimg.com/vi/ZW5OWkz9BDc/hqdefault.jpg"
-    },
-    {
-      "video_id": "DUJ0Q_KWj34",
-      "title": "52. Las Fender Jazzmaster, de J Mascis | Guitarras que DEBER\u00cdAS conocer",
-      "description": "",
-      "published_at": "2025-02-21T16:56:43Z",
-      "channel_title": "Aroma del Ruido | Guitarras y Pedales",
-      "channel_id": "UChmtR6IXw0eLg2qgDZyXJGA",
-      "thumbnail_url": "https://i.ytimg.com/vi/DUJ0Q_KWj34/hqdefault.jpg"
     },
     {
       "video_id": "-C_4AK134Vk",
@@ -2050,15 +2014,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lSjL1i1nWjk/hqdefault.jpg"
     },
     {
-      "video_id": "dsZGTDUAbj4",
-      "title": "Minute Review: Fender J Mascis Telecaster #fendertelecaster #telecaster #fender #nhpguitars",
-      "description": "",
-      "published_at": "2023-05-26T19:38:23Z",
-      "channel_title": "Nick's Hand-Picked Guitars",
-      "channel_id": "UCskXgVTczlYQAo7ar5EV1xQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/dsZGTDUAbj4/hqdefault.jpg"
-    },
-    {
       "video_id": "Di2I6ssqK9c",
       "title": "Fender vs Squier: The J Mascis JazzMaster | Working Class Music",
       "description": "Somehow things always come back to J Mascis and JazzMasters. Today we are comparing 2 of the most popular JazzMasters in ...",
@@ -2093,15 +2048,6 @@
       "channel_title": "ambienttrash",
       "channel_id": "UC7bsCmKY8xRI-Sd-rgQY8kw",
       "thumbnail_url": "https://i.ytimg.com/vi/GYq-zolM4c4/hqdefault.jpg"
-    },
-    {
-      "video_id": "3umPvhSZxuo",
-      "title": "What do Dinosaur Jr, Propagandhi and REM have in common? #shorts",
-      "description": "Connect with us: https://bio.site/kobrestudios Click thru for full episode to explore the Gibson Longhorn - Guitar of the Month.",
-      "published_at": "2023-03-14T21:35:49Z",
-      "channel_title": "Surprise! It's a GUITAR",
-      "channel_id": "UCpp0mTD9OA_k1uudk0WkGlQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/3umPvhSZxuo/hqdefault.jpg"
     },
     {
       "video_id": "G82xrIeKgkY",
@@ -2255,6 +2201,24 @@
       "channel_title": "Let's Play All",
       "channel_id": "UCSRHRTHzLmrXzkFXRF5KQFQ",
       "thumbnail_url": "https://i.ytimg.com/vi/9PlTYlqFZIc/hqdefault.jpg"
+    },
+    {
+      "video_id": "t6AnL8enj2A",
+      "title": "Raisans Dinosaur Jr Guitar Lesson + Tutorial",
+      "description": "Learn what tips and tricks you can use to sound like J Mascis & Dinosaur Jr on Guitar! In this guitar lesson I show you how to play ...",
+      "published_at": "2022-10-14T18:00:32Z",
+      "channel_title": "Scott OBrien Guitar",
+      "channel_id": "UCyMJuYEl9eMrrcX3VyyZ_eg",
+      "thumbnail_url": "https://i.ytimg.com/vi/t6AnL8enj2A/hqdefault.jpg"
+    },
+    {
+      "video_id": "2HOK1IHnU7Y",
+      "title": "Feel The Pain Cover - J MASCIS RAM&#39;S HEAD BIG MUFF PI #shorts",
+      "description": "New Electro Harmonix Big Muff - Feel The Pain by Dinosaur JR This is how it sounds in a mix! Subscribe here ...",
+      "published_at": "2022-10-04T13:51:55Z",
+      "channel_title": "TheGuitarGeek",
+      "channel_id": "UCI5i6aBbINMIEkYW3b6olHg",
+      "thumbnail_url": "https://i.ytimg.com/vi/2HOK1IHnU7Y/hqdefault.jpg"
     },
     {
       "video_id": "5Y16c-GdqyU",
@@ -2705,6 +2669,42 @@
       "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/1av6Xrh2SNE/hqdefault.jpg"
+    },
+    {
+      "video_id": "CQHOAIiKjE8",
+      "title": "Poledo",
+      "description": "Provided to YouTube by BWSCD Inc Poledo \u00b7 Dinosaur Jr. You're Living All Over Me \u2117 1987 Dinosaur Jr. Inc. Released on: ...",
+      "published_at": "2020-01-25T18:24:27Z",
+      "channel_title": "Dinosaur Jr - Topic",
+      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
+      "thumbnail_url": "https://i.ytimg.com/vi/CQHOAIiKjE8/hqdefault.jpg"
+    },
+    {
+      "video_id": "d1ISJmz0dZI",
+      "title": "Raisans",
+      "description": "Provided to YouTube by BWSCD Inc Raisans \u00b7 Dinosaur Jr. You're Living All Over Me \u2117 1987 Dinosaur Jr. Inc. Released on: ...",
+      "published_at": "2020-01-25T18:24:26Z",
+      "channel_title": "Dinosaur Jr - Topic",
+      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
+      "thumbnail_url": "https://i.ytimg.com/vi/d1ISJmz0dZI/hqdefault.jpg"
+    },
+    {
+      "video_id": "XFrZYaoDF-A",
+      "title": "Dinosaur Jr. &quot;Pieces&quot; | FishCenter | adult swim",
+      "description": "Dinosaur Jr. performs \"Pieces\" on FishCenter Live. Watch FishCenter Live weekdays @ 4P ET: ...",
+      "published_at": "2019-11-14T15:41:59Z",
+      "channel_title": "Adult Swim",
+      "channel_id": "UCgPClNr5VSYC3syrDUIlzLw",
+      "thumbnail_url": "https://i.ytimg.com/vi/XFrZYaoDF-A/hqdefault.jpg"
+    },
+    {
+      "video_id": "ZQpDyeLBllo",
+      "title": "The Get Up Kids - Lou Barlow [OFFICIAL MUSIC VIDEO]",
+      "description": "Listen/Buy: https://thegetupkids.ffm.to/problems \"Lou Barlow\" is taken from The Get Up Kids' new full length album, Problems, out ...",
+      "published_at": "2019-11-13T16:00:10Z",
+      "channel_title": "Polyvinyl Records",
+      "channel_id": "UCrEKPrJOkTbaOxeZJ8q6Dew",
+      "thumbnail_url": "https://i.ytimg.com/vi/ZQpDyeLBllo/hqdefault.jpg"
     }
   ]
 }
