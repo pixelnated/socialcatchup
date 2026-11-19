@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-18 12:01 UTC",
-  "fetched_at_iso": "2026-11-18T12:01:36Z",
+  "fetched_at_utc": "2026-11-19 00:03 UTC",
+  "fetched_at_iso": "2026-11-19T00:03:38Z",
   "result_count": 300,
   "playlists": [
     {
@@ -65,16 +65,6 @@
       "channel_id": "UCubhCWFbuzEHLHzxnhRTqPg",
       "thumbnail_url": "https://i.ytimg.com/vi/gEm7cqkV7eU/hqdefault.jpg",
       "video_count": 11
-    },
-    {
-      "playlist_id": "PLfdzhJn3Szh8",
-      "title": "dinosaur jr there near tour setlist",
-      "description": "",
-      "published_at": "2026-11-06T11:31:54Z",
-      "channel_title": "trippygid",
-      "channel_id": "UCe6nZkRyydfJXVfeZRFWuhw",
-      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
-      "video_count": 29
     },
     {
       "playlist_id": "PLRxbOxe4cCxY",
@@ -144,7 +134,7 @@
       "channel_title": "Da_big_spicy",
       "channel_id": "UC-RhETFyCQKCqU_4bAT03cw",
       "thumbnail_url": "https://i.ytimg.com/vi/e1ABbQcjyz8/hqdefault.jpg",
-      "video_count": 39
+      "video_count": 69
     },
     {
       "playlist_id": "PLcmNs-WjVBeA",
@@ -655,6 +645,16 @@
       "channel_id": "UCMs74V9dVhkGc8K0RHRttkA",
       "thumbnail_url": "https://i.ytimg.com/vi/lyE0sEHw3cc/hqdefault.jpg",
       "video_count": 46
+    },
+    {
+      "playlist_id": "PLYWYVyJU-D3I",
+      "title": "Favorite Dinosaur Jr. \ud83c\udfb8 songs",
+      "description": "",
+      "published_at": "2026-06-28T14:39:40Z",
+      "channel_title": "Hippy G. Savage",
+      "channel_id": "UCM7hZpq_ugEvpl3JE8AimAA",
+      "thumbnail_url": "https://i.ytimg.com/vi/5eO6up9Gpv0/hqdefault.jpg",
+      "video_count": null
     },
     {
       "playlist_id": "PLQ53MyqbvRzo",
@@ -2787,6 +2787,16 @@
       "video_count": 11
     },
     {
+      "playlist_id": "PL5_qpf49mWtkZKUHYFJYygbtUZ-Lkm__w",
+      "title": "Dinosaur Jr. - Emptiness at the Sinclair [2021]",
+      "description": "",
+      "published_at": "2021-10-29T15:10:17Z",
+      "channel_title": "realexkav",
+      "channel_id": "UCG91ylymZlVVMFxL0W5mrSg",
+      "thumbnail_url": "https://i.ytimg.com/vi/PpVXCOsSlQc/hqdefault.jpg",
+      "video_count": 16
+    },
+    {
       "playlist_id": "PLBXKzN4qVCIyTmOPa1NbTmEI7xlViL-wr",
       "title": "Dinosaur jr",
       "description": "",
@@ -2994,16 +3004,6 @@
       "channel_title": "Mel\u00f3manu",
       "channel_id": "UC3BcmKPmZawzC_vNfWagbFQ",
       "thumbnail_url": "https://i.ytimg.com/vi/PLVIsF3Q3pQ/hqdefault.jpg",
-      "video_count": 10
-    },
-    {
-      "playlist_id": "PLS80DLvJe1xp4RLSXyfRmeJg2-KCHrLDj",
-      "title": "Dinosaur Jr Greatest Hits Vol 1",
-      "description": "rock alternative amherst mass legends jay mascis enjoy.",
-      "published_at": "2020-12-14T06:29:27Z",
-      "channel_title": "Stay Sharp Picks",
-      "channel_id": "UCj5r1JDl633RrAvv0Zn6www",
-      "thumbnail_url": "https://i.ytimg.com/vi/CWlV2Mwp_Tk/hqdefault.jpg",
       "video_count": 10
     }
   ]
