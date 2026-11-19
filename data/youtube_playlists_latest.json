@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-19 00:03 UTC",
-  "fetched_at_iso": "2026-11-19T00:03:38Z",
+  "fetched_at_utc": "2026-11-19 12:01 UTC",
+  "fetched_at_iso": "2026-11-19T12:01:45Z",
   "result_count": 300,
   "playlists": [
     {
@@ -54,7 +54,7 @@
       "channel_title": "Juan Carlos Benavente",
       "channel_id": "UCp_Yg4eFh7jJpJAx-qnjMaQ",
       "thumbnail_url": "https://i.ytimg.com/vi/JlG21J4JDp0/hqdefault.jpg",
-      "video_count": 8
+      "video_count": 9
     },
     {
       "playlist_id": "PLfE_FdVpef58",
@@ -65,6 +65,16 @@
       "channel_id": "UCubhCWFbuzEHLHzxnhRTqPg",
       "thumbnail_url": "https://i.ytimg.com/vi/gEm7cqkV7eU/hqdefault.jpg",
       "video_count": 11
+    },
+    {
+      "playlist_id": "PLfdzhJn3Szh8",
+      "title": "dinosaur jr there near tour setlist",
+      "description": "",
+      "published_at": "2026-11-06T11:31:54Z",
+      "channel_title": "trippygid",
+      "channel_id": "UCe6nZkRyydfJXVfeZRFWuhw",
+      "thumbnail_url": "https://i.ytimg.com/vi/aTbKFdMBTzI/hqdefault.jpg",
+      "video_count": 29
     },
     {
       "playlist_id": "PLRxbOxe4cCxY",
@@ -128,7 +138,7 @@
     },
     {
       "playlist_id": "PLJdZWnd6ImGY",
-      "title": "Dinosaur Jr",
+      "title": "Dinosaur Jr and ween",
       "description": "",
       "published_at": "2026-10-26T22:47:55Z",
       "channel_title": "Da_big_spicy",
@@ -165,16 +175,6 @@
       "channel_id": "UCuQJ7L6JRdVxVMF0r8t7cdQ",
       "thumbnail_url": "https://i.ytimg.com/vi/_iofKOD_JZU/hqdefault.jpg",
       "video_count": 43
-    },
-    {
-      "playlist_id": "PLUXqEXlwTc9U",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2026-10-21T14:55:45Z",
-      "channel_title": "Justin Metiguee",
-      "channel_id": "UCR_IROXV1gIYZ7cjelrjd2Q",
-      "thumbnail_url": "https://i.ytimg.com/vi/gEm7cqkV7eU/hqdefault.jpg",
-      "video_count": 44
     },
     {
       "playlist_id": "PLYKPqgJBZ1Fc",
@@ -647,16 +647,6 @@
       "video_count": 46
     },
     {
-      "playlist_id": "PLYWYVyJU-D3I",
-      "title": "Favorite Dinosaur Jr. \ud83c\udfb8 songs",
-      "description": "",
-      "published_at": "2026-06-28T14:39:40Z",
-      "channel_title": "Hippy G. Savage",
-      "channel_id": "UCM7hZpq_ugEvpl3JE8AimAA",
-      "thumbnail_url": "https://i.ytimg.com/vi/5eO6up9Gpv0/hqdefault.jpg",
-      "video_count": null
-    },
-    {
       "playlist_id": "PLQ53MyqbvRzo",
       "title": "Dinosaur Jr.",
       "description": "",
@@ -957,16 +947,6 @@
       "video_count": 15
     },
     {
-      "playlist_id": "PLzjFUEUwfx6EWiu3Sq_a6YQsJwgGg6rRS",
-      "title": "Dinosaur Jr. - \u201cSeventytwohundredseconds\u201d (Full Album)",
-      "description": "",
-      "published_at": "2026-03-13T15:41:02Z",
-      "channel_title": "Evalyn Klebanoff",
-      "channel_id": "UC0Jjeiro5M4HNy3O85LHU3w",
-      "thumbnail_url": "https://i.ytimg.com/vi/w1p0K8Bef5k/hqdefault.jpg",
-      "video_count": 54
-    },
-    {
       "playlist_id": "PLwINv1PEjP2l6BGPWbAdh7Vf_5oglS4-j",
       "title": "Dinosaur Jr. - \u201cJust Like Heaven\u201d (Single)",
       "description": "",
@@ -1257,6 +1237,16 @@
       "video_count": 38
     },
     {
+      "playlist_id": "PLOLfoYCf1X9qo5GwptMM07QG_Z15R77Ov",
+      "title": "Dinosaur jr videos",
+      "description": "",
+      "published_at": "2025-11-02T12:17:39Z",
+      "channel_title": "cleft turnip",
+      "channel_id": "UChTI6EB6HCLyx5dcgxDczoA",
+      "thumbnail_url": "https://i.ytimg.com/vi/v5yxVuNDLmo/hqdefault.jpg",
+      "video_count": 21
+    },
+    {
       "playlist_id": "PLspB-HcEyxUBfbpO-SygGiN5v0L59xPqs",
       "title": "Dinosaur Jr.",
       "description": "Albums.",
@@ -1304,6 +1294,16 @@
       "channel_title": "Bradley's Almanac",
       "channel_id": "UCNmhSNRhEUp6znICO_2yfqg",
       "thumbnail_url": "https://i.ytimg.com/vi/py1niggQq6I/hqdefault.jpg",
+      "video_count": 12
+    },
+    {
+      "playlist_id": "PLbfLZr66NUVxyijJFQ7_HecekjRLwp2Ee",
+      "title": "Lou Barlow - Another Collection of Home Recordings",
+      "description": "Lou Barlow - Another Collection of Home Recordings Release date: October 12, 1994 on Mint Records ...",
+      "published_at": "2025-08-23T05:29:36Z",
+      "channel_title": "Mintrecs",
+      "channel_id": "UCeRYWv6LU7ybXhT8qBMeKHg",
+      "thumbnail_url": "https://i.ytimg.com/vi/J5H2jCQHQ_o/hqdefault.jpg",
       "video_count": 12
     },
     {
@@ -1695,6 +1695,16 @@
       "channel_id": "UCygQyELvZXHhQcavjred0gw",
       "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
       "video_count": 18
+    },
+    {
+      "playlist_id": "PLCk0BwxcIVgF_5OQH21M5YB2Z4-X95qL-",
+      "title": "DINOSAUR JR - TOP 13 TREIZE",
+      "description": "Compil\u00e9 par Fred de la F\u00f6k\u00f8ff - Compiled by Fred de la F\u00f6k\u00f8ff.",
+      "published_at": "2025-07-09T02:43:18Z",
+      "channel_title": "Fr\u00e9d\u00e9ric Lamoureux",
+      "channel_id": "UCM5RcAVaEdmcQXAgyoajr_Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/KZatE8xyjU4/hqdefault.jpg",
+      "video_count": 13
     },
     {
       "playlist_id": "PLDaeVI1VBD3WNAp7FdCn9rjDQrN0nBB4Y",
@@ -2995,16 +3005,6 @@
       "channel_id": "UCEs0RqygqJ2K5eUqLwxmgAQ",
       "thumbnail_url": "https://i.ytimg.com/vi/5eO6up9Gpv0/hqdefault.jpg",
       "video_count": 71
-    },
-    {
-      "playlist_id": "PLlqCTAn5ppFLSe0tlkFN4ylKOW_mhAPBk",
-      "title": "Dinosaur Jr. - Green Mind [1991] Vinyl rip",
-      "description": "",
-      "published_at": "2020-12-23T21:11:40Z",
-      "channel_title": "Mel\u00f3manu",
-      "channel_id": "UC3BcmKPmZawzC_vNfWagbFQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/PLVIsF3Q3pQ/hqdefault.jpg",
-      "video_count": 10
     }
   ]
 }
