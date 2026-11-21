@@ -2,8 +2,8 @@
   "platform": "youtube_playlists",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-21 00:03 UTC",
-  "fetched_at_iso": "2026-11-21T00:03:22Z",
+  "fetched_at_utc": "2026-11-21 12:01 UTC",
+  "fetched_at_iso": "2026-11-21T12:01:36Z",
   "result_count": 300,
   "playlists": [
     {
@@ -215,16 +215,6 @@
       "channel_id": "UC2SFGtVuODOa_319eeTqWZQ",
       "thumbnail_url": "https://i.ytimg.com/vi/Es8elGpszxI/hqdefault.jpg",
       "video_count": 17
-    },
-    {
-      "playlist_id": "PLVZqp-s1te1g",
-      "title": "dinosaur jr",
-      "description": "",
-      "published_at": "2026-10-20T17:34:46Z",
-      "channel_title": "ari vestite",
-      "channel_id": "UCyIyAtTQ_5-v_ql4L-YeHtQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/RyprXcVUK-c/hqdefault.jpg",
-      "video_count": 29
     },
     {
       "playlist_id": "PLAvy9UNh1nxs",
@@ -2007,46 +1997,6 @@
       "video_count": 20
     },
     {
-      "playlist_id": "PL9UD1Ju8umOX5GGagBs2R0qZEIUsvPI9E",
-      "title": "Dinosaur Jr. Average Setlist",
-      "description": "Dinosaur Jr. average setlist for The Voyage to the Blue Planet tour.",
-      "published_at": "2024-09-10T17:03:07Z",
-      "channel_title": "Joseph Boccagno",
-      "channel_id": "UC7xZ5-pWvYGalmbQw_69MHA",
-      "thumbnail_url": "https://i.ytimg.com/vi/9lN8we7ErgA/hqdefault.jpg",
-      "video_count": 8
-    },
-    {
-      "playlist_id": "PL15E1M7fVWj2Q7wuhc40WijwyFdkMEv3O",
-      "title": "Dinosaur Jr + J Mascis",
-      "description": "",
-      "published_at": "2024-08-25T19:21:28Z",
-      "channel_title": "Jason A. Mattingly",
-      "channel_id": "UCmNHJYdfrK3S51tvArUL4Xw",
-      "thumbnail_url": "https://i.ytimg.com/vi/z45yWIXipy8/hqdefault.jpg",
-      "video_count": 75
-    },
-    {
-      "playlist_id": "PLn9INhwoaLZtQtgDMITdoqDFoV4qRMv2I",
-      "title": "Dinosaur Jr",
-      "description": "Dinosaur Jr.",
-      "published_at": "2024-08-23T04:35:22Z",
-      "channel_title": "Joe West",
-      "channel_id": "UC5jmCVm0GGB1TVJ0ErzKwTg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Ek7-X8s8YFQ/hqdefault.jpg",
-      "video_count": 135
-    },
-    {
-      "playlist_id": "PLmElE5AEv9UL8249CDAeghLb9KXhXTKkU",
-      "title": "Dinosaur Jr",
-      "description": "",
-      "published_at": "2024-08-21T11:57:29Z",
-      "channel_title": "Bryan's Songs",
-      "channel_id": "UCJFxhYfsJRNoWCUydrTdLnA",
-      "thumbnail_url": "https://i.ytimg.com/vi/MwmkErJ35O4/hqdefault.jpg",
-      "video_count": 14
-    },
-    {
       "playlist_id": "PL2cBCCOPU34H6ZHaHZxmb0uulqfylswb0",
       "title": "EAR-BLEEDING COUNTRY: THE BEST OF DINOSAUR JR. (2001)",
       "description": "",
@@ -3004,6 +2954,56 @@
       "channel_title": "Stay Sharp Picks",
       "channel_id": "UCj5r1JDl633RrAvv0Zn6www",
       "thumbnail_url": "https://i.ytimg.com/vi/CWlV2Mwp_Tk/hqdefault.jpg",
+      "video_count": 10
+    },
+    {
+      "playlist_id": "PLzjee4oo3d9sQqHLjXn5Ku31uiXG24ce1",
+      "title": "J Mascis and Dinosaur Jr",
+      "description": "",
+      "published_at": "2020-12-09T12:23:54Z",
+      "channel_title": "ProMark-5A-Oak",
+      "channel_id": "UCqFAqJQIaKaqCwIFTsUve7w",
+      "thumbnail_url": "https://i.ytimg.com/vi/QsvuWId7QGA/hqdefault.jpg",
+      "video_count": 139
+    },
+    {
+      "playlist_id": "PL6Zn8Jqxdpm0uSg9m8CWYuYxeAwoNcCEw",
+      "title": "J Mascis",
+      "description": "",
+      "published_at": "2020-10-24T11:26:20Z",
+      "channel_title": "Brian H",
+      "channel_id": "UCy2kEwR8m5XJOGfyD3TONug",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
+      "video_count": 10
+    },
+    {
+      "playlist_id": "PLjSw5ylZPOhZB4bTRQicH4oUO3LbevBxR",
+      "title": "J Mascis",
+      "description": "",
+      "published_at": "2020-10-17T09:00:50Z",
+      "channel_title": "Fr\u00e9d\u00e9ric FILMOTTE",
+      "channel_id": "UCBKz1hwHLlO9ke0cLVqSI8Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/Lnkl5-qoj0Q/hqdefault.jpg",
+      "video_count": 14
+    },
+    {
+      "playlist_id": "PLY1Pww_kjY1FMOKXuHE6_VCjI0qSJNxFI",
+      "title": "Dinosaur Jr.",
+      "description": "",
+      "published_at": "2020-10-13T02:35:47Z",
+      "channel_title": "Generic White Male",
+      "channel_id": "UCMipbZmwdOyNd_ZhVbOvtiw",
+      "thumbnail_url": "https://i.ytimg.com/vi/XelDCDRnboE/hqdefault.jpg",
+      "video_count": 7
+    },
+    {
+      "playlist_id": "PLF8UrehIClEY-rtKuiDTqpuKWV8e7TSyz",
+      "title": "J Mascis - Daytrotter Sessions 6/4/2011",
+      "description": "Recorded 6/4/2011 - Gundlach Bundschu Winery (Sonoma, CA)",
+      "published_at": "2020-09-30T13:13:01Z",
+      "channel_title": "FreakSceneNet Audio",
+      "channel_id": "UC5vTL1GKo0Ek_VmnB9KHh4A",
+      "thumbnail_url": "https://i.ytimg.com/vi/6WfGR0XqNOM/hqdefault.jpg",
       "video_count": 10
     }
   ]
