@@ -2,10 +2,28 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-22 00:03 UTC",
-  "fetched_at_iso": "2026-11-22T00:03:30Z",
+  "fetched_at_utc": "2026-11-22 12:01 UTC",
+  "fetched_at_iso": "2026-11-22T12:01:30Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "oUOxx5DLmVA",
+      "title": "Dinosaur Jr. - Just Like Heaven (vocals backing track)",
+      "description": "This video features \"Just Like Heaven\" by Dinosaur Jr.. My sincere appreciation to these musicians. Copyright Notice: All rights to ...",
+      "published_at": "2026-11-22T02:03:09Z",
+      "channel_title": "Vocal Ember Solo Tracks",
+      "channel_id": "UCMMuxjixlN_NvutRIx7G-wA",
+      "thumbnail_url": "https://i.ytimg.com/vi/oUOxx5DLmVA/hqdefault.jpg"
+    },
+    {
+      "video_id": "BHX9e7OGafM",
+      "title": "Dinosaur Jr. - Just Like Heaven (vocals backing track)",
+      "description": "This video features \"Just Like Heaven\" by Dinosaur Jr.. My sincere appreciation to these musicians. Copyright Notice: All rights to ...",
+      "published_at": "2026-11-22T01:20:51Z",
+      "channel_title": "Vocal Spotlight Minus Tracks",
+      "channel_id": "UCPVBQu3Sr_Hw_zmgZgv0jiA",
+      "thumbnail_url": "https://i.ytimg.com/vi/BHX9e7OGafM/hqdefault.jpg"
+    },
     {
       "video_id": "Qh-qzJp7o8g",
       "title": "\u3010favorite records\u3011\u597d\u304d\u306a\u30ec\u30b3\u30fc\u30c9\u7d39\u4ecb\u3000#\u30ec\u30b3\u30fc\u30c9\u3000#records  #dinosaurjr SST\u30d9\u30b9\u30c8\u76e4",
@@ -124,51 +142,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/oHw9c6sE2FE/hqdefault.jpg"
     },
     {
-      "video_id": "XtMGaGxFXZg",
-      "title": "It\u2019s Gonna Be Loud (BBC Live Version, Radio 1)",
-      "description": "Provided to YouTube by Sub Pop Records It's Gonna Be Loud (BBC Live Version, Radio 1) \u00b7 Sebadoh Harmacy \u2117 2026 BBC, ...",
-      "published_at": "2026-11-19T10:28:45Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/XtMGaGxFXZg/hqdefault.jpg"
-    },
-    {
-      "video_id": "KaLiVGpPnsY",
-      "title": "Worst Thing",
-      "description": "Provided to YouTube by Sub Pop Records Worst Thing \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:45Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/KaLiVGpPnsY/hqdefault.jpg"
-    },
-    {
-      "video_id": "DK3NJsu0S64",
-      "title": "Crest (BBC Live Version, John Peel)",
-      "description": "Provided to YouTube by Sub Pop Records Crest (BBC Live Version, John Peel) \u00b7 Sebadoh Harmacy \u2117 2026 BBC, under license ...",
-      "published_at": "2026-11-19T10:28:42Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/DK3NJsu0S64/hqdefault.jpg"
-    },
-    {
-      "video_id": "wcsz3_DQB3E",
-      "title": "Open Ended",
-      "description": "Provided to YouTube by Sub Pop Records Open Ended \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:42Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/wcsz3_DQB3E/hqdefault.jpg"
-    },
-    {
-      "video_id": "hCy_bfza0l4",
-      "title": "Too Pure (Alternate Version)",
-      "description": "Provided to YouTube by Sub Pop Records Too Pure (Alternate Version) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released ...",
-      "published_at": "2026-11-19T10:28:41Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/hCy_bfza0l4/hqdefault.jpg"
-    },
-    {
       "video_id": "Lq-yVeYciXU",
       "title": "Ocean",
       "description": "Provided to YouTube by Sub Pop Records Ocean \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
@@ -176,78 +149,6 @@
       "channel_title": "Sebadoh - Topic",
       "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
       "thumbnail_url": "https://i.ytimg.com/vi/Lq-yVeYciXU/hqdefault.jpg"
-    },
-    {
-      "video_id": "syIA12i6Qv4",
-      "title": "Love to Fight (Live)",
-      "description": "Provided to YouTube by Sub Pop Records Love to Fight (Live) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/syIA12i6Qv4/hqdefault.jpg"
-    },
-    {
-      "video_id": "46qJDPbeqjM",
-      "title": "Real Deal (Studio B-Side)",
-      "description": "Provided to YouTube by Sub Pop Records Real Deal (Studio B-Side) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/46qJDPbeqjM/hqdefault.jpg"
-    },
-    {
-      "video_id": "7uYzRUEeLaU",
-      "title": "Real Deal (BBC Live Version, Radio 1)",
-      "description": "Provided to YouTube by Sub Pop Records Real Deal (BBC Live Version, Radio 1) \u00b7 Sebadoh Harmacy \u2117 2026 BBC, under ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/7uYzRUEeLaU/hqdefault.jpg"
-    },
-    {
-      "video_id": "BtKVm-CYUMc",
-      "title": "Open Ended (Acoustic Demo)",
-      "description": "Provided to YouTube by Sub Pop Records Open Ended (Acoustic Demo) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/BtKVm-CYUMc/hqdefault.jpg"
-    },
-    {
-      "video_id": "h65wYpXBJoc",
-      "title": "Willing to Wait (Live)",
-      "description": "Provided to YouTube by Sub Pop Records Willing to Wait (Live) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/h65wYpXBJoc/hqdefault.jpg"
-    },
-    {
-      "video_id": "nufR88basHQ",
-      "title": "Hillbilly II",
-      "description": "Provided to YouTube by Sub Pop Records Hillbilly II \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/nufR88basHQ/hqdefault.jpg"
-    },
-    {
-      "video_id": "wOUlaf7JGnk",
-      "title": "Worst Thing (Live)",
-      "description": "Provided to YouTube by Sub Pop Records Worst Thing (Live) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/wOUlaf7JGnk/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZP5jC2lsP7A",
-      "title": "Psyched to Die (Live)",
-      "description": "Provided to YouTube by Sub Pop Records Psyched to Die (Live) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:40Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZP5jC2lsP7A/hqdefault.jpg"
     },
     {
       "video_id": "QUMlEvGgcR8",
@@ -259,69 +160,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/QUMlEvGgcR8/hqdefault.jpg"
     },
     {
-      "video_id": "a9i73_ENzro",
-      "title": "I Smell a Rat",
-      "description": "Provided to YouTube by Sub Pop Records I Smell a Rat \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:39Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/a9i73_ENzro/hqdefault.jpg"
-    },
-    {
-      "video_id": "shtSS2Uhnbo",
-      "title": "Worst Thing (Alternate Version)",
-      "description": "Provided to YouTube by Sub Pop Records Worst Thing (Alternate Version) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records ...",
-      "published_at": "2026-11-19T10:28:39Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/shtSS2Uhnbo/hqdefault.jpg"
-    },
-    {
-      "video_id": "QrbpTPHE7E8",
-      "title": "Willing to Wait (Alternate Version)",
-      "description": "Provided to YouTube by Sub Pop Records Willing to Wait (Alternate Version) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records ...",
-      "published_at": "2026-11-19T10:28:39Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/QrbpTPHE7E8/hqdefault.jpg"
-    },
-    {
-      "video_id": "2kP6JCGoeHw",
-      "title": "Mind Reader (Live)",
-      "description": "Provided to YouTube by Sub Pop Records Mind Reader (Live) \u00b7 Sebadoh Harmacy \u2117 2026 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:39Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/2kP6JCGoeHw/hqdefault.jpg"
-    },
-    {
-      "video_id": "Q-82jutblVs",
-      "title": "Love to Fight",
-      "description": "Provided to YouTube by Sub Pop Records Love to Fight \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:39Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/Q-82jutblVs/hqdefault.jpg"
-    },
-    {
-      "video_id": "FZ3IRZCxDnM",
-      "title": "I Feel O.K. (BBC Live Version, Radio 1)",
-      "description": "Provided to YouTube by Sub Pop Records I Feel O.K. (BBC Live Version, Radio 1) \u00b7 Sebadoh Harmacy \u2117 2026 BBC, under ...",
-      "published_at": "2026-11-19T10:28:39Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/FZ3IRZCxDnM/hqdefault.jpg"
-    },
-    {
-      "video_id": "BrX8hmTPOr4",
-      "title": "Mind Reader",
-      "description": "Provided to YouTube by Sub Pop Records Mind Reader \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:38Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/BrX8hmTPOr4/hqdefault.jpg"
-    },
-    {
       "video_id": "VA-RFStwlJM",
       "title": "Beauty of the Ride",
       "description": "Provided to YouTube by Sub Pop Records Beauty of the Ride \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: ...",
@@ -329,15 +167,6 @@
       "channel_title": "Sebadoh - Topic",
       "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
       "thumbnail_url": "https://i.ytimg.com/vi/VA-RFStwlJM/hqdefault.jpg"
-    },
-    {
-      "video_id": "0UCO4JVBbTo",
-      "title": "Crystal Gypsy",
-      "description": "Provided to YouTube by Sub Pop Records Crystal Gypsy \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:38Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/0UCO4JVBbTo/hqdefault.jpg"
     },
     {
       "video_id": "Qz0RYqCwcm0",
@@ -358,24 +187,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/J78wZ5lW-Vg/hqdefault.jpg"
     },
     {
-      "video_id": "BYTbEPsTURA",
-      "title": "Nothing Like You",
-      "description": "Provided to YouTube by Sub Pop Records Nothing Like You \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: ...",
-      "published_at": "2026-11-19T10:28:38Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/BYTbEPsTURA/hqdefault.jpg"
-    },
-    {
-      "video_id": "tHKJycIleIg",
-      "title": "Zone Doubt",
-      "description": "Provided to YouTube by Sub Pop Records Zone Doubt \u00b7 Sebadoh Harmacy \u2117 1996 Sub Pop Records Released on: 2026-11-20 ...",
-      "published_at": "2026-11-19T10:28:38Z",
-      "channel_title": "Sebadoh - Topic",
-      "channel_id": "UCju-EvozsD8gGa6ggnmwbkg",
-      "thumbnail_url": "https://i.ytimg.com/vi/tHKJycIleIg/hqdefault.jpg"
-    },
-    {
       "video_id": "3zF0SsowWSA",
       "title": "Dinosaur Jr - The Lung @ C Art Media, Buenos Aires, Argentina, 2024-11-07",
       "description": "If you want to download this recording and/or access an archive of some of my other recordings, I recommend visiting my blog.",
@@ -383,24 +194,6 @@
       "channel_title": "Afuera del Dial",
       "channel_id": "UCw1jb_nLaGbyyf7A1XA8tpg",
       "thumbnail_url": "https://i.ytimg.com/vi/3zF0SsowWSA/hqdefault.jpg"
-    },
-    {
-      "video_id": "IzNMyxLUVUA",
-      "title": "Dinosaur Jr - Gargoyle @ C Art Media, Buenos Aires, Argentina, 2024-11-07",
-      "description": "If you want to download this recording and/or access an archive of some of my other recordings, I recommend visiting my blog.",
-      "published_at": "2026-11-19T05:35:40Z",
-      "channel_title": "Afuera del Dial",
-      "channel_id": "UCw1jb_nLaGbyyf7A1XA8tpg",
-      "thumbnail_url": "https://i.ytimg.com/vi/IzNMyxLUVUA/hqdefault.jpg"
-    },
-    {
-      "video_id": "W3-GrMM8Nvw",
-      "title": "Dinosaur Jr - Feel The Pain @ C Art Media, Buenos Aires, Argentina, 2024-11-07",
-      "description": "If you want to download this recording and/or access an archive of some of my other recordings, I recommend visiting my blog.",
-      "published_at": "2026-11-19T05:35:32Z",
-      "channel_title": "Afuera del Dial",
-      "channel_id": "UCw1jb_nLaGbyyf7A1XA8tpg",
-      "thumbnail_url": "https://i.ytimg.com/vi/W3-GrMM8Nvw/hqdefault.jpg"
     },
     {
       "video_id": "r_k1JJbbyBU",
@@ -428,15 +221,6 @@
       "channel_title": "Arch music ",
       "channel_id": "UC5rwUUTRhlGpynzLgcZyA_g",
       "thumbnail_url": "https://i.ytimg.com/vi/Md3En1wIOrA/hqdefault.jpg"
-    },
-    {
-      "video_id": "nHhjaveRXFA",
-      "title": "Whatever\u2019s Cool With Me - Dinosaur Jr. cover",
-      "description": "Title track from Dinosaur Jr.'s 1991 EP, \u201cWhatever's Cool With Me\u201d. J Mascis was and still is a huge influence on me. #dinosaurjr ...",
-      "published_at": "2026-11-17T00:18:31Z",
-      "channel_title": "Eric's Guitar Corner",
-      "channel_id": "UCvICqo2PWFgDG6QARMIsIOA",
-      "thumbnail_url": "https://i.ytimg.com/vi/nHhjaveRXFA/hqdefault.jpg"
     },
     {
       "video_id": "qnu_PiVFfeQ",
@@ -554,15 +338,6 @@
       "channel_title": "Robert Kaylor",
       "channel_id": "UCK4vDFgCkZrxFofP3kHeGyA",
       "thumbnail_url": "https://i.ytimg.com/vi/3Nk6OgZAOPY/hqdefault.jpg"
-    },
-    {
-      "video_id": "YKOxyoZ2n5c",
-      "title": "Dinosaur Jr. - &quot;Feel the Pain&quot; Performed Live in Houston, TX on November 4, 2026",
-      "description": "Dinosaur Jr. - \"Feel the Pain\" House of Blues - Houston, TX November 4, 2026 Presented By Descent Music Live I do not own this ...",
-      "published_at": "2026-11-06T06:00:11Z",
-      "channel_title": "Descent Music Live",
-      "channel_id": "UCYCurWVvkcHCdKlpPsJZDnw",
-      "thumbnail_url": "https://i.ytimg.com/vi/YKOxyoZ2n5c/hqdefault.jpg"
     },
     {
       "video_id": "yxOmN3jE5UE",
@@ -1105,6 +880,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/EGTnaCy496s/hqdefault.jpg"
     },
     {
+      "video_id": "8Q1fw083cF4",
+      "title": "Dinosaur Jr. - In A Jar (Bass Cover With Tabs)",
+      "description": "Support the channel at: \u27a1Patreon: https://www.patreon.com/NicolleDias \u27a1Ko-fi: https://ko-fi.com/nbordeaux.",
+      "published_at": "2026-06-15T09:40:01Z",
+      "channel_title": "nicolle.mp3",
+      "channel_id": "UCEqd1m56drOQRYkgZK-puzg",
+      "thumbnail_url": "https://i.ytimg.com/vi/8Q1fw083cF4/hqdefault.jpg"
+    },
+    {
       "video_id": "h4z8KJxiq0s",
       "title": "Ernie Ball: BIG SOUND with Dinosaur Jr.",
       "description": "For this episode, Dinosaur Jr. unite in their hometown of Amherst, Massachusetts, performing with the band's original lineup, ...",
@@ -1112,6 +896,15 @@
       "channel_title": "Ernie Ball",
       "channel_id": "UC9Wd_EiD8gAly1qwF4OZSSA",
       "thumbnail_url": "https://i.ytimg.com/vi/h4z8KJxiq0s/hqdefault.jpg"
+    },
+    {
+      "video_id": "PQCUOzPZSx8",
+      "title": "Dinosaur Jr. - &quot;Feel the Pain&quot; live in Germany (1997) #dinosaurjr #jmascis #90salternative",
+      "description": "Dinosaur Jr. plays \"Feel the Pain\" live in Germany. The long-running alternative rock band, fronted by guitar virtuoso J Mascis, had ...",
+      "published_at": "2026-06-11T23:20:04Z",
+      "channel_title": "Channel 80",
+      "channel_id": "UC57ov99ruLVkQTskhRqK9Ow",
+      "thumbnail_url": "https://i.ytimg.com/vi/PQCUOzPZSx8/hqdefault.jpg"
     },
     {
       "video_id": "ruBmFDDQLNU",
@@ -1175,6 +968,15 @@
       "channel_title": "colji ",
       "channel_id": "UCKktDL5nzHtopd9FPw9dHgw",
       "thumbnail_url": "https://i.ytimg.com/vi/8V4QyX1rISw/hqdefault.jpg"
+    },
+    {
+      "video_id": "_ZNiJ4UZ__I",
+      "title": "Dinosaur Jr. Studio Albums Ranked!",
+      "description": "Ranking all 12 studio albums by Dinosaur Jr., my favorite band! Please tell me about your favorites in the comments below. I hope ...",
+      "published_at": "2026-04-01T17:34:51Z",
+      "channel_title": "GrumpyRecordCollector",
+      "channel_id": "UCQne4WBcfLFCAxx38uS7B5w",
+      "thumbnail_url": "https://i.ytimg.com/vi/_ZNiJ4UZ__I/hqdefault.jpg"
     },
     {
       "video_id": "0GVlPExY1Zw",
@@ -1528,6 +1330,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/4_qa3nDHTvg/hqdefault.jpg"
     },
     {
+      "video_id": "AumxE2kIVo0",
+      "title": "A YN reacts to Dinosaur Jr. for the first time! - You&#39;re Living All Over Me (full album",
+      "description": "JOIN MY DISCORD - https://discord.gg/Nmw373j5Sn FOLLOW MY INSTAGRAM PLEASEEEEE my instagram ...",
+      "published_at": "2025-04-19T15:00:23Z",
+      "channel_title": "SpillasBurner",
+      "channel_id": "UCWLaeG2BuoNNOUJj2lAV2LA",
+      "thumbnail_url": "https://i.ytimg.com/vi/AumxE2kIVo0/hqdefault.jpg"
+    },
+    {
       "video_id": "f-dCWpovgKo",
       "title": "Snail Mail and J Mascis of Dinosaur Jr. on Elliott Smith",
       "description": "Snail Mail and J Mascis of Dinosaur Jr. discuss how Elliott Smith's self-titled album has influenced them as guitarists. Subscribe ...",
@@ -1762,6 +1573,15 @@
       "thumbnail_url": "https://i.ytimg.com/vi/WyRzFJckAP4/hqdefault.jpg"
     },
     {
+      "video_id": "P5duUjGP_us",
+      "title": "Drawerings",
+      "description": "Provided to YouTube by Cherry Red Records Drawerings \u00b7 Dinosaur Jr Where You Been \u2117 1993 Warner Music UK Ltd Producer: ...",
+      "published_at": "2024-08-29T13:01:50Z",
+      "channel_title": "Dinosaur Jr - Topic",
+      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
+      "thumbnail_url": "https://i.ytimg.com/vi/P5duUjGP_us/hqdefault.jpg"
+    },
+    {
       "video_id": "Erk_Ss-iAn0",
       "title": "Not the Same",
       "description": "Provided to YouTube by Cherry Red Records Not the Same \u00b7 Dinosaur Jr Where You Been \u2117 1993 Warner Music UK Ltd ...",
@@ -1814,6 +1634,15 @@
       "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/zEgspxXa8d8/hqdefault.jpg"
+    },
+    {
+      "video_id": "x6GzlPBQAxE",
+      "title": "Blowing It",
+      "description": "Provided to YouTube by Cherry Red Records Blowing It \u00b7 Dinosaur Jr. Green Mind \u2117 1991 Warner Music UK Ltd Producer: J.",
+      "published_at": "2024-08-29T12:57:57Z",
+      "channel_title": "Dinosaur Jr - Topic",
+      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
+      "thumbnail_url": "https://i.ytimg.com/vi/x6GzlPBQAxE/hqdefault.jpg"
     },
     {
       "video_id": "Es8elGpszxI",
@@ -1877,6 +1706,15 @@
       "channel_title": "Meditation Music",
       "channel_id": "UCEUU1k1_3S0gWL_o8fsevZg",
       "thumbnail_url": "https://i.ytimg.com/vi/CozfIQhou0E/hqdefault.jpg"
+    },
+    {
+      "video_id": "6RsS92VaPzA",
+      "title": "Dinosaur Jr - Out There (Album Version) - Music Video",
+      "description": "The single/filmclip edit is butchered! Here's the full track :)",
+      "published_at": "2024-07-03T08:42:15Z",
+      "channel_title": "OL",
+      "channel_id": "UCmDd3VWDRU0RIkrKedqcXXQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/6RsS92VaPzA/hqdefault.jpg"
     },
     {
       "video_id": "vE6xcnAIK_4",
@@ -2221,6 +2059,24 @@
       "thumbnail_url": "https://i.ytimg.com/vi/TCw_ZN4boJ0/hqdefault.jpg"
     },
     {
+      "video_id": "7SBH_tU-3eg",
+      "title": "The Wagon - Dinosaur Jr (Guitar Cover #267)",
+      "description": "Get the Tab: https://mymusic5.com/SparkyGuitar/375873 Tab-on-Screen video for Patreon supporters: ...",
+      "published_at": "2023-07-14T17:49:29Z",
+      "channel_title": "Sparky Guitar",
+      "channel_id": "UCR8OM6seRnlh6bvZinGyyjA",
+      "thumbnail_url": "https://i.ytimg.com/vi/7SBH_tU-3eg/hqdefault.jpg"
+    },
+    {
+      "video_id": "mb9N9pzTWFI",
+      "title": "The Return of Squier&#39;s BEST Model! (J Mascis Signature Jazzmaster &amp; Signature Pickup Set Review)",
+      "description": "CHECK OUT MY BAND'S NEW SINGLE! https://linktr.ee/WhoseHouseIsThis Band: @whosehouseisthis5098 Insta: ...",
+      "published_at": "2023-07-12T00:26:15Z",
+      "channel_title": "prettyboy.",
+      "channel_id": "UCQ9LP4iGblYsx62dyfEtmbQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/mb9N9pzTWFI/hqdefault.jpg"
+    },
+    {
       "video_id": "Pun6Gge18hs",
       "title": "Squire J Mascis Jazzmaster // Review for Praise &amp; Worship",
       "description": "After hearing all the chatter about these guitars, I finally decided I needed to try one. Thankfully, my local guitar center had one in ...",
@@ -2401,15 +2257,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BtHqU67NGLY/hqdefault.jpg"
     },
     {
-      "video_id": "sIJYvkejS9A",
-      "title": "How Good Are The NEW J Mascis Pickups?(Fender) | Working Class Music",
-      "description": "LET'S PLAY A GAME! We've install new pickups in one of these guitars, and it's up to you to figure out which one is the correct one ...",
-      "published_at": "2022-12-20T20:30:13Z",
-      "channel_title": "Working Class Music",
-      "channel_id": "UC30gcCAK4wSanXYhKDWb9ug",
-      "thumbnail_url": "https://i.ytimg.com/vi/sIJYvkejS9A/hqdefault.jpg"
-    },
-    {
       "video_id": "3po7YhCRwG0",
       "title": "Mint Pickguard For My J Mascis Jazzmaster #shorts",
       "description": "What do you think? Was this an upgrade?",
@@ -2563,15 +2410,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/LZ26OWfOCPk/hqdefault.jpg"
     },
     {
-      "video_id": "EzkuP0ESePA",
-      "title": "This Mexican Tele FEELS Like An AGED Custom Shop | 2021 Fender J Mascis Dinosaur Jr Blue Sparkle",
-      "description": "My Website: https://www.troglysguitarshow.com Reverb: https://tidd.ly/4aFiyhC eBay: https://ebay.us/R9fACt \u26abAmazon: ...",
-      "published_at": "2022-01-13T01:02:04Z",
-      "channel_title": "The Trogly's Guitar Show",
-      "channel_id": "UCsNBeL5vY5GZT_g_4D3QAFQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/EzkuP0ESePA/hqdefault.jpg"
-    },
-    {
       "video_id": "yr7Z1YO6U88",
       "title": "Rig Rundown: Dinosaur Jr &#39;s J Mascis [2022]",
       "description": "Dinosaur Jr.'s J Mascis is rock 'n' roll's loudest low talker. Onstage, the reserved frontman is overshadowed by his three full stacks, ...",
@@ -2689,6 +2527,24 @@
       "thumbnail_url": "https://i.ytimg.com/vi/BDeoLxCgE1s/hqdefault.jpg"
     },
     {
+      "video_id": "W02vyyxlDHI",
+      "title": "Dinosaur Jr. - Full Performance (Live on KEXP at Home)",
+      "description": "http://KEXP.ORG presents Dinosaur Jr. performing live, recorded exclusively for KEXP. Songs: I Ain't I Ran Away Kracked ...",
+      "published_at": "2021-06-26T15:00:12Z",
+      "channel_title": "KEXP",
+      "channel_id": "UC3I2GFN_F8WudD_2jUZbojA",
+      "thumbnail_url": "https://i.ytimg.com/vi/W02vyyxlDHI/hqdefault.jpg"
+    },
+    {
+      "video_id": "Qa8aVe6G9LE",
+      "title": "J Mascis &amp; Sharon Van Etten &quot;Prisoners&quot; (Official Video)",
+      "description": "J Mascis & Sharon Van Etten cover John Denver's \"Prisoners\" Performed by J Mascis & Sharon Van Etten Written by John Denver ...",
+      "published_at": "2021-06-21T19:42:39Z",
+      "channel_title": "J Mascis",
+      "channel_id": "UCNHL4feEEfVFpUaSYpLHlkw",
+      "thumbnail_url": "https://i.ytimg.com/vi/Qa8aVe6G9LE/hqdefault.jpg"
+    },
+    {
       "video_id": "zu1sigxqRmE",
       "title": "Re-Creation: J Mascis | American Acoustasonic Jazzmaster | Fender",
       "description": "In the third episode of Re-Creation, J Mascis \u2014 lead singer, guitarist and songwriter for Dinosaur Jr. \u2014 sends his American ...",
@@ -2705,6 +2561,150 @@
       "channel_title": "dinosaurjnr",
       "channel_id": "UCfo74Lcf9bcQJd2MMq-XBzw",
       "thumbnail_url": "https://i.ytimg.com/vi/HR9hYmf2xDU/hqdefault.jpg"
+    },
+    {
+      "video_id": "cAXUmZ7sjWQ",
+      "title": "Dinosaur Jr. - I Ran Away (Animation by Mortis Studio)",
+      "description": "\"I Ran Away\" the new song by Dinosaur Jr. from the album 'Sweep It Into Space', out April 23rd on Jagjaguwar. STREAM/BUY: ...",
+      "published_at": "2021-03-03T16:18:16Z",
+      "channel_title": "dinosaurjnr",
+      "channel_id": "UCfo74Lcf9bcQJd2MMq-XBzw",
+      "thumbnail_url": "https://i.ytimg.com/vi/cAXUmZ7sjWQ/hqdefault.jpg"
+    },
+    {
+      "video_id": "gXw_CRM-Ahw",
+      "title": "Squier J Mascis Jazzmaster",
+      "description": "Short playthrough of the best Squier I have ever played. Feel free to comment below, and I'll do all I can to respond in a timely ...",
+      "published_at": "2021-03-02T14:22:33Z",
+      "channel_title": "Chris Effort",
+      "channel_id": "UC_Qdukyc3j1D9qbUlfftr8w",
+      "thumbnail_url": "https://i.ytimg.com/vi/gXw_CRM-Ahw/hqdefault.jpg"
+    },
+    {
+      "video_id": "T5f8g0ijDlg",
+      "title": "Whenever Henry Rollins sees J Mascis",
+      "description": "",
+      "published_at": "2021-02-26T17:04:57Z",
+      "channel_title": "hello never mind",
+      "channel_id": "UC7P-48Hg4XCPa6WeG4-xJxg",
+      "thumbnail_url": "https://i.ytimg.com/vi/T5f8g0ijDlg/hqdefault.jpg"
+    },
+    {
+      "video_id": "JGXxFSWewmw",
+      "title": "Dinosaur Jr. - I Ran Away (Official Visualizer)",
+      "description": "\"I Ran Away\" the new song by Dinosaur Jr. from the album 'Sweep It Into Space', out April 23rd on Jagjaguwar. STREAM/BUY: ...",
+      "published_at": "2021-02-23T15:00:04Z",
+      "channel_title": "dinosaurjnr",
+      "channel_id": "UCfo74Lcf9bcQJd2MMq-XBzw",
+      "thumbnail_url": "https://i.ytimg.com/vi/JGXxFSWewmw/hqdefault.jpg"
+    },
+    {
+      "video_id": "yqBU4R8-zUU",
+      "title": "Bob Mould interviews Lou Barlow on 120 Minutes (1994)",
+      "description": "Bob Mould interviewing Lou Barlow on MTV's 120 Minutes in 1994. Their performance from this show is already posted by other ...",
+      "published_at": "2021-01-26T21:51:42Z",
+      "channel_title": "Indie Musicstuff",
+      "channel_id": "UCGaINmz_KjduWngKU_bgsQw",
+      "thumbnail_url": "https://i.ytimg.com/vi/yqBU4R8-zUU/hqdefault.jpg"
+    },
+    {
+      "video_id": "J8TmuFe3W3o",
+      "title": "Kennedy interviews J Mascis for MTV Alternative Nation 1993",
+      "description": "Taken from freakscene.net All rights to respective owners yada yada.",
+      "published_at": "2021-01-05T01:15:08Z",
+      "channel_title": "Leon",
+      "channel_id": "UC-2a19TDZCniIFHAN0MHqtg",
+      "thumbnail_url": "https://i.ytimg.com/vi/J8TmuFe3W3o/hqdefault.jpg"
+    },
+    {
+      "video_id": "K-rF1_1aGPc",
+      "title": "Dinosaur Jr &quot;Forget The Swan&quot; Live On The Henry Rollins Show.",
+      "description": "0:33 Dinosaur Jr. Forget The Swan. Live 5-29-2006 The Henry Rollins Show.",
+      "published_at": "2020-11-14T21:34:34Z",
+      "channel_title": "Brundle Fly",
+      "channel_id": "UClm8BxaMyEqtkRrlpB36tNw",
+      "thumbnail_url": "https://i.ytimg.com/vi/K-rF1_1aGPc/hqdefault.jpg"
+    },
+    {
+      "video_id": "aYrJ6WqCLfc",
+      "title": "TV Live: Dinosaur Jr - &quot;Almost Ready&quot; (Letterman 2007)",
+      "description": "www.musicitymike.net Please LIKE, SUBSCRIBE and SHARE!",
+      "published_at": "2020-11-11T13:00:00Z",
+      "channel_title": "Music City Mike",
+      "channel_id": "UC1_zV9rICeQ1mIzfOYOO__w",
+      "thumbnail_url": "https://i.ytimg.com/vi/aYrJ6WqCLfc/hqdefault.jpg"
+    },
+    {
+      "video_id": "XBvmG9Pponw",
+      "title": "The Ultimate Fender Squier Jazzmaster Shootout | J Mascis vs Classic Vibe vs Vintage Modified",
+      "description": "Today, we look at (and hear) the differences between the Squier J Mascis Jazzmaster, the Vintage Modified Jazzmaster and it's ...",
+      "published_at": "2020-10-04T13:00:06Z",
+      "channel_title": "Wilson Guitars",
+      "channel_id": "UC76sNmlDytLkGVhTH1uy9jg",
+      "thumbnail_url": "https://i.ytimg.com/vi/XBvmG9Pponw/hqdefault.jpg"
+    },
+    {
+      "video_id": "vuLWp1eizLk",
+      "title": "THROWBACK:  J MASCIS of Dinosaur Jr Interview from 2014",
+      "description": "We uploaded this throwback interview here because we originally had it on the Party Smasher Youtube channel which was ...",
+      "published_at": "2020-09-17T14:07:21Z",
+      "channel_title": "Little Punk People",
+      "channel_id": "UCFWa5FZJxCBapruoro0BnAw",
+      "thumbnail_url": "https://i.ytimg.com/vi/vuLWp1eizLk/hqdefault.jpg"
+    },
+    {
+      "video_id": "hvny6wCG7LM",
+      "title": "Demos in the Dark // Wren and Cuff Garbage Face - J. Mascis Signature Pedal // Pedal Demo",
+      "description": "If you, like me, love Dinosaur Jr. enough to have your ears blown out every time they come to town, then you are gonna wanna ...",
+      "published_at": "2020-08-03T13:00:11Z",
+      "channel_title": "Demos In The Dark",
+      "channel_id": "UCBSmMLzwFSvowJZoE5VMCnQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/hvny6wCG7LM/hqdefault.jpg"
+    },
+    {
+      "video_id": "S2LvrGn2gvk",
+      "title": "Una Squier muy especial | Squier J Mascis Jazzmaster",
+      "description": "Squier lo hace de nuevo! Es evidente c\u00f3mo con el paso de los a\u00f1os, la idea de que la manufactura asi\u00e1tica es mala, se ha ido ...",
+      "published_at": "2020-07-24T17:00:07Z",
+      "channel_title": "Steelwood Guitars",
+      "channel_id": "UCDK9RLrloH-4piSfnLxTiYw",
+      "thumbnail_url": "https://i.ytimg.com/vi/S2LvrGn2gvk/hqdefault.jpg"
+    },
+    {
+      "video_id": "qereVY3GZAs",
+      "title": "J Mascis | Fender Play LIVE | Fender",
+      "description": "Tune in for a very special edition of Fender Play LIVE with J Mascis of Dinosaur Jr. and enter for a chance to win his signature ...",
+      "published_at": "2020-06-25T01:05:59Z",
+      "channel_title": "Fender",
+      "channel_id": "UCI7fys0WM62xF2jUlUdq0XQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/qereVY3GZAs/hqdefault.jpg"
+    },
+    {
+      "video_id": "FZ9SD9eclDY",
+      "title": "Squier J Mascis Jazzmaster Demo and Review",
+      "description": "Get Squier guitars via this affiliate link to support this channel: https://reverb.grsm.io/GOSquier The J Mascis Squier Jazmaster is ...",
+      "published_at": "2020-06-13T16:20:24Z",
+      "channel_title": "Get Offset",
+      "channel_id": "UCYi7l2LsLFi_vSr4wr6EZHw",
+      "thumbnail_url": "https://i.ytimg.com/vi/FZ9SD9eclDY/hqdefault.jpg"
+    },
+    {
+      "video_id": "37H4LxE9v3E",
+      "title": "Kestrels - Grey and Blue (ft. J Mascis)",
+      "description": "Kestrels - Grey and Blue (feat. J Mascis) from the album Dream or Don't Dream (2020 Darla Records) #Kestrels #GreyandBlue ...",
+      "published_at": "2020-06-03T23:02:06Z",
+      "channel_title": "Radial by The Orchard",
+      "channel_id": "UChCDNXr_7WGYGcVsk6JuboQ",
+      "thumbnail_url": "https://i.ytimg.com/vi/37H4LxE9v3E/hqdefault.jpg"
+    },
+    {
+      "video_id": "MWHmTMCnxdU",
+      "title": "Dinosaur Jr. - Get Me guitar cover (lead part)",
+      "description": "very fun to play cheers.",
+      "published_at": "2020-05-09T07:04:56Z",
+      "channel_title": "adrian gonz",
+      "channel_id": "UCtdI2x0y2Qii0QqI4_gKOjA",
+      "thumbnail_url": "https://i.ytimg.com/vi/MWHmTMCnxdU/hqdefault.jpg"
     }
   ]
 }
