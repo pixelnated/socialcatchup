@@ -2,10 +2,19 @@
   "platform": "youtube",
   "query": "\"dinosaur jr\" OR mascis OR \"j mascis\" OR \"jmascis\" OR sebadoh OR \"lou Barlow\" OR \"dinosaurjr\"",
   "max_results": 300,
-  "fetched_at_utc": "2026-11-27 12:01 UTC",
-  "fetched_at_iso": "2026-11-27T12:01:46Z",
+  "fetched_at_utc": "2026-11-28 00:03 UTC",
+  "fetched_at_iso": "2026-11-28T00:03:11Z",
   "result_count": 300,
   "videos": [
+    {
+      "video_id": "Jp7K8B1fcOI",
+      "title": "happily divided - sebadoh cover",
+      "description": "love love love this song.",
+      "published_at": "2026-11-27T14:34:21Z",
+      "channel_title": "xxrplxx",
+      "channel_id": "UC-IP2bn4aWGBPMIsq7Idm-Q",
+      "thumbnail_url": "https://i.ytimg.com/vi/Jp7K8B1fcOI/hqdefault.jpg"
+    },
     {
       "video_id": "WN635pdUgxM",
       "title": "dinosaur #mrbeast #art #rekkkkkk #rek #diy #music #drawing #song #craft #doraemon #dinosaurjr #trex",
@@ -124,15 +133,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/lMXDPlJEjg0/hqdefault.jpg"
     },
     {
-      "video_id": "4--iK5FOUy8",
-      "title": "Whatever&#39;s Cool With Me (Live, Bloom, Mezzago, 13 September 1991)",
-      "description": "Provided to YouTube by Cherry Red Records Whatever's Cool With Me (Live, Bloom, Mezzago, 13 September 1991) \u00b7 Dinosaur ...",
-      "published_at": "2026-11-26T10:00:34Z",
-      "channel_title": "Dinosaur Jr. - Topic",
-      "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
-      "thumbnail_url": "https://i.ytimg.com/vi/4--iK5FOUy8/hqdefault.jpg"
-    },
-    {
       "video_id": "dtfKZvtDOHA",
       "title": "The Wagon (Live, Bloom, Mezzago, 13 September 1991)",
       "description": "Provided to YouTube by Cherry Red Records The Wagon (Live, Bloom, Mezzago, 13 September 1991) \u00b7 Dinosaur Jr. Bouncing ...",
@@ -227,7 +227,7 @@
       "title": "Water (Live, Town &amp; Country Club, London, 2 October 1991)",
       "description": "Provided to YouTube by Cherry Red Records Water (Live, Town & Country Club, London, 2 October 1991) \u00b7 Dinosaur Jr.",
       "published_at": "2026-11-26T10:00:27Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/eC2-bz53Afg/hqdefault.jpg"
     },
@@ -592,15 +592,6 @@
       "thumbnail_url": "https://i.ytimg.com/vi/67AgZTD0JjI/hqdefault.jpg"
     },
     {
-      "video_id": "6EYSuYzVLuw",
-      "title": "Ruido, melod\u00eda y una guitarra imposible de esconder",
-      "description": "Without a Sound (1994) tiene a Dinosaur Jr. m\u00e1s mel\u00f3dico y accesible, pero con J Mascis llenando cada rinc\u00f3n de guitarras ...",
-      "published_at": "2026-11-24T15:00:16Z",
-      "channel_title": "33 Revoluciones",
-      "channel_id": "UCcqLhcXSC94Pi7AunZtTphQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/6EYSuYzVLuw/hqdefault.jpg"
-    },
-    {
       "video_id": "DvTSEaEm2Qg",
       "title": "Dinosaur Jr - Pieces | Reaction",
       "description": "dinosaurjr #pieces #farm #alternativerock #grunge #jmascis #loubarlow #murph #musicreaction #songreaction TODAY'S VIDEO: ...",
@@ -680,15 +671,6 @@
       "channel_title": "Yan Foss",
       "channel_id": "UCUc42dR1Q8IMgyyJ3QBXtvw",
       "thumbnail_url": "https://i.ytimg.com/vi/q8LAv9P-pCE/hqdefault.jpg"
-    },
-    {
-      "video_id": "ZJxZFftD9HM",
-      "title": "DINOSAUR Jr. - Pierce the Morning Rain (guitar tutorial)",
-      "description": "Learn how to play this great DINOSAUR Jr. song (as always!) Full cover available here : https://youtu.be/DiOJuwxremc Tuning: E ...",
-      "published_at": "2026-11-17T08:35:44Z",
-      "channel_title": "The Red Channel",
-      "channel_id": "UCdE2adI9xR0iu4YQ-p6rQyQ",
-      "thumbnail_url": "https://i.ytimg.com/vi/ZJxZFftD9HM/hqdefault.jpg"
     },
     {
       "video_id": "nHhjaveRXFA",
@@ -869,6 +851,15 @@
       "channel_title": "Kinoryba - \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0420\u044b\u0431\u0438\u043d \u043e \u043c\u0443\u0437\u044b\u043a\u0435 \u0438 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e",
       "channel_id": "UClyMVv1MoktLQP-QHLMfM8g",
       "thumbnail_url": "https://i.ytimg.com/vi/SFwdU34Ng2Q/hqdefault.jpg"
+    },
+    {
+      "video_id": "aV4wkkvySGA",
+      "title": "Useless (as Dinosaur Jr.) - Live at Bottlerocket - Pittsburgh, PA - 10-31-2026 (FULL SHOW)",
+      "description": "",
+      "published_at": "2026-11-02T17:08:56Z",
+      "channel_title": "Plankfan",
+      "channel_id": "UC9WLEFXZmaohzgFsjUqWtHg",
+      "thumbnail_url": "https://i.ytimg.com/vi/aV4wkkvySGA/hqdefault.jpg"
     },
     {
       "video_id": "VI64E4wSKLQ",
@@ -1253,7 +1244,7 @@
       "title": "No One&#39;s Ready",
       "description": "Provided to YouTube by BWSCD Inc No One's Ready \u00b7 Dinosaur Jr. There Near \u2117 2026 Jagjaguwar Released on: 2026-08-28 ...",
       "published_at": "2026-07-01T10:02:49Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/rXLWcau8Pf8/hqdefault.jpg"
     },
@@ -1613,7 +1604,7 @@
       "title": "Take A Run At The Sun (2019 Remaster)",
       "description": "Provided to YouTube by Cherry Red Records Take A Run At The Sun (2019 Remaster) \u00b7 Dinosaur Jr. Hand It Over \u2117 1997 Cherry ...",
       "published_at": "2025-06-12T10:01:14Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/gnDyHOlKhUc/hqdefault.jpg"
     },
@@ -1847,7 +1838,7 @@
       "title": "Turnip Farm (2019 Remaster)",
       "description": "Provided to YouTube by Cherry Red Records Turnip Farm (2019 Remaster) \u00b7 Dinosaur Jr. Where You Been \u2117 1992 Cherry Red ...",
       "published_at": "2024-09-05T10:00:44Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/hZcbMZz1ato/hqdefault.jpg"
     },
@@ -1856,7 +1847,7 @@
       "title": "Start Choppin (2019 Remaster)",
       "description": "Provided to YouTube by Cherry Red Records Start Choppin (2019 Remaster) \u00b7 Dinosaur Jr. Where You Been \u2117 1992 Cherry Red ...",
       "published_at": "2024-09-05T10:00:41Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/bvFkoJfk2jc/hqdefault.jpg"
     },
@@ -1874,7 +1865,7 @@
       "title": "Drawerings",
       "description": "Provided to YouTube by Cherry Red Records Drawerings \u00b7 Dinosaur Jr Where You Been \u2117 1993 Warner Music UK Ltd Producer: ...",
       "published_at": "2024-08-29T13:01:50Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/P5duUjGP_us/hqdefault.jpg"
     },
@@ -1883,7 +1874,7 @@
       "title": "Not the Same",
       "description": "Provided to YouTube by Cherry Red Records Not the Same \u00b7 Dinosaur Jr Where You Been \u2117 1993 Warner Music UK Ltd ...",
       "published_at": "2024-08-29T13:01:50Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/Erk_Ss-iAn0/hqdefault.jpg"
     },
@@ -1901,7 +1892,7 @@
       "title": "What Else Is New?",
       "description": "Provided to YouTube by Cherry Red Records What Else Is New? \u00b7 Dinosaur Jr Where You Been \u2117 1993 Warner Music UK Ltd ...",
       "published_at": "2024-08-29T13:01:50Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/aQb85Jvjrjc/hqdefault.jpg"
     },
@@ -1928,7 +1919,7 @@
       "title": "Over Your Shoulder",
       "description": "Provided to YouTube by Cherry Red Records Over Your Shoulder \u00b7 Dinosaur Jr Without a Sound \u2117 1994 Warner Music UK Ltd ...",
       "published_at": "2024-08-29T12:59:18Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/bJIeK0P9VLo/hqdefault.jpg"
     },
@@ -1937,7 +1928,7 @@
       "title": "Puke and Cry",
       "description": "Provided to YouTube by Cherry Red Records Puke and Cry \u00b7 Dinosaur Jr. Green Mind \u2117 1991 Warner Music UK Ltd Producer: J.",
       "published_at": "2024-08-29T12:57:57Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/zEgspxXa8d8/hqdefault.jpg"
     },
@@ -1946,7 +1937,7 @@
       "title": "Thumb",
       "description": "Provided to YouTube by Cherry Red Records Thumb \u00b7 Dinosaur Jr. Green Mind \u2117 1991 Warner Music UK Ltd Producer: J. Mascis ...",
       "published_at": "2024-08-29T12:57:57Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/Es8elGpszxI/hqdefault.jpg"
     },
@@ -1955,7 +1946,7 @@
       "title": "Muck",
       "description": "Provided to YouTube by Cherry Red Records Muck \u00b7 Dinosaur Jr. Green Mind \u2117 1991 Warner Music UK Ltd Producer: J. Mascis ...",
       "published_at": "2024-08-29T12:57:57Z",
-      "channel_title": "Dinosaur Jr. - Topic",
+      "channel_title": "Dinosaur Jr - Topic",
       "channel_id": "UCIhZQ-Z3wMKtMVJ7k9gc-gA",
       "thumbnail_url": "https://i.ytimg.com/vi/aCI3OX7Zv4w/hqdefault.jpg"
     },
@@ -2705,6 +2696,15 @@
       "channel_title": "Let's Play All",
       "channel_id": "UCSRHRTHzLmrXzkFXRF5KQFQ",
       "thumbnail_url": "https://i.ytimg.com/vi/agoqLUm7AIM/hqdefault.jpg"
+    },
+    {
+      "video_id": "40HpVExgx2Y",
+      "title": "Kracked - Dinosaur Jr. lesson",
+      "description": "",
+      "published_at": "2022-02-27T04:06:18Z",
+      "channel_title": "Blaine Bauman",
+      "channel_id": "UCPC2RMA2E4NYoB6k13rIutw",
+      "thumbnail_url": "https://i.ytimg.com/vi/40HpVExgx2Y/hqdefault.jpg"
     }
   ]
 }
